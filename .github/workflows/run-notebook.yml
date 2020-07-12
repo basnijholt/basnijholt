@@ -1,3 +1,7 @@
+name: generate README
+
+on: [push]
+
 jobs:
   example-1:
     name: Run notebook
