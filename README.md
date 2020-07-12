@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 
-# My top 20
-<details><summary> <h2>in terms of GitHub stars ⭐️</h2>
+# GitHub statistics --- my top 20
 
+## number of GitHub stars ⭐️
 1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 611 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 324 ⭐️s
 3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 261 ⭐️s
 4. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 107 ⭐️s
 5. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 43 ⭐️s
-</summary>
+<details><summary>Click to expand!</summary>
 
 6. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 10 ⭐️s
 7. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 9 ⭐️s
@@ -31,13 +31,15 @@
 
 
 
-# My top 20 repos in terms of commits :octocat:
+## number of commits :octocat:
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 985 commits :octocat:
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 976 commits :octocat:
 3. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 490 commits :octocat:
 4. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 450 commits :octocat:
 5. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 245 commits :octocat:
+<details><summary>Click to expand!</summary>
+
 6. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 211 commits :octocat:
 7. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
 8. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
@@ -54,6 +56,7 @@
 19. [basnijholt/yaml2bib](https://github.com/basnijholt/yaml2bib/), 56 commits :octocat:
 20. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 53 commits :octocat:
 
+</details>
 
 
 <!--
