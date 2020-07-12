@@ -12,6 +12,11 @@ jobs:
         with:
           auto-update-conda: true
           python-version: 3.8
-      - name: Conda info
+      - name: Create conda env
         shell: bash -l {0}
         run: conda env create -f environment.yml
+      - name: Run notebook
+        shell: bash -l {0}
+        run: |
+          conda activate basnijholt
+          jupyter-nbconvert --execute --inplace update-readme.ipynb
