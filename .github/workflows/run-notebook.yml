@@ -1,6 +1,12 @@
 name: generate README
 
-on: [push]
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 12 * * *'  # Every day at 12:00
+
 
 jobs:
   example-1:
