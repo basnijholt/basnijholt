@@ -7,7 +7,7 @@ I am Bas. Here I present some statistics about my activity on GitHub. For more i
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2020-07-12 14:32:46.040799.
+Last updated at 2020-07-12 14:45:01.868034.
 
 # GitHub statistics — my top 20
 
@@ -38,7 +38,7 @@ Last updated at 2020-07-12 14:32:46.040799.
 
 </details>
 
-![](stars_over_time.png)
+![](https://github.com/basnijholt/basnijholt/raw/master/stars_over_time.png)
 
 ## number of commits :octocat:
 
