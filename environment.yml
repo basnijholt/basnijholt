@@ -1,0 +1,13 @@
+name: basnijholt
+
+channels:
+- conda-forge
+
+dependencies:
+  - python=3.8
+  - tqdm
+  - matplotlib
+  - jinja2
+  - notebook
+  - pip:
+    - PyGithub
