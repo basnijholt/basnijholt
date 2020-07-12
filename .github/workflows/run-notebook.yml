@@ -16,6 +16,9 @@ jobs:
       TOKEN: ${{ secrets.TOKEN }}
     steps:
       - uses: actions/checkout@v1
+        with:
+          persist-credentials: false
+          fetch-depth: 0
       - uses: goanpeca/setup-miniconda@v1
         with:
           auto-update-conda: true
