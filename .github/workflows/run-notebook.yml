@@ -12,6 +12,8 @@ jobs:
   example-1:
     name: Run notebook
     runs-on: ubuntu-latest
+    env:
+      TOKEN: ${{ secrets.TOKEN }}
     steps:
       - uses: actions/checkout@v1
       - uses: goanpeca/setup-miniconda@v1
