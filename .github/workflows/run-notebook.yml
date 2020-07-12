@@ -27,7 +27,7 @@ jobs:
         shell: bash -l {0}
         run: |
           conda activate basnijholt
-          jupyter-nbconvert --execute --inplace update-readme.ipynb
+          jupyter-nbconvert --execute --inplace --ExecutePreprocessor.timeout=600 update-readme.ipynb
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
