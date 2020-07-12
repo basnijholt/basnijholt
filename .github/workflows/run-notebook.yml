@@ -1,0 +1,12 @@
+jobs:
+  example-1:
+    name: Run notebook
+    runs-on: ubuntu-latest
+    steps:
+      - uses: goanpeca/setup-miniconda@v1
+        with:
+          auto-update-conda: true
+          python-version: 3.8
+      - name: Conda info
+        shell: bash -l {0}
+        run: conda env create -f environment.yml
