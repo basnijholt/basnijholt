@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-# My top 20 repos in terms of GitHub stars ⭐️
-<details><summary>
+# My top 20
+<details><summary> <h2>in terms of GitHub stars ⭐️</h2>
 
 1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 611 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 324 ⭐️s
