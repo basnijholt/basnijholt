@@ -23,6 +23,9 @@ jobs:
       - name: Create conda env
         shell: bash -l {0}
         run: conda env create -f environment.yml
+      - name: Activate ipynb_filter
+        shell: bash -l {0}
+        run: python ipynb_filter.py
       - name: Run notebook
         shell: bash -l {0}
         run: |
