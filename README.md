@@ -7,7 +7,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2020-07-13 10:23:19.875951.
+Last updated at 2020-07-13 23:07:41.058269.
 
 # GitHub statistics — my top 20
 
@@ -22,7 +22,7 @@ Last updated at 2020-07-13 10:23:19.875951.
 
 6. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 66 ⭐️s
 7. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 43 ⭐️s
-8. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 41 ⭐️s
+8. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 42 ⭐️s
 9. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 10 ⭐️s
 10. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 9 ⭐️s
 11. [basnijholt/iOSMessageExport](https://github.com/basnijholt/iOSMessageExport/), 9 ⭐️s
@@ -66,3 +66,8 @@ Last updated at 2020-07-13 10:23:19.875951.
 20. [basnijholt/yaml2bib](https://github.com/basnijholt/yaml2bib/), 56 commits :octocat:
 
 </details>
+
+![](https://github.com/basnijholt/basnijholt/raw/master/commits_per_hour.png)
+
+![](https://github.com/basnijholt/basnijholt/raw/master/commits_per_weekday.png)
+
