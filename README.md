@@ -1,20 +1,20 @@
 ### Welcome to my profile 👋
 
-I am Bas. Here I present some statistics about my activity on GitHub. For more info check out my website [www.nijho.lt](http://nijho.lt/).
+I am Bas. Here I present some (automatically generated) statistics about my activity on GitHub. For more info check out my website [www.nijho.lt](http://nijho.lt/).
 
 ![](https://www.nijho.lt/authors/admin/avatar_hu9e60e4b9bc120dfb6a666009f2878da6_182107_250x250_fill_q90_lanczos_center.jpg)
 
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2020-07-12 15:23:46.306961.
+Last updated at 2020-07-13 10:23:19.875951.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 611 ⭐️s
-2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 324 ⭐️s
+1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 612 ⭐️s
+2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 326 ⭐️s
 3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 261 ⭐️s
 4. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 142 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 107 ⭐️s
