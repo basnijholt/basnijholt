@@ -12,10 +12,8 @@ jobs:
   example-1:
     name: Run notebook
     runs-on: ubuntu-latest
-    env:
-      TOKEN: ${{ secrets.TOKEN }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@master
         with:
           persist-credentials: false
           fetch-depth: 0
@@ -31,6 +29,8 @@ jobs:
         run: |
           conda activate basnijholt
           jupyter-nbconvert --execute --inplace --ExecutePreprocessor.timeout=600 update-readme.ipynb
+        env:
+         TOKEN: ${{ secrets.TOKEN }}
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
