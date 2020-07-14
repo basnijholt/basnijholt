@@ -3,10 +3,13 @@ name: generate README
 on:
   schedule:
     - cron: '0 12 * * *'  # Every day at 12:00
-
+  push:
+    branches:
+      - master
 
 jobs:
   example-1:
+    if: "!contains(github.event.commits[0].message, '[skip ci]')"
     name: Run notebook
     runs-on: ubuntu-latest
     env:
@@ -33,7 +36,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -m "Add changes" -a
+          git commit -m "Add changes [skip ci]" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
