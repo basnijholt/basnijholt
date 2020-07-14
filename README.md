@@ -7,7 +7,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2020-07-13 23:07:41.058269.
+Last updated at 2020-07-14 12:25:12.924451.
 
 # GitHub statistics — my top 20
 
@@ -17,10 +17,10 @@ Last updated at 2020-07-13 23:07:41.058269.
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 326 ⭐️s
 3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 261 ⭐️s
 4. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 142 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 107 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 108 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 66 ⭐️s
+6. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 67 ⭐️s
 7. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 43 ⭐️s
 8. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 42 ⭐️s
 9. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 10 ⭐️s
@@ -63,7 +63,7 @@ Last updated at 2020-07-13 23:07:41.058269.
 17. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 71 commits :octocat:
 18. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 65 commits :octocat:
 19. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 63 commits :octocat:
-20. [basnijholt/yaml2bib](https://github.com/basnijholt/yaml2bib/), 56 commits :octocat:
+20. [basnijholt/yaml2bib](https://github.com/basnijholt/yaml2bib/), 57 commits :octocat:
 
 </details>
 
