@@ -7,14 +7,14 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2020-07-14 12:25:12.924451.
+Last updated at 2020-07-15 12:13:24.141498.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 612 ⭐️s
-2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 326 ⭐️s
+1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 613 ⭐️s
+2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 327 ⭐️s
 3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 261 ⭐️s
 4. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 142 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 108 ⭐️s
@@ -54,7 +54,7 @@ Last updated at 2020-07-14 12:25:12.924451.
 8. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
 9. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
 10. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 189 commits :octocat:
-11. [home-assistant/core](https://github.com/home-assistant/core/), 173 commits :octocat:
+11. [home-assistant/core](https://github.com/home-assistant/core/), 174 commits :octocat:
 12. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 156 commits :octocat:
 13. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 151 commits :octocat:
 14. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 138 commits :octocat:
