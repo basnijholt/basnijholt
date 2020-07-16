@@ -7,7 +7,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2020-07-15 12:13:24.141498.
+Last updated at 2020-07-16 12:13:48.070550.
 
 # GitHub statistics — my top 20
 
@@ -21,7 +21,7 @@ Last updated at 2020-07-15 12:13:24.141498.
 <details><summary>Click to expand!</summary>
 
 6. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 67 ⭐️s
-7. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 43 ⭐️s
+7. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 44 ⭐️s
 8. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 42 ⭐️s
 9. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 10 ⭐️s
 10. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 9 ⭐️s
