@@ -7,7 +7,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2020-07-16 12:13:48.070550.
+Last updated at 2020-07-17 12:14:53.288477.
 
 # GitHub statistics — my top 20
 
@@ -17,14 +17,14 @@ Last updated at 2020-07-16 12:13:48.070550.
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 327 ⭐️s
 3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 261 ⭐️s
 4. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 142 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 108 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 109 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 67 ⭐️s
+6. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 68 ⭐️s
 7. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 44 ⭐️s
 8. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 42 ⭐️s
-9. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 10 ⭐️s
-10. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 9 ⭐️s
+9. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 10 ⭐️s
+10. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 10 ⭐️s
 11. [basnijholt/iOSMessageExport](https://github.com/basnijholt/iOSMessageExport/), 9 ⭐️s
 12. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 8 ⭐️s
 13. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 8 ⭐️s
@@ -50,7 +50,7 @@ Last updated at 2020-07-16 12:13:48.070550.
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 245 commits :octocat:
-7. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 211 commits :octocat:
+7. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 212 commits :octocat:
 8. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
 9. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
 10. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 189 commits :octocat:
