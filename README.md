@@ -7,13 +7,13 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2020-08-04 12:15:27.203378.
+Last updated at 2020-08-05 12:15:19.087772.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 616 ⭐️s
+1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 617 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 333 ⭐️s
 3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 263 ⭐️s
 4. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 142 ⭐️s
@@ -25,9 +25,9 @@ Last updated at 2020-08-04 12:15:27.203378.
 8. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 42 ⭐️s
 9. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 10 ⭐️s
 10. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 10 ⭐️s
-11. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 9 ⭐️s
-12. [basnijholt/iOSMessageExport](https://github.com/basnijholt/iOSMessageExport/), 9 ⭐️s
-13. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 8 ⭐️s
+11. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 9 ⭐️s
+12. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 9 ⭐️s
+13. [basnijholt/iOSMessageExport](https://github.com/basnijholt/iOSMessageExport/), 9 ⭐️s
 14. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 6 ⭐️s
 15. [basnijholt/ipynb_git_filters](https://github.com/basnijholt/ipynb_git_filters/), 5 ⭐️s
 16. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 5 ⭐️s
@@ -42,7 +42,7 @@ Last updated at 2020-08-04 12:15:27.203378.
 
 ## number of commits :octocat:
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 992 commits :octocat:
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 994 commits :octocat:
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 976 commits :octocat:
 3. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 490 commits :octocat:
 4. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 450 commits :octocat:
