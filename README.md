@@ -7,14 +7,14 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2020-08-08 12:15:52.250751.
+Last updated at 2020-08-09 12:15:37.808359.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 622 ⭐️s
-2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 333 ⭐️s
+1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 621 ⭐️s
+2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 334 ⭐️s
 3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 264 ⭐️s
 4. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 143 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 114 ⭐️s
@@ -42,7 +42,7 @@ Last updated at 2020-08-08 12:15:52.250751.
 
 ## number of commits :octocat:
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 994 commits :octocat:
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 997 commits :octocat:
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 987 commits :octocat:
 3. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 490 commits :octocat:
 4. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 450 commits :octocat:
@@ -54,7 +54,7 @@ Last updated at 2020-08-08 12:15:52.250751.
 8. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
 9. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
 10. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 189 commits :octocat:
-11. [home-assistant/core](https://github.com/home-assistant/core/), 176 commits :octocat:
+11. [home-assistant/core](https://github.com/home-assistant/core/), 178 commits :octocat:
 12. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 156 commits :octocat:
 13. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 151 commits :octocat:
 14. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 138 commits :octocat:
