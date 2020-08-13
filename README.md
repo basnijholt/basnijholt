@@ -7,20 +7,20 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2020-08-12 12:15:47.488979.
+Last updated at 2020-08-13 12:15:43.057839.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 622 ⭐️s
+1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 623 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 335 ⭐️s
-3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 266 ⭐️s
-4. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 143 ⭐️s
+3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 267 ⭐️s
+4. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 144 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 114 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 79 ⭐️s
+6. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 80 ⭐️s
 7. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 44 ⭐️s
 8. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 42 ⭐️s
 9. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 10 ⭐️s
@@ -33,8 +33,8 @@ Last updated at 2020-08-12 12:15:47.488979.
 16. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 5 ⭐️s
 17. [basnijholt/molecular-dynamics-Python](https://github.com/basnijholt/molecular-dynamics-Python/), 5 ⭐️s
 18. [basnijholt/orbitalfield](https://github.com/basnijholt/orbitalfield/), 5 ⭐️s
-19. [basnijholt/psychedelic-data-science](https://github.com/basnijholt/psychedelic-data-science/), 4 ⭐️s
-20. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 4 ⭐️s
+19. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 5 ⭐️s
+20. [basnijholt/psychedelic-data-science](https://github.com/basnijholt/psychedelic-data-science/), 4 ⭐️s
 
 </details>
 
@@ -42,7 +42,7 @@ Last updated at 2020-08-12 12:15:47.488979.
 
 ## number of commits :octocat:
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 998 commits :octocat:
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1007 commits :octocat:
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 987 commits :octocat:
 3. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 490 commits :octocat:
 4. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 450 commits :octocat:
