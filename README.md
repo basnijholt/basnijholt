@@ -7,7 +7,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2020-08-15 12:15:37.845256.
+Last updated at 2020-08-16 12:15:27.249558.
 
 # GitHub statistics — my top 20
 
@@ -20,17 +20,17 @@ Last updated at 2020-08-15 12:15:37.845256.
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 116 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 81 ⭐️s
+6. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 84 ⭐️s
 7. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 44 ⭐️s
-8. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 42 ⭐️s
+8. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 43 ⭐️s
 9. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 11 ⭐️s
 10. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 10 ⭐️s
 11. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 9 ⭐️s
 12. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 9 ⭐️s
 13. [basnijholt/iOSMessageExport](https://github.com/basnijholt/iOSMessageExport/), 9 ⭐️s
-14. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 6 ⭐️s
-15. [basnijholt/ipynb_git_filters](https://github.com/basnijholt/ipynb_git_filters/), 5 ⭐️s
-16. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 5 ⭐️s
+14. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 6 ⭐️s
+15. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 6 ⭐️s
+16. [basnijholt/ipynb_git_filters](https://github.com/basnijholt/ipynb_git_filters/), 5 ⭐️s
 17. [basnijholt/molecular-dynamics-Python](https://github.com/basnijholt/molecular-dynamics-Python/), 5 ⭐️s
 18. [basnijholt/orbitalfield](https://github.com/basnijholt/orbitalfield/), 5 ⭐️s
 19. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 5 ⭐️s
