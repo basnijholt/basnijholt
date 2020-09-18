@@ -7,7 +7,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2020-09-17 12:18:27.060155.
+Last updated at 2020-09-18 12:24:35.418014.
 
 # GitHub statistics — my top 20
 
@@ -21,7 +21,7 @@ Last updated at 2020-09-17 12:18:27.060155.
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 125 ⭐️s
-7. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 94 ⭐️s
+7. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 95 ⭐️s
 8. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 48 ⭐️s
 9. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 44 ⭐️s
 10. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 13 ⭐️s
@@ -42,8 +42,8 @@ Last updated at 2020-09-17 12:18:27.060155.
 
 ## number of commits :octocat:
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1220 commits :octocat:
-2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 989 commits :octocat:
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1222 commits :octocat:
+2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 997 commits :octocat:
 3. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 520 commits :octocat:
 4. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 452 commits :octocat:
 5. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 304 commits :octocat:
@@ -61,9 +61,9 @@ Last updated at 2020-09-17 12:18:27.060155.
 15. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
 16. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 114 commits :octocat:
 17. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 71 commits :octocat:
-18. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 65 commits :octocat:
-19. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 63 commits :octocat:
-20. [basnijholt/yaml2bib](https://github.com/basnijholt/yaml2bib/), 57 commits :octocat:
+18. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 66 commits :octocat:
+19. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 65 commits :octocat:
+20. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 63 commits :octocat:
 
 </details>
 
