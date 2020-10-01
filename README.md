@@ -7,13 +7,13 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2020-09-30 12:19:08.247915.
+Last updated at 2020-10-01 12:19:07.010172.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 695 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 703 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 631 ⭐️s
 3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 273 ⭐️s
 4. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 268 ⭐️s
@@ -21,7 +21,7 @@ Last updated at 2020-09-30 12:19:08.247915.
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 130 ⭐️s
-7. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 104 ⭐️s
+7. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 105 ⭐️s
 8. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 50 ⭐️s
 9. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 44 ⭐️s
 10. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 13 ⭐️s
@@ -42,7 +42,7 @@ Last updated at 2020-09-30 12:19:08.247915.
 
 ## number of commits :octocat:
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1271 commits :octocat:
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1273 commits :octocat:
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 997 commits :octocat:
 3. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 527 commits :octocat:
 4. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 452 commits :octocat:
@@ -54,16 +54,16 @@ Last updated at 2020-09-30 12:19:08.247915.
 8. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
 9. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
 10. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 189 commits :octocat:
-11. [home-assistant/core](https://github.com/home-assistant/core/), 183 commits :octocat:
-12. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 156 commits :octocat:
+11. [home-assistant/core](https://github.com/home-assistant/core/), 185 commits :octocat:
+12. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 157 commits :octocat:
 13. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
-14. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 139 commits :octocat:
+14. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 140 commits :octocat:
 15. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
 16. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 114 commits :octocat:
 17. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
 18. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 71 commits :octocat:
-19. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 65 commits :octocat:
-20. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 63 commits :octocat:
+19. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 68 commits :octocat:
+20. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 65 commits :octocat:
 
 </details>
 
