@@ -7,7 +7,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2020-10-15 12:21:57.951708.
+Last updated at 2020-10-16 12:27:52.876925.
 
 # GitHub statistics — my top 20
 
@@ -20,11 +20,11 @@ Last updated at 2020-10-15 12:21:57.951708.
 5. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 148 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 134 ⭐️s
-7. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 115 ⭐️s
+6. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 135 ⭐️s
+7. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 116 ⭐️s
 8. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 50 ⭐️s
 9. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 44 ⭐️s
-10. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 27 ⭐️s
+10. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 30 ⭐️s
 11. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 13 ⭐️s
 12. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 12 ⭐️s
 13. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 11 ⭐️s
@@ -55,12 +55,12 @@ Last updated at 2020-10-15 12:21:57.951708.
 9. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
 10. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
 11. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 189 commits :octocat:
-12. [home-assistant/core](https://github.com/home-assistant/core/), 186 commits :octocat:
+12. [home-assistant/core](https://github.com/home-assistant/core/), 187 commits :octocat:
 13. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 157 commits :octocat:
 14. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
 15. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 143 commits :octocat:
-16. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 115 commits :octocat:
-17. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
+16. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
+17. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 115 commits :octocat:
 18. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
 19. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 71 commits :octocat:
 20. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 69 commits :octocat:
