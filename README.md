@@ -7,13 +7,13 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2020-10-16 12:27:52.876925.
+Last updated at 2020-10-17 12:20:20.228344.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 718 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 719 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 632 ⭐️s
 3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 275 ⭐️s
 4. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 272 ⭐️s
@@ -24,7 +24,7 @@ Last updated at 2020-10-16 12:27:52.876925.
 7. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 116 ⭐️s
 8. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 50 ⭐️s
 9. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 44 ⭐️s
-10. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 30 ⭐️s
+10. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 33 ⭐️s
 11. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 13 ⭐️s
 12. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 12 ⭐️s
 13. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 11 ⭐️s
@@ -50,7 +50,7 @@ Last updated at 2020-10-16 12:27:52.876925.
 <details><summary>Click to expand!</summary>
 
 6. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 304 commits :octocat:
-7. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 264 commits :octocat:
+7. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 265 commits :octocat:
 8. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 228 commits :octocat:
 9. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
 10. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
