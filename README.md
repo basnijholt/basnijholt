@@ -7,14 +7,14 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2020-10-25 12:21:13.007240.
+Last updated at 2020-10-26 12:22:51.609733.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 796 ⭐️s
-2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 633 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 797 ⭐️s
+2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 634 ⭐️s
 3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 277 ⭐️s
 4. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 272 ⭐️s
 5. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 149 ⭐️s
@@ -31,10 +31,10 @@ Last updated at 2020-10-25 12:21:13.007240.
 14. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 9 ⭐️s
 15. [basnijholt/iOSMessageExport](https://github.com/basnijholt/iOSMessageExport/), 9 ⭐️s
 16. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 6 ⭐️s
-17. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 6 ⭐️s
-18. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 5 ⭐️s
-19. [basnijholt/ipynb_git_filters](https://github.com/basnijholt/ipynb_git_filters/), 5 ⭐️s
-20. [basnijholt/molecular-dynamics-Python](https://github.com/basnijholt/molecular-dynamics-Python/), 5 ⭐️s
+17. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 6 ⭐️s
+18. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 6 ⭐️s
+19. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 5 ⭐️s
+20. [basnijholt/ipynb_git_filters](https://github.com/basnijholt/ipynb_git_filters/), 5 ⭐️s
 
 </details>
 
@@ -42,7 +42,7 @@ Last updated at 2020-10-25 12:21:13.007240.
 
 ## number of commits :octocat:
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1403 commits :octocat:
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1409 commits :octocat:
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 997 commits :octocat:
 3. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 530 commits :octocat:
 4. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 452 commits :octocat:
