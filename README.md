@@ -7,14 +7,14 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2020-10-26 12:22:51.609733.
+Last updated at 2020-10-27 12:22:59.172809.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 797 ⭐️s
-2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 634 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 800 ⭐️s
+2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 636 ⭐️s
 3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 277 ⭐️s
 4. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 272 ⭐️s
 5. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 149 ⭐️s
@@ -54,8 +54,8 @@ Last updated at 2020-10-26 12:22:51.609733.
 8. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 228 commits :octocat:
 9. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
 10. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
-11. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 189 commits :octocat:
-12. [home-assistant/core](https://github.com/home-assistant/core/), 189 commits :octocat:
+11. [home-assistant/core](https://github.com/home-assistant/core/), 189 commits :octocat:
+12. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 189 commits :octocat:
 13. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 157 commits :octocat:
 14. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
 15. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 143 commits :octocat:
