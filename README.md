@@ -7,24 +7,24 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2020-10-27 12:22:59.172809.
+Last updated at 2020-10-29 12:23:47.563788.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 800 ⭐️s
-2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 636 ⭐️s
-3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 277 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 801 ⭐️s
+2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 637 ⭐️s
+3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 278 ⭐️s
 4. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 272 ⭐️s
-5. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 149 ⭐️s
+5. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 150 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 142 ⭐️s
-7. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 123 ⭐️s
+7. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 124 ⭐️s
 8. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 52 ⭐️s
 9. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 44 ⭐️s
-10. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 41 ⭐️s
+10. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 42 ⭐️s
 11. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 13 ⭐️s
 12. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 13 ⭐️s
 13. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 11 ⭐️s
@@ -42,15 +42,15 @@ Last updated at 2020-10-27 12:22:59.172809.
 
 ## number of commits :octocat:
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1409 commits :octocat:
-2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 997 commits :octocat:
-3. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 530 commits :octocat:
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1422 commits :octocat:
+2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1003 commits :octocat:
+3. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 532 commits :octocat:
 4. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 452 commits :octocat:
 5. [basnijholt/zigzag-majoranas](https://github.com/basnijholt/zigzag-majoranas/), 413 commits :octocat:
 <details><summary>Click to expand!</summary>
 
 6. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 304 commits :octocat:
-7. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 265 commits :octocat:
+7. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 267 commits :octocat:
 8. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 228 commits :octocat:
 9. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
 10. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
