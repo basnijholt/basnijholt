@@ -7,33 +7,33 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2020-10-31 12:15:39.179721.
+Last updated at 2020-11-01 12:17:53.962731.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 804 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 805 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 637 ⭐️s
-3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 278 ⭐️s
+3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 280 ⭐️s
 4. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 273 ⭐️s
 5. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 150 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 143 ⭐️s
-7. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 124 ⭐️s
+7. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 126 ⭐️s
 8. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 52 ⭐️s
-9. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 44 ⭐️s
-10. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 43 ⭐️s
+9. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 44 ⭐️s
+10. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 44 ⭐️s
 11. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 13 ⭐️s
 12. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 13 ⭐️s
 13. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 11 ⭐️s
 14. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 9 ⭐️s
 15. [basnijholt/iOSMessageExport](https://github.com/basnijholt/iOSMessageExport/), 9 ⭐️s
-16. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 6 ⭐️s
-17. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 6 ⭐️s
-18. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 6 ⭐️s
-19. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 5 ⭐️s
+16. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 6 ⭐️s
+17. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 6 ⭐️s
+18. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 6 ⭐️s
+19. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 6 ⭐️s
 20. [basnijholt/ipynb_git_filters](https://github.com/basnijholt/ipynb_git_filters/), 5 ⭐️s
 
 </details>
