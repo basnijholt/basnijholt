@@ -7,13 +7,13 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2020-12-15 12:25:42.897866.
+Last updated at 2020-12-16 12:21:33.371905.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 849 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 852 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 640 ⭐️s
 3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 285 ⭐️s
 4. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 281 ⭐️s
@@ -27,7 +27,7 @@ Last updated at 2020-12-15 12:25:42.897866.
 10. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 44 ⭐️s
 11. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 14 ⭐️s
 12. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 14 ⭐️s
-13. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 12 ⭐️s
+13. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 13 ⭐️s
 14. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 9 ⭐️s
 15. [basnijholt/iOSMessageExport](https://github.com/basnijholt/iOSMessageExport/), 9 ⭐️s
 16. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 8 ⭐️s
