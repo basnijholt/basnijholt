@@ -7,13 +7,13 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2020-12-29 12:23:40.696543.
+Last updated at 2020-12-30 12:23:21.145640.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 867 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 868 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 641 ⭐️s
 3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 285 ⭐️s
 4. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 284 ⭐️s
@@ -22,7 +22,7 @@ Last updated at 2020-12-29 12:23:40.696543.
 
 6. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 165 ⭐️s
 7. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 156 ⭐️s
-8. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 91 ⭐️s
+8. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 92 ⭐️s
 9. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 59 ⭐️s
 10. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 45 ⭐️s
 11. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 15 ⭐️s
@@ -42,7 +42,7 @@ Last updated at 2020-12-29 12:23:40.696543.
 
 ## number of commits :octocat:
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1477 commits :octocat:
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1479 commits :octocat:
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1003 commits :octocat:
 3. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 532 commits :octocat:
 4. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 452 commits :octocat:
