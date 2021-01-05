@@ -7,7 +7,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2021-01-04 12:25:51.483835.
+Last updated at 2021-01-05 12:29:51.860539.
 
 # GitHub statistics — my top 20
 
@@ -22,7 +22,7 @@ Last updated at 2021-01-04 12:25:51.483835.
 
 6. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 167 ⭐️s
 7. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 157 ⭐️s
-8. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 97 ⭐️s
+8. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 98 ⭐️s
 9. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 59 ⭐️s
 10. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 45 ⭐️s
 11. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 15 ⭐️s
@@ -31,7 +31,7 @@ Last updated at 2021-01-04 12:25:51.483835.
 14. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 9 ⭐️s
 15. [basnijholt/iOSMessageExport](https://github.com/basnijholt/iOSMessageExport/), 9 ⭐️s
 16. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 8 ⭐️s
-17. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 6 ⭐️s
+17. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 7 ⭐️s
 18. [basnijholt/molecular-dynamics-Python](https://github.com/basnijholt/molecular-dynamics-Python/), 6 ⭐️s
 19. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 6 ⭐️s
 20. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 6 ⭐️s
