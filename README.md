@@ -7,7 +7,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2021-01-05 12:29:51.860539.
+Last updated at 2021-01-06 12:25:48.742275.
 
 # GitHub statistics — my top 20
 
