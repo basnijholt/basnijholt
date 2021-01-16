@@ -7,7 +7,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2021-01-15 12:39:55.201132.
+Last updated at 2021-01-16 12:38:53.992098.
 
 # GitHub statistics — my top 20
 
@@ -16,17 +16,17 @@ Last updated at 2021-01-15 12:39:55.201132.
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 883 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 642 ⭐️s
 3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 286 ⭐️s
-4. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 284 ⭐️s
-5. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 192 ⭐️s
+4. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 285 ⭐️s
+5. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 193 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 172 ⭐️s
+6. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 173 ⭐️s
 7. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 160 ⭐️s
-8. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 107 ⭐️s
+8. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 108 ⭐️s
 9. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 59 ⭐️s
 10. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 47 ⭐️s
 11. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 16 ⭐️s
-12. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 15 ⭐️s
+12. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 16 ⭐️s
 13. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 13 ⭐️s
 14. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 9 ⭐️s
 15. [basnijholt/iOSMessageExport](https://github.com/basnijholt/iOSMessageExport/), 9 ⭐️s
