@@ -7,7 +7,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2021-02-03 12:22:13.044286.
+Last updated at 2021-02-04 12:32:44.669736.
 
 # GitHub statistics — my top 20
 
@@ -17,17 +17,17 @@ Last updated at 2021-02-03 12:22:13.044286.
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 642 ⭐️s
 3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 289 ⭐️s
 4. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 285 ⭐️s
-5. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 208 ⭐️s
+5. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 207 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 176 ⭐️s
 7. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 160 ⭐️s
 8. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 126 ⭐️s
-9. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 61 ⭐️s
+9. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 62 ⭐️s
 10. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 47 ⭐️s
 11. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 16 ⭐️s
 12. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 16 ⭐️s
-13. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 13 ⭐️s
+13. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 14 ⭐️s
 14. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 9 ⭐️s
 15. [basnijholt/iOSMessageExport](https://github.com/basnijholt/iOSMessageExport/), 9 ⭐️s
 16. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 8 ⭐️s
@@ -60,8 +60,8 @@ Last updated at 2021-02-03 12:22:13.044286.
 14. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 157 commits :octocat:
 15. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
 16. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 145 commits :octocat:
-17. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 115 commits :octocat:
-18. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
+17. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
+18. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 115 commits :octocat:
 19. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
 20. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 71 commits :octocat:
 
