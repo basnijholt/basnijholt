@@ -7,22 +7,22 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2021-03-02 12:20:15.786144.
+Last updated at 2021-03-03 12:20:55.552665.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 917 ⭐️s
-2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 643 ⭐️s
+2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 644 ⭐️s
 3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 290 ⭐️s
 4. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 287 ⭐️s
-5. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 231 ⭐️s
+5. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 232 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 183 ⭐️s
 7. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 162 ⭐️s
-8. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 140 ⭐️s
+8. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 141 ⭐️s
 9. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 64 ⭐️s
 10. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 47 ⭐️s
 11. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 17 ⭐️s
@@ -30,7 +30,7 @@ Last updated at 2021-03-02 12:20:15.786144.
 13. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 15 ⭐️s
 14. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 9 ⭐️s
 15. [basnijholt/iOSMessageExport](https://github.com/basnijholt/iOSMessageExport/), 9 ⭐️s
-16. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 8 ⭐️s
+16. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 9 ⭐️s
 17. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 7 ⭐️s
 18. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 7 ⭐️s
 19. [basnijholt/ipynb_git_filters](https://github.com/basnijholt/ipynb_git_filters/), 6 ⭐️s
