@@ -7,7 +7,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2021-03-20 12:24:04.233463.
+Last updated at 2021-03-21 12:26:55.676202.
 
 # GitHub statistics — my top 20
 
@@ -28,7 +28,7 @@ Last updated at 2021-03-20 12:24:04.233463.
 11. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 17 ⭐️s
 12. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 16 ⭐️s
 13. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 15 ⭐️s
-14. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 9 ⭐️s
+14. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 10 ⭐️s
 15. [basnijholt/iOSMessageExport](https://github.com/basnijholt/iOSMessageExport/), 9 ⭐️s
 16. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 9 ⭐️s
 17. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 8 ⭐️s
@@ -60,8 +60,8 @@ Last updated at 2021-03-20 12:24:04.233463.
 14. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 157 commits :octocat:
 15. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
 16. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 145 commits :octocat:
-17. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 115 commits :octocat:
-18. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
+17. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
+18. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 115 commits :octocat:
 19. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
 20. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 71 commits :octocat:
 
