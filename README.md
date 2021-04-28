@@ -7,17 +7,17 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2021-04-27 12:12:30.261823.
+Last updated at 2021-04-28 12:12:00.663153.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 961 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 962 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 654 ⭐️s
-3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 302 ⭐️s
+3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 304 ⭐️s
 4. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 298 ⭐️s
-5. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 268 ⭐️s
+5. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 271 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 194 ⭐️s
@@ -60,10 +60,10 @@ Last updated at 2021-04-27 12:12:30.261823.
 14. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 157 commits :octocat:
 15. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
 16. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 145 commits :octocat:
-17. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 115 commits :octocat:
-18. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
+17. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
+18. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 115 commits :octocat:
 19. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-20. [basnijholt/crypto-tracker](https://github.com/basnijholt/crypto-tracker/), 107 commits :octocat:
+20. [basnijholt/crypto-tracker](https://github.com/basnijholt/crypto-tracker/), 108 commits :octocat:
 
 </details>
 
