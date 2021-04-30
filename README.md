@@ -7,16 +7,16 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2021-04-29 12:10:50.655436.
+Last updated at 2021-04-30 12:10:43.375099.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 963 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 964 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 654 ⭐️s
 3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 304 ⭐️s
-4. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 298 ⭐️s
+4. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 299 ⭐️s
 5. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 271 ⭐️s
 <details><summary>Click to expand!</summary>
 
@@ -42,7 +42,7 @@ Last updated at 2021-04-29 12:10:50.655436.
 
 ## number of commits :octocat:
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1500 commits :octocat:
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1504 commits :octocat:
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1073 commits :octocat:
 3. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 542 commits :octocat:
 4. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 452 commits :octocat:
@@ -51,7 +51,7 @@ Last updated at 2021-04-29 12:10:50.655436.
 
 6. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 304 commits :octocat:
 7. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 267 commits :octocat:
-8. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 252 commits :octocat:
+8. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 254 commits :octocat:
 9. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 228 commits :octocat:
 10. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
 11. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
@@ -60,8 +60,8 @@ Last updated at 2021-04-29 12:10:50.655436.
 14. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 157 commits :octocat:
 15. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
 16. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 145 commits :octocat:
-17. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
-18. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 115 commits :octocat:
+17. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 115 commits :octocat:
+18. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
 19. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
 20. [basnijholt/crypto-tracker](https://github.com/basnijholt/crypto-tracker/), 108 commits :octocat:
 
