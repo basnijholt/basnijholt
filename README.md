@@ -7,15 +7,15 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2021-05-03 12:11:18.223218.
+Last updated at 2021-05-04 12:13:51.769721.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 966 ⭐️s
-2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 655 ⭐️s
-3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 304 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 968 ⭐️s
+2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 656 ⭐️s
+3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 305 ⭐️s
 4. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 299 ⭐️s
 5. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 272 ⭐️s
 <details><summary>Click to expand!</summary>
