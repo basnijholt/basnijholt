@@ -7,7 +7,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2021-05-16 12:12:34.428901.
+Last updated at 2021-05-17 12:10:42.728006.
 
 # GitHub statistics — my top 20
 
@@ -20,7 +20,7 @@ Last updated at 2021-05-16 12:12:34.428901.
 5. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 279 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 201 ⭐️s
+6. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 202 ⭐️s
 7. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 196 ⭐️s
 8. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 165 ⭐️s
 9. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 67 ⭐️s
@@ -44,7 +44,7 @@ Last updated at 2021-05-16 12:12:34.428901.
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1518 commits :octocat:
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1074 commits :octocat:
-3. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 544 commits :octocat:
+3. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 545 commits :octocat:
 4. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 452 commits :octocat:
 5. [basnijholt/zigzag-majoranas](https://github.com/basnijholt/zigzag-majoranas/), 413 commits :octocat:
 <details><summary>Click to expand!</summary>
