@@ -1,5 +1,16 @@
 ### Welcome to my profile 👋
 
+<center>
+  <table>
+    <tr>
+        <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basnijholt&hide=TeX,Jupyter%20Notebook&layout=compact&theme=radical" /></td>
+        <td><img align='right' src="https://github-readme-stats.vercel.app/api?username=basnijholt&show_icons=true&theme=radical" width="380"></td>
+    </tr>
+  </table>
+</center>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=basnijholt.visitor-badge)
+
 I am Bas. Here I present some (automatically generated) statistics about my activity on GitHub. For more info check out my website [www.nijho.lt](http://nijho.lt/).
 
 ![](https://www.nijho.lt/authors/admin/avatar_hu9e60e4b9bc120dfb6a666009f2878da6_182107_250x250_fill_q90_lanczos_center.jpg)
