@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2021-06-10 12:10:47.723387.
+Last updated at 2021-06-11 12:13:58.566100.
 
 # GitHub statistics — my top 20
 
@@ -27,7 +27,7 @@ Last updated at 2021-06-10 12:10:47.723387.
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 999 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 661 ⭐️s
 3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 312 ⭐️s
-4. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 311 ⭐️s
+4. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 312 ⭐️s
 5. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 289 ⭐️s
 <details><summary>Click to expand!</summary>
 
@@ -72,8 +72,8 @@ Last updated at 2021-06-10 12:10:47.723387.
 15. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
 16. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 145 commits :octocat:
 17. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
-18. [basnijholt/crypto-tracker](https://github.com/basnijholt/crypto-tracker/), 115 commits :octocat:
-19. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 115 commits :octocat:
+18. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 115 commits :octocat:
+19. [basnijholt/crypto-tracker](https://github.com/basnijholt/crypto-tracker/), 115 commits :octocat:
 20. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
 
 </details>
