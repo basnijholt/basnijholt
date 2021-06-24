@@ -18,25 +18,25 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2021-06-21 12:11:38.062751.
+Last updated at 2021-06-24 12:11:29.474474.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1005 ⭐️s
-2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 660 ⭐️s
-3. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 315 ⭐️s
-4. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 312 ⭐️s
-5. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 292 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1007 ⭐️s
+2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 661 ⭐️s
+3. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 316 ⭐️s
+4. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 313 ⭐️s
+5. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 297 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 235 ⭐️s
-7. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 208 ⭐️s
+6. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 238 ⭐️s
+7. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 210 ⭐️s
 8. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 167 ⭐️s
 9. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 69 ⭐️s
 10. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 51 ⭐️s
-11. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 20 ⭐️s
+11. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 21 ⭐️s
 12. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 17 ⭐️s
 13. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 16 ⭐️s
 14. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 11 ⭐️s
