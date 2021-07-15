@@ -18,17 +18,17 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2021-07-14 12:10:45.749730.
+Last updated at 2021-07-15 12:10:49.714021.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1016 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1017 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 665 ⭐️s
 3. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 317 ⭐️s
 4. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 314 ⭐️s
-5. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 302 ⭐️s
+5. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 306 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 245 ⭐️s
@@ -53,7 +53,7 @@ Last updated at 2021-07-14 12:10:45.749730.
 
 ## number of commits :octocat:
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1537 commits :octocat:
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1540 commits :octocat:
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1076 commits :octocat:
 3. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 550 commits :octocat:
 4. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 452 commits :octocat:
