@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2021-07-19 12:11:33.048979.
+Last updated at 2021-07-20 12:12:00.908302.
 
 # GitHub statistics — my top 20
 
@@ -28,10 +28,10 @@ Last updated at 2021-07-19 12:11:33.048979.
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 665 ⭐️s
 3. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 317 ⭐️s
 4. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 314 ⭐️s
-5. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 307 ⭐️s
+5. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 309 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 246 ⭐️s
+6. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 248 ⭐️s
 7. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 214 ⭐️s
 8. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 170 ⭐️s
 9. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 69 ⭐️s
@@ -39,7 +39,7 @@ Last updated at 2021-07-19 12:11:33.048979.
 11. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 21 ⭐️s
 12. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 17 ⭐️s
 13. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 16 ⭐️s
-14. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 10 ⭐️s
+14. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 11 ⭐️s
 15. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 9 ⭐️s
 16. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 9 ⭐️s
 17. [basnijholt/iOSMessageExport](https://github.com/basnijholt/iOSMessageExport/), 8 ⭐️s
