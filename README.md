@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2021-09-03 12:12:38.801954.
+Last updated at 2021-09-04 12:10:05.779358.
 
 # GitHub statistics — my top 20
 
@@ -26,12 +26,12 @@ Last updated at 2021-09-03 12:12:38.801954.
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1058 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 674 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 340 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 341 ⭐️s
 4. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 323 ⭐️s
 5. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 322 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 288 ⭐️s
+6. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 289 ⭐️s
 7. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 228 ⭐️s
 8. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 177 ⭐️s
 9. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 72 ⭐️s
@@ -72,8 +72,8 @@ Last updated at 2021-09-03 12:12:38.801954.
 15. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
 16. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 145 commits :octocat:
 17. [basnijholt/crypto-tracker](https://github.com/basnijholt/crypto-tracker/), 136 commits :octocat:
-18. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 115 commits :octocat:
-19. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
+18. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
+19. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 115 commits :octocat:
 20. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
 
 </details>
