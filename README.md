@@ -18,14 +18,14 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2021-09-11 12:11:28.041163.
+Last updated at 2021-09-12 12:09:38.797676.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1062 ⭐️s
-2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 674 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1063 ⭐️s
+2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 675 ⭐️s
 3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 343 ⭐️s
 4. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 324 ⭐️s
 5. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 324 ⭐️s
@@ -43,9 +43,9 @@ Last updated at 2021-09-11 12:11:28.041163.
 15. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 9 ⭐️s
 16. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 9 ⭐️s
 17. [basnijholt/iOSMessageExport](https://github.com/basnijholt/iOSMessageExport/), 8 ⭐️s
-18. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 8 ⭐️s
-19. [basnijholt/ipynb_git_filters](https://github.com/basnijholt/ipynb_git_filters/), 7 ⭐️s
-20. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 7 ⭐️s
+18. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 8 ⭐️s
+19. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 8 ⭐️s
+20. [basnijholt/ipynb_git_filters](https://github.com/basnijholt/ipynb_git_filters/), 7 ⭐️s
 
 </details>
 
@@ -72,8 +72,8 @@ Last updated at 2021-09-11 12:11:28.041163.
 15. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
 16. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 145 commits :octocat:
 17. [basnijholt/crypto-tracker](https://github.com/basnijholt/crypto-tracker/), 138 commits :octocat:
-18. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
-19. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 115 commits :octocat:
+18. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 115 commits :octocat:
+19. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
 20. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
 
 </details>
