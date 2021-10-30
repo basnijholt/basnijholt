@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2021-10-29 12:19:38.299040.
+Last updated at 2021-10-30 12:10:37.248316.
 
 # GitHub statistics — my top 20
 
@@ -45,7 +45,7 @@ Last updated at 2021-10-29 12:19:38.299040.
 17. [basnijholt/iOSMessageExport](https://github.com/basnijholt/iOSMessageExport/), 8 ⭐️s
 18. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 8 ⭐️s
 19. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 8 ⭐️s
-20. [basnijholt/ipynb_git_filters](https://github.com/basnijholt/ipynb_git_filters/), 7 ⭐️s
+20. [basnijholt/crypto-tracker](https://github.com/basnijholt/crypto-tracker/), 7 ⭐️s
 
 </details>
 
@@ -65,11 +65,11 @@ Last updated at 2021-10-29 12:19:38.299040.
 8. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 259 commits :octocat:
 9. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 228 commits :octocat:
 10. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
-11. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
-12. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
+11. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
+12. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
 13. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 189 commits :octocat:
 14. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 157 commits :octocat:
-15. [basnijholt/crypto-tracker](https://github.com/basnijholt/crypto-tracker/), 154 commits :octocat:
+15. [basnijholt/crypto-tracker](https://github.com/basnijholt/crypto-tracker/), 156 commits :octocat:
 16. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
 17. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 145 commits :octocat:
 18. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 143 commits :octocat:
