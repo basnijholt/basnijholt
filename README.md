@@ -18,16 +18,16 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2021-11-14 12:12:11.631082.
+Last updated at 2021-11-15 12:17:27.518998.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1099 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1101 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 687 ⭐️s
 3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 392 ⭐️s
-4. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 349 ⭐️s
+4. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 350 ⭐️s
 5. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 332 ⭐️s
 <details><summary>Click to expand!</summary>
 
@@ -39,7 +39,7 @@ Last updated at 2021-11-14 12:12:11.631082.
 11. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 24 ⭐️s
 12. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 18 ⭐️s
 13. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 17 ⭐️s
-14. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 11 ⭐️s
+14. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 12 ⭐️s
 15. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 9 ⭐️s
 16. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 9 ⭐️s
 17. [basnijholt/iOSMessageExport](https://github.com/basnijholt/iOSMessageExport/), 8 ⭐️s
@@ -68,7 +68,7 @@ Last updated at 2021-11-14 12:12:11.631082.
 11. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
 12. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
 13. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 189 commits :octocat:
-14. [basnijholt/crypto-tracker](https://github.com/basnijholt/crypto-tracker/), 167 commits :octocat:
+14. [basnijholt/crypto-tracker](https://github.com/basnijholt/crypto-tracker/), 172 commits :octocat:
 15. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 157 commits :octocat:
 16. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
 17. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 145 commits :octocat:
