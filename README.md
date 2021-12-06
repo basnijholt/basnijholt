@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2021-12-05 12:11:37.285190.
+Last updated at 2021-12-06 12:12:57.602524.
 
 # GitHub statistics — my top 20
 
@@ -26,7 +26,7 @@ Last updated at 2021-12-05 12:11:37.285190.
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1121 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 687 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 410 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 411 ⭐️s
 4. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 374 ⭐️s
 5. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 333 ⭐️s
 <details><summary>Click to expand!</summary>
@@ -42,10 +42,10 @@ Last updated at 2021-12-05 12:11:37.285190.
 14. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 12 ⭐️s
 15. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 9 ⭐️s
 16. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 9 ⭐️s
-17. [basnijholt/iOSMessageExport](https://github.com/basnijholt/iOSMessageExport/), 8 ⭐️s
-18. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 8 ⭐️s
-19. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 8 ⭐️s
-20. [basnijholt/crypto-tracker](https://github.com/basnijholt/crypto-tracker/), 7 ⭐️s
+17. [basnijholt/crypto-tracker](https://github.com/basnijholt/crypto-tracker/), 8 ⭐️s
+18. [basnijholt/iOSMessageExport](https://github.com/basnijholt/iOSMessageExport/), 8 ⭐️s
+19. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 8 ⭐️s
+20. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 8 ⭐️s
 
 </details>
 
@@ -68,7 +68,7 @@ Last updated at 2021-12-05 12:11:37.285190.
 11. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
 12. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
 13. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 189 commits :octocat:
-14. [basnijholt/crypto-tracker](https://github.com/basnijholt/crypto-tracker/), 187 commits :octocat:
+14. [basnijholt/crypto-tracker](https://github.com/basnijholt/crypto-tracker/), 189 commits :octocat:
 15. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 157 commits :octocat:
 16. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
 17. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 145 commits :octocat:
