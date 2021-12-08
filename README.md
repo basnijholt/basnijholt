@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2021-12-07 12:17:42.016608.
+Last updated at 2021-12-08 12:12:50.051381.
 
 # GitHub statistics — my top 20
 
@@ -26,8 +26,8 @@ Last updated at 2021-12-07 12:17:42.016608.
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1121 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 687 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 411 ⭐️s
-4. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 374 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 413 ⭐️s
+4. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 375 ⭐️s
 5. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 333 ⭐️s
 <details><summary>Click to expand!</summary>
 
@@ -65,9 +65,9 @@ Last updated at 2021-12-07 12:17:42.016608.
 8. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 259 commits :octocat:
 9. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 228 commits :octocat:
 10. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
-11. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
-12. [basnijholt/crypto-tracker](https://github.com/basnijholt/crypto-tracker/), 191 commits :octocat:
-13. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
+11. [basnijholt/crypto-tracker](https://github.com/basnijholt/crypto-tracker/), 194 commits :octocat:
+12. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
+13. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
 14. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 189 commits :octocat:
 15. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 157 commits :octocat:
 16. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
