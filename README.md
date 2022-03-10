@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2022-03-09 12:18:01.319379.
+Last updated at 2022-03-10 12:16:32.749077.
 
 # GitHub statistics — my top 20
 
@@ -26,9 +26,9 @@ Last updated at 2022-03-09 12:18:01.319379.
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1193 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 689 ⭐️s
-3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 515 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 511 ⭐️s
-5. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 351 ⭐️s
+3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 517 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 512 ⭐️s
+5. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 350 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 331 ⭐️s
@@ -36,7 +36,7 @@ Last updated at 2022-03-09 12:18:01.319379.
 8. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 193 ⭐️s
 9. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 81 ⭐️s
 10. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 58 ⭐️s
-11. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 26 ⭐️s
+11. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 27 ⭐️s
 12. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 20 ⭐️s
 13. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 17 ⭐️s
 14. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 12 ⭐️s
