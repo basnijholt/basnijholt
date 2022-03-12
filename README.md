@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2022-03-11 12:11:10.919832.
+Last updated at 2022-03-12 12:14:46.764951.
 
 # GitHub statistics — my top 20
 
@@ -32,7 +32,7 @@ Last updated at 2022-03-11 12:11:10.919832.
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 331 ⭐️s
-7. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 289 ⭐️s
+7. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 290 ⭐️s
 8. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 193 ⭐️s
 9. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 81 ⭐️s
 10. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 58 ⭐️s
