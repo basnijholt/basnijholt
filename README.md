@@ -18,21 +18,21 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2022-03-25 12:16:23.705757.
+Last updated at 2022-03-26 12:15:32.485708.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1203 ⭐️s
-2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 690 ⭐️s
+2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 691 ⭐️s
 3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 525 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 524 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 525 ⭐️s
 5. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 352 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 331 ⭐️s
-7. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 293 ⭐️s
+6. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 332 ⭐️s
+7. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 294 ⭐️s
 8. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 195 ⭐️s
 9. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 82 ⭐️s
 10. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 58 ⭐️s
