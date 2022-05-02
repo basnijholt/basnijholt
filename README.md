@@ -18,17 +18,17 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2022-04-30 12:11:49.087148.
+Last updated at 2022-05-02 12:18:48.297091.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1218 ⭐️s
-2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 693 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1219 ⭐️s
+2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 701 ⭐️s
 3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 561 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 553 ⭐️s
-5. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 357 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 555 ⭐️s
+5. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 358 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 334 ⭐️s
