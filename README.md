@@ -18,26 +18,26 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2022-06-02 12:13:09.752398.
+Last updated at 2022-06-03 12:14:58.233728.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1231 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1232 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 706 ⭐️s
-3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 583 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 563 ⭐️s
+3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 585 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 564 ⭐️s
 5. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 362 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 336 ⭐️s
-7. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 303 ⭐️s
+7. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 304 ⭐️s
 8. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 207 ⭐️s
 9. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 84 ⭐️s
 10. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 59 ⭐️s
 11. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 29 ⭐️s
-12. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 21 ⭐️s
+12. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 22 ⭐️s
 13. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 17 ⭐️s
 14. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 12 ⭐️s
 15. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 11 ⭐️s
