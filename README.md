@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2022-06-06 12:16:21.531902.
+Last updated at 2022-06-07 12:13:02.303986.
 
 # GitHub statistics — my top 20
 
@@ -26,8 +26,8 @@ Last updated at 2022-06-06 12:16:21.531902.
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1236 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 706 ⭐️s
-3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 586 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 566 ⭐️s
+3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 589 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 568 ⭐️s
 5. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 362 ⭐️s
 <details><summary>Click to expand!</summary>
 
@@ -36,7 +36,7 @@ Last updated at 2022-06-06 12:16:21.531902.
 8. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 207 ⭐️s
 9. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 84 ⭐️s
 10. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 59 ⭐️s
-11. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 29 ⭐️s
+11. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 28 ⭐️s
 12. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 22 ⭐️s
 13. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 17 ⭐️s
 14. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 12 ⭐️s
