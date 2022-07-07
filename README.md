@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2022-07-06 12:16:39.094066.
+Last updated at 2022-07-07 12:13:03.877676.
 
 # GitHub statistics — my top 20
 
@@ -26,19 +26,19 @@ Last updated at 2022-07-06 12:16:39.094066.
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1248 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 710 ⭐️s
-3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 607 ⭐️s
+3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 608 ⭐️s
 4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 594 ⭐️s
 5. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 366 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 341 ⭐️s
+6. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 342 ⭐️s
 7. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 312 ⭐️s
 8. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 213 ⭐️s
 9. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 84 ⭐️s
 10. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 60 ⭐️s
 11. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 28 ⭐️s
 12. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 22 ⭐️s
-13. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 17 ⭐️s
+13. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 18 ⭐️s
 14. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 12 ⭐️s
 15. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 11 ⭐️s
 16. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 11 ⭐️s
@@ -55,7 +55,7 @@ Last updated at 2022-07-06 12:16:39.094066.
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1584 commits :octocat:
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1225 commits :octocat:
-3. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 553 commits :octocat:
+3. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 554 commits :octocat:
 4. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 452 commits :octocat:
 5. [basnijholt/zigzag-majoranas](https://github.com/basnijholt/zigzag-majoranas/), 413 commits :octocat:
 <details><summary>Click to expand!</summary>
