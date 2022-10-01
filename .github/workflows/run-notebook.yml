@@ -31,7 +31,7 @@ jobs:
         run: |
           conda activate basnijholt
           python ipynb_filter.py
-          jupyter-nbconvert --execute --inplace --ExecutePreprocessor.timeout=600 update-readme.ipynb
+          jupyter-nbconvert --execute --inplace --ExecutePreprocessor.timeout=1600 update-readme.ipynb
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
