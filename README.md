@@ -18,15 +18,15 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2022-10-07 12:39:55.266405.
+Last updated at 2022-10-08 12:38:58.022698.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1303 ⭐️s
-2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 728 ⭐️s
-3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 679 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1304 ⭐️s
+2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 729 ⭐️s
+3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 681 ⭐️s
 4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 651 ⭐️s
 5. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 378 ⭐️s
 <details><summary>Click to expand!</summary>
@@ -55,7 +55,7 @@ Last updated at 2022-10-07 12:39:55.266405.
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1617 commits :octocat:
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1329 commits :octocat:
-3. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 565 commits :octocat:
+3. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 599 commits :octocat:
 4. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 452 commits :octocat:
 5. [basnijholt/zigzag-majoranas](https://github.com/basnijholt/zigzag-majoranas/), 413 commits :octocat:
 <details><summary>Click to expand!</summary>
@@ -67,8 +67,8 @@ Last updated at 2022-10-07 12:39:55.266405.
 10. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 207 commits :octocat:
 11. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
 12. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
-13. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
-14. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
+13. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
+14. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
 15. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 157 commits :octocat:
 16. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 153 commits :octocat:
 17. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
