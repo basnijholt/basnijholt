@@ -18,17 +18,17 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2022-12-06 12:40:19.231786.
+Last updated at 2022-12-08 12:38:55.909359.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1343 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 764 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 770 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 739 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 709 ⭐️s
-5. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 390 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 711 ⭐️s
+5. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 391 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 370 ⭐️s
@@ -42,9 +42,9 @@ Last updated at 2022-12-06 12:40:19.231786.
 14. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 12 ⭐️s
 15. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 11 ⭐️s
 16. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 11 ⭐️s
-17. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 9 ⭐️s
-18. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 9 ⭐️s
-19. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 9 ⭐️s
+17. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 10 ⭐️s
+18. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 9 ⭐️s
+19. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 9 ⭐️s
 20. [basnijholt/iOSMessageExport](https://github.com/basnijholt/iOSMessageExport/), 8 ⭐️s
 
 </details>
@@ -60,7 +60,7 @@ Last updated at 2022-12-06 12:40:19.231786.
 5. [basnijholt/zigzag-majoranas](https://github.com/basnijholt/zigzag-majoranas/), 413 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 382 commits :octocat:
+6. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 383 commits :octocat:
 7. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 304 commits :octocat:
 8. [basnijholt/supercurrent-majorana-nanowire](https://github.com/basnijholt/supercurrent-majorana-nanowire/), 282 commits :octocat:
 9. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 267 commits :octocat:
