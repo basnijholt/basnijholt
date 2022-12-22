@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2022-12-21 12:37:49.931827.
+Last updated at 2022-12-22 12:45:13.146265.
 
 # GitHub statistics — my top 20
 
@@ -67,8 +67,8 @@ Last updated at 2022-12-21 12:37:49.931827.
 10. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 228 commits :octocat:
 11. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 220 commits :octocat:
 12. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
-13. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
-14. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
+13. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
+14. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
 15. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
 16. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 160 commits :octocat:
 17. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 157 commits :octocat:
