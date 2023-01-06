@@ -18,23 +18,23 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-01-01 12:50:02.094589.
+Last updated at 2023-01-06 12:36:30.702491.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1365 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 799 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1373 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 806 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 741 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 731 ⭐️s
-5. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 394 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 736 ⭐️s
+5. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 396 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 380 ⭐️s
+6. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 384 ⭐️s
 7. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 354 ⭐️s
 8. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 231 ⭐️s
-9. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 88 ⭐️s
+9. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 89 ⭐️s
 10. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 65 ⭐️s
 11. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 28 ⭐️s
 12. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 24 ⭐️s
@@ -44,8 +44,8 @@ Last updated at 2023-01-01 12:50:02.094589.
 16. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 11 ⭐️s
 17. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 11 ⭐️s
 18. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 9 ⭐️s
-19. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 9 ⭐️s
-20. [basnijholt/iOSMessageExport](https://github.com/basnijholt/iOSMessageExport/), 8 ⭐️s
+19. [basnijholt/molecular-dynamics-Python](https://github.com/basnijholt/molecular-dynamics-Python/), 9 ⭐️s
+20. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 9 ⭐️s
 
 </details>
 
@@ -67,8 +67,8 @@ Last updated at 2023-01-01 12:50:02.094589.
 10. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 228 commits :octocat:
 11. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 220 commits :octocat:
 12. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
-13. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
-14. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
+13. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
+14. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
 15. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
 16. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 160 commits :octocat:
 17. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 157 commits :octocat:
