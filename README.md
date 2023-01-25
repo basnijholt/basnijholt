@@ -18,16 +18,16 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-01-24 12:59:08.043383.
+Last updated at 2023-01-25 12:43:27.570319.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1392 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 834 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 837 ⭐️s
 3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 764 ⭐️s
-4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 741 ⭐️s
+4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 742 ⭐️s
 5. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 399 ⭐️s
 <details><summary>Click to expand!</summary>
 
@@ -41,8 +41,8 @@ Last updated at 2023-01-24 12:59:08.043383.
 13. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 19 ⭐️s
 14. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 12 ⭐️s
 15. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 12 ⭐️s
-16. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 11 ⭐️s
-17. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 11 ⭐️s
+16. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 12 ⭐️s
+17. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 11 ⭐️s
 18. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 9 ⭐️s
 19. [basnijholt/molecular-dynamics-Python](https://github.com/basnijholt/molecular-dynamics-Python/), 9 ⭐️s
 20. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 9 ⭐️s
