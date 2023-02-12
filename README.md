@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-02-11 12:35:46.543770.
+Last updated at 2023-02-12 13:37:19.503408.
 
 # GitHub statistics — my top 20
 
@@ -26,12 +26,12 @@ Last updated at 2023-02-11 12:35:46.543770.
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1401 ⭐️s
 2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 855 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 778 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 779 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 746 ⭐️s
-5. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 402 ⭐️s
+5. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 401 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 399 ⭐️s
+6. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 400 ⭐️s
 7. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 357 ⭐️s
 8. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 234 ⭐️s
 9. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 90 ⭐️s
@@ -68,8 +68,8 @@ Last updated at 2023-02-11 12:35:46.543770.
 11. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 220 commits :octocat:
 12. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
 13. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
-14. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
-15. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
+14. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
+15. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
 16. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 160 commits :octocat:
 17. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 157 commits :octocat:
 18. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
