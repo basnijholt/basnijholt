@@ -1,0 +1,7 @@
+aiohttp
+httpx
+jinja2
+matplotlib
+notebook
+tenacity
+tqdm
