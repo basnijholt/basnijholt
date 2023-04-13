@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-04-12 14:45:38.138270.
+Last updated at 2023-04-13 05:37:37.285805.
 
 # GitHub statistics — my top 20
 
@@ -53,28 +53,28 @@ Last updated at 2023-04-12 14:45:38.138270.
 
 ## number of commits :octocat:
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1686 commits :octocat:
-2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1405 commits :octocat:
-3. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 659 commits :octocat:
+1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1405 commits :octocat:
+2. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 659 commits :octocat:
+3. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 452 commits :octocat:
 4. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 435 commits :octocat:
-5. [basnijholt/zigzag-majoranas](https://github.com/basnijholt/zigzag-majoranas/), 413 commits :octocat:
+5. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 304 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 304 commits :octocat:
-7. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 290 commits :octocat:
-8. [basnijholt/supercurrent-majorana-nanowire](https://github.com/basnijholt/supercurrent-majorana-nanowire/), 282 commits :octocat:
-9. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 267 commits :octocat:
-10. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 228 commits :octocat:
-11. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 220 commits :octocat:
-12. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
-13. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
-14. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
-15. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
-16. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 160 commits :octocat:
-17. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 144 commits :octocat:
-18. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
-19. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-20. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 95 commits :octocat:
+6. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 267 commits :octocat:
+7. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 220 commits :octocat:
+8. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
+9. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
+10. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
+11. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
+12. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+13. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 95 commits :octocat:
+14. [basnijholt/pfapack](https://github.com/basnijholt/pfapack/), 67 commits :octocat:
+15. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 65 commits :octocat:
+16. [basnijholt/yaml2bib](https://github.com/basnijholt/yaml2bib/), 57 commits :octocat:
+17. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 57 commits :octocat:
+18. [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon/), 52 commits :octocat:
+19. [basnijholt/conda-recipes](https://github.com/basnijholt/conda-recipes/), 48 commits :octocat:
+20. [basnijholt/cluster-logger](https://github.com/basnijholt/cluster-logger/), 45 commits :octocat:
 
 </details>
 
