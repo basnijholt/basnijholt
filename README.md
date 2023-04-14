@@ -18,20 +18,20 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-04-13 18:57:31.828467.
+Last updated at 2023-04-14 12:14:54.991704.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1435 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 917 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1434 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 918 ⭐️s
 3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 817 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 755 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 422 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 406 ⭐️s
+6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 407 ⭐️s
 7. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 358 ⭐️s
 8. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 237 ⭐️s
 9. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 96 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-04-13 18:57:31.828467.
 
 ## number of commits :octocat:
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1686 commits :octocat:
-2. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 659 commits :octocat:
-3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 435 commits :octocat:
-4. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 290 commits :octocat:
-5. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 267 commits :octocat:
+1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1405 commits :octocat:
+2. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 220 commits :octocat:
+3. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+4. [conda-forge/cdt-builds](https://github.com/conda-forge/cdt-builds/), 0 commits :octocat:
+5. [python3statement/python3statement.github.io](https://github.com/python3statement/python3statement.github.io/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-7. [conda-forge/metis-feedstock](https://github.com/conda-forge/metis-feedstock/), 53 commits :octocat:
-8. [basnijholt/codestructure](https://github.com/basnijholt/codestructure/), 51 commits :octocat:
-9. [conda-forge/hpc05-feedstock](https://github.com/conda-forge/hpc05-feedstock/), 49 commits :octocat:
-10. [basnijholt/cluster-logger](https://github.com/basnijholt/cluster-logger/), 45 commits :octocat:
-11. [basnijholt/pyfeast](https://github.com/basnijholt/pyfeast/), 43 commits :octocat:
-12. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 35 commits :octocat:
-13. [basnijholt/adaptive-tools](https://github.com/basnijholt/adaptive-tools/), 34 commits :octocat:
-14. [amccaugh/phidl](https://github.com/amccaugh/phidl/), 34 commits :octocat:
-15. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-16. [basnijholt/day-one-story-sender](https://github.com/basnijholt/day-one-story-sender/), 25 commits :octocat:
-17. [conda-forge/mumps-feedstock](https://github.com/conda-forge/mumps-feedstock/), 22 commits :octocat:
-18. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 22 commits :octocat:
-19. [basnijholt/calendar-of-life](https://github.com/basnijholt/calendar-of-life/), 20 commits :octocat:
-20. [conda-forge/pfapack-feedstock](https://github.com/conda-forge/pfapack-feedstock/), 18 commits :octocat:
+6. [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks/), 0 commits :octocat:
+7. [custom-cards/button-card](https://github.com/custom-cards/button-card/), 0 commits :octocat:
+8. [conda-forge/discretizer-feedstock](https://github.com/conda-forge/discretizer-feedstock/), 0 commits :octocat:
+9. [conda-forge/conda-forge-repodata-patches-feedstock](https://github.com/conda-forge/conda-forge-repodata-patches-feedstock/), 0 commits :octocat:
+10. [synesthesiam/hassio-addons](https://github.com/synesthesiam/hassio-addons/), 0 commits :octocat:
+11. [basnijholt/cyclecloud-slurm-scaling](https://github.com/basnijholt/cyclecloud-slurm-scaling/), 0 commits :octocat:
+12. [basnijholt/psychedelic-data-science](https://github.com/basnijholt/psychedelic-data-science/), 0 commits :octocat:
+13. [conda-forge/sphinx-autodoc-typehints-feedstock](https://github.com/conda-forge/sphinx-autodoc-typehints-feedstock/), 0 commits :octocat:
+14. [conda-forge/metis-feedstock](https://github.com/conda-forge/metis-feedstock/), 0 commits :octocat:
+15. [microsoft/azure-pipelines-agent](https://github.com/microsoft/azure-pipelines-agent/), 0 commits :octocat:
+16. [mdichtler/PancakeSwap-Price-Scraper](https://github.com/mdichtler/PancakeSwap-Price-Scraper/), 0 commits :octocat:
+17. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 0 commits :octocat:
+18. [sigma-py/quadpy](https://github.com/sigma-py/quadpy/), 0 commits :octocat:
+19. [conda/conda](https://github.com/conda/conda/), 0 commits :octocat:
+20. [ramonhagenaars/nptyping](https://github.com/ramonhagenaars/nptyping/), 0 commits :octocat:
 
 </details>
 
