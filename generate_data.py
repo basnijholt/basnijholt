@@ -165,7 +165,7 @@ async def generate_repos_data():
     return repos
 
 
-async def generate_most_stars_data(repos):
+def generate_most_stars_data(repos):
     mapping = defaultdict(list)
     for repo in repos:
         namespace, name = repo["full_name"].split("/", 1)
@@ -180,9 +180,6 @@ async def generate_most_stars_data(repos):
         {"full_name": repo["full_name"], "stargazers_count": repo["stargazers_count"]}
         for repo in most_stars
     ]
-
-    with open("data/most_stars.json", "w") as f:
-        json.dump(most_stars, f, indent=2)
 
     return most_stars
 
@@ -213,7 +210,8 @@ async def generate_most_committed_data(repos):
     return most_committed
 
 
-async def generate_stargazers_data(most_stars):
+async def generate_stargazers_data(repos):
+    most_stars = generate_most_stars_data(repos)
     stargazers = await asyncio.gather(
         *[get_stargazers_with_dates(r["full_name"]) for r in most_stars[:20]],
     )
@@ -243,22 +241,16 @@ async def generate_commit_dates_data(most_committed):
     return all_commit_dates
 
 
-async def generate_day_hour_histograms(all_commit_dates):
+def generate_day_hour_histograms(all_commit_dates):
     day_hist = [
         (weekdays[i], n)
         for i, n in sorted(Counter([d.weekday() for d in all_commit_dates]).items())
     ]
 
-    with open("data/day_hist.json", "w") as f:
-        json.dump(day_hist, f, indent=2)
-
     hour_hist = [
         (f"{i:02d}", n)
         for i, n in sorted(Counter([d.hour for d in all_commit_dates]).items())
     ]
-
-    with open("data/hour_hist.json", "w") as f:
-        json.dump(hour_hist, f, indent=2)
 
     return day_hist, hour_hist
 
@@ -267,14 +259,12 @@ async def generate_data():
     # Create data folder if it doesn't exist
     os.makedirs("data", exist_ok=True)
     repos = await generate_repos_data()
-    most_stars = await generate_most_stars_data(repos)
     most_committed = await generate_most_committed_data(repos)
-    stargazers = await generate_stargazers_data(most_stars)
+    stargazers = await generate_stargazers_data(repos)
     all_commit_dates = await generate_commit_dates_data(most_committed)
-    day_hist, hour_hist = await generate_day_hour_histograms(all_commit_dates)
+    day_hist, hour_hist = generate_day_hour_histograms(all_commit_dates)
     return {
         "repos": repos,
-        "most_stars": most_stars,
         "most_committed": most_committed,
         "stargazers": stargazers,
         "all_commit_dates": all_commit_dates,
