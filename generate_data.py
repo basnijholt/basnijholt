@@ -9,12 +9,10 @@ from datetime import datetime
 
 import gidgethub.httpx
 import httpx
-import jinja2
 import tenacity
 
 logging.basicConfig(level=logging.INFO)
-
-
+log = logging.getLogger(__name__)
 ME = "basnijholt"
 orgs = (ME, "python-adaptive", "topocm", "python-kasa", "kwant-project")
 
@@ -28,7 +26,11 @@ def load_token():
 
 
 token = load_token()
-retry_kw = dict(stop=tenacity.stop_after_attempt(10), wait=tenacity.wait_fixed(180))
+retry_kw = {
+    "stop": tenacity.stop_after_attempt(10),
+    "wait": tenacity.wait_fixed(180),
+    "before": tenacity.before_log(log, logging.DEBUG),
+}
 
 
 @asynccontextmanager
@@ -72,7 +74,7 @@ async def get_n_commits(full_repo_name, user=ME):
         owner, name = full_repo_name.split("/")
         try:
             stats_contributors = await gh.getitem(
-                f"/repos/{owner}/{name}/stats/contributors"
+                f"/repos/{owner}/{name}/stats/contributors",
             )
         except Exception:
             print(f"Error: {full_repo_name}")
@@ -111,9 +113,12 @@ async def get_stargazers_with_dates(full_repo_name):
         owner, name = full_repo_name.split("/")
         page = 1
         while True:
-            logging.info(f"Fetching stargazers for {owner}/{name}, page {page}")
             starred_at = await get_stargazers_page_with_dates(
-                gh, owner, name, page, headers
+                gh,
+                owner,
+                name,
+                page,
+                headers,
             )
             if not starred_at:
                 break
@@ -128,7 +133,7 @@ async def get_commits(full_repo_name, author=ME):
         owner, name = full_repo_name.split("/")
         commits = []
         async for commit in gh.getiter(
-            f"/repos/{owner}/{name}/commits?author={author}&per_page=100"
+            f"/repos/{owner}/{name}/commits?author={author}&per_page=100",
         ):
             commits.append(commit)
         return commits
@@ -155,7 +160,7 @@ async def generate_repos_data():
     repos = await get_repos(full_repo_names, token)
 
     with open("data/repos.json", "w") as f:
-        json.dump([repo for repo in repos], f)
+        json.dump(list(repos), f, indent=2)
 
     return repos
 
@@ -171,9 +176,13 @@ async def generate_most_stars_data(repos):
         key=lambda r: r["stargazers_count"],
         reverse=True,
     )
+    most_stars = [
+        {"full_name": repo["full_name"], "stargazers_count": repo["stargazers_count"]}
+        for repo in most_stars
+    ]
 
     with open("data/most_stars.json", "w") as f:
-        json.dump([repo for repo in most_stars], f)
+        json.dump(most_stars, f, indent=2)
 
     return most_stars
 
@@ -189,14 +198,16 @@ async def generate_most_committed_data(repos):
         to_check.append(full_name)
 
     commits = await asyncio.gather(
-        *[get_n_commits(full_name) for full_name in to_check]
+        *[get_n_commits(full_name) for full_name in to_check],
     )
     commits = [c for c in commits if c is not None]
     most_committed = sorted(set(commits), key=lambda x: x[1], reverse=True)
 
     with open("data/most_committed.json", "w") as f:
         json.dump(
-            [(full_name, n_commits) for full_name, n_commits in most_committed], f
+            [(full_name, n_commits) for full_name, n_commits in most_committed],
+            f,
+            indent=2,
         )
 
     return most_committed
@@ -204,18 +215,18 @@ async def generate_most_committed_data(repos):
 
 async def generate_stargazers_data(most_stars):
     stargazers = await asyncio.gather(
-        *[get_stargazers_with_dates(r["full_name"]) for r in most_stars[:20]]
+        *[get_stargazers_with_dates(r["full_name"]) for r in most_stars[:20]],
     )
 
     with open("data/stargazers.json", "w") as f:
-        json.dump([[str(date) for date in dates] for dates in stargazers], f)
+        json.dump([[str(date) for date in dates] for dates in stargazers], f, indent=2)
 
     return stargazers
 
 
 async def generate_commit_dates_data(most_committed):
     all_commits = await asyncio.gather(
-        *[get_commits(full_name) for full_name, _ in most_committed[:5]]
+        *[get_commits(full_name) for full_name, _ in most_committed[:5]],
     )
     all_commits = sum(all_commits, [])
     all_commit_dates = [
@@ -224,7 +235,7 @@ async def generate_commit_dates_data(most_committed):
     ]
 
     with open("data/all_commit_dates.json", "w") as f:
-        json.dump([str(date) for date in all_commit_dates], f)
+        json.dump([str(date) for date in all_commit_dates], f, indent=2)
 
     return all_commit_dates
 
@@ -236,7 +247,7 @@ async def generate_day_hour_histograms(all_commit_dates):
     ]
 
     with open("data/day_hist.json", "w") as f:
-        json.dump(day_hist, f)
+        json.dump(day_hist, f, indent=2)
 
     hour_hist = [
         (f"{i:02d}", n)
@@ -244,7 +255,7 @@ async def generate_day_hour_histograms(all_commit_dates):
     ]
 
     with open("data/hour_hist.json", "w") as f:
-        json.dump(hour_hist, f)
+        json.dump(hour_hist, f, indent=2)
 
     return day_hist, hour_hist
 
@@ -252,19 +263,18 @@ async def generate_day_hour_histograms(all_commit_dates):
 async def generate_data():
     # Create data folder if it doesn't exist
     os.makedirs("data", exist_ok=True)
-
     repos = await generate_repos_data()
     most_stars = await generate_most_stars_data(repos)
     most_committed = await generate_most_committed_data(repos)
     stargazers = await generate_stargazers_data(most_stars)
     all_commit_dates = await generate_commit_dates_data(most_committed)
     day_hist, hour_hist = await generate_day_hour_histograms(all_commit_dates)
-    return dict(
-        repos=repos,
-        most_stars=most_stars,
-        most_committed=most_committed,
-        stargazers=stargazers,
-        all_commit_dates=all_commit_dates,
-        day_hist=day_hist,
-        hour_hist=hour_hist,
-    )
+    return {
+        "repos": repos,
+        "most_stars": most_stars,
+        "most_committed": most_committed,
+        "stargazers": stargazers,
+        "all_commit_dates": all_commit_dates,
+        "day_hist": day_hist,
+        "hour_hist": hour_hist,
+    }
