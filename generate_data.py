@@ -217,9 +217,11 @@ async def generate_stargazers_data(most_stars):
     stargazers = await asyncio.gather(
         *[get_stargazers_with_dates(r["full_name"]) for r in most_stars[:20]],
     )
-
+    stargazers = [
+        {**r, "date": date.isoformat()} for r, date in zip(most_stars, stargazers)
+    ]
     with open("data/stargazers.json", "w") as f:
-        json.dump([[str(date) for date in dates] for dates in stargazers], f, indent=2)
+        json.dump(stargazers, f, indent=2)
 
     return stargazers
 
