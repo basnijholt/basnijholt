@@ -271,3 +271,25 @@ async def generate_data():
         "day_hist": day_hist,
         "hour_hist": hour_hist,
     }
+
+
+def to_plotly_json():
+    with open("data/stargazers.json", "r") as f:
+        stargazers = json.load(f)
+
+    traces = []
+    for repo_data in stargazers:
+        full_name = repo_data["full_name"]
+        dates = sorted([date for date in repo_data["dates"]])
+        cumulative_count = list(range(1, len(dates) + 1))
+
+        trace = {
+            "x": dates,
+            "y": cumulative_count,
+            "mode": "lines",
+            "name": full_name,
+        }
+        traces.append(trace)
+
+    with open("data/traces_data.json", "w") as outfile:
+        json.dump(traces, outfile)
