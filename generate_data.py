@@ -218,7 +218,8 @@ async def generate_stargazers_data(most_stars):
         *[get_stargazers_with_dates(r["full_name"]) for r in most_stars[:20]],
     )
     stargazers = [
-        {**r, "date": date.isoformat()} for r, date in zip(most_stars, stargazers)
+        {**r, "dates": [date.isoformat() for date in date_list]}
+        for r, date_list in zip(most_stars, stargazers)
     ]
     with open("data/stargazers.json", "w") as f:
         json.dump(stargazers, f, indent=2)
