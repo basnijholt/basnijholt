@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-04-25 01:10:59.055924.
+Last updated at 2023-04-25 12:09:17.880201.
 
 # GitHub statistics — my top 20
 
@@ -38,7 +38,7 @@ Last updated at 2023-04-25 01:10:59.055924.
 10. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 91 ⭐️s
 11. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 70 ⭐️s
 12. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 38 ⭐️s
-13. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 35 ⭐️s
+13. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 37 ⭐️s
 14. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 28 ⭐️s
 15. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 25 ⭐️s
 16. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 19 ⭐️s
@@ -54,27 +54,27 @@ Last updated at 2023-04-25 01:10:59.055924.
 ## number of commits :octocat:
 
 1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1407 commits :octocat:
-2. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 712 commits :octocat:
-3. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 452 commits :octocat:
-4. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 435 commits :octocat:
-5. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 290 commits :octocat:
+2. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
+3. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+4. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
+5. [numpy/numpy](https://github.com/numpy/numpy/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 267 commits :octocat:
-7. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
-8. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-9. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 80 commits :octocat:
-10. [basnijholt/pfapack](https://github.com/basnijholt/pfapack/), 67 commits :octocat:
-11. [basnijholt/basnijholt](https://github.com/basnijholt/basnijholt/), 66 commits :octocat:
-12. [conda-forge/kwant-feedstock](https://github.com/conda-forge/kwant-feedstock/), 65 commits :octocat:
-13. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 59 commits :octocat:
-14. [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon/), 52 commits :octocat:
-15. [conda-forge/hpc05-feedstock](https://github.com/conda-forge/hpc05-feedstock/), 49 commits :octocat:
-16. [basnijholt/conda-recipes](https://github.com/basnijholt/conda-recipes/), 48 commits :octocat:
-17. [microsoft/qmt](https://github.com/microsoft/qmt/), 48 commits :octocat:
-18. [basnijholt/pyfeast](https://github.com/basnijholt/pyfeast/), 43 commits :octocat:
-19. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 43 commits :octocat:
-20. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 35 commits :octocat:
+6. [conda-forge/jupyter_cms-feedstock](https://github.com/conda-forge/jupyter_cms-feedstock/), 0 commits :octocat:
+7. [mdichtler/PancakeSwap-Price-Scraper](https://github.com/mdichtler/PancakeSwap-Price-Scraper/), 0 commits :octocat:
+8. [holoviz/panel](https://github.com/holoviz/panel/), 0 commits :octocat:
+9. [basnijholt/discretizer](https://github.com/basnijholt/discretizer/), 0 commits :octocat:
+10. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 0 commits :octocat:
+11. [basnijholt/zigzag-majoranas](https://github.com/basnijholt/zigzag-majoranas/), 0 commits :octocat:
+12. [CJ-Wright/cf-graph-countyfair](https://github.com/CJ-Wright/cf-graph-countyfair/), 0 commits :octocat:
+13. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 0 commits :octocat:
+14. [conda-forge/adaptive-feedstock](https://github.com/conda-forge/adaptive-feedstock/), 0 commits :octocat:
+15. [conda-forge/fenics-feedstock](https://github.com/conda-forge/fenics-feedstock/), 0 commits :octocat:
+16. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 0 commits :octocat:
+17. [basnijholt/nanowire-qpc-spectrum](https://github.com/basnijholt/nanowire-qpc-spectrum/), 0 commits :octocat:
+18. [conda-forge/conda-forge-repodata-patches-feedstock](https://github.com/conda-forge/conda-forge-repodata-patches-feedstock/), 0 commits :octocat:
+19. [conda-forge/spylon-kernel-feedstock](https://github.com/conda-forge/spylon-kernel-feedstock/), 0 commits :octocat:
+20. [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt/), 0 commits :octocat:
 
 </details>
 
