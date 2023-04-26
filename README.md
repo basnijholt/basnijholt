@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-04-25 12:09:17.880201.
+Last updated at 2023-04-26 12:08:57.999892.
 
 # GitHub statistics — my top 20
 
@@ -37,8 +37,8 @@ Last updated at 2023-04-25 12:09:17.880201.
 9. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 100 ⭐️s
 10. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 91 ⭐️s
 11. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 70 ⭐️s
-12. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 38 ⭐️s
-13. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 37 ⭐️s
+12. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 39 ⭐️s
+13. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 38 ⭐️s
 14. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 28 ⭐️s
 15. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 25 ⭐️s
 16. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 19 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-04-25 12:09:17.880201.
 
 ## number of commits :octocat:
 
-1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1407 commits :octocat:
-2. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
-3. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-4. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
-5. [numpy/numpy](https://github.com/numpy/numpy/), 0 commits :octocat:
+1. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
+2. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+3. [amccaugh/phidl](https://github.com/amccaugh/phidl/), 34 commits :octocat:
+4. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+5. [conda-forge/discretizer-feedstock](https://github.com/conda-forge/discretizer-feedstock/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [conda-forge/jupyter_cms-feedstock](https://github.com/conda-forge/jupyter_cms-feedstock/), 0 commits :octocat:
-7. [mdichtler/PancakeSwap-Price-Scraper](https://github.com/mdichtler/PancakeSwap-Price-Scraper/), 0 commits :octocat:
-8. [holoviz/panel](https://github.com/holoviz/panel/), 0 commits :octocat:
-9. [basnijholt/discretizer](https://github.com/basnijholt/discretizer/), 0 commits :octocat:
-10. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 0 commits :octocat:
-11. [basnijholt/zigzag-majoranas](https://github.com/basnijholt/zigzag-majoranas/), 0 commits :octocat:
-12. [CJ-Wright/cf-graph-countyfair](https://github.com/CJ-Wright/cf-graph-countyfair/), 0 commits :octocat:
-13. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 0 commits :octocat:
-14. [conda-forge/adaptive-feedstock](https://github.com/conda-forge/adaptive-feedstock/), 0 commits :octocat:
-15. [conda-forge/fenics-feedstock](https://github.com/conda-forge/fenics-feedstock/), 0 commits :octocat:
-16. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 0 commits :octocat:
-17. [basnijholt/nanowire-qpc-spectrum](https://github.com/basnijholt/nanowire-qpc-spectrum/), 0 commits :octocat:
-18. [conda-forge/conda-forge-repodata-patches-feedstock](https://github.com/conda-forge/conda-forge-repodata-patches-feedstock/), 0 commits :octocat:
-19. [conda-forge/spylon-kernel-feedstock](https://github.com/conda-forge/spylon-kernel-feedstock/), 0 commits :octocat:
-20. [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt/), 0 commits :octocat:
+6. [rougier/freetype-py](https://github.com/rougier/freetype-py/), 0 commits :octocat:
+7. [codechimp-org/ha-menu](https://github.com/codechimp-org/ha-menu/), 0 commits :octocat:
+8. [ICB-DCM/pyABC](https://github.com/ICB-DCM/pyABC/), 0 commits :octocat:
+9. [conda-forge/opencensus-ext-azure-feedstock](https://github.com/conda-forge/opencensus-ext-azure-feedstock/), 0 commits :octocat:
+10. [conda-forge/suitesparse-feedstock](https://github.com/conda-forge/suitesparse-feedstock/), 0 commits :octocat:
+11. [ct-Open-Source/tuya-convert](https://github.com/ct-Open-Source/tuya-convert/), 0 commits :octocat:
+12. [conda-forge/holoviews-feedstock](https://github.com/conda-forge/holoviews-feedstock/), 0 commits :octocat:
+13. [conda-forge/paramiko-feedstock](https://github.com/conda-forge/paramiko-feedstock/), 0 commits :octocat:
+14. [basnijholt/supercurrent-majorana-nanowire](https://github.com/basnijholt/supercurrent-majorana-nanowire/), 0 commits :octocat:
+15. [basnijholt/mumpy](https://github.com/basnijholt/mumpy/), 0 commits :octocat:
+16. [basnijholt/nanowire-bandstructures](https://github.com/basnijholt/nanowire-bandstructures/), 0 commits :octocat:
+17. [conda-forge/conda-forge.github.io](https://github.com/conda-forge/conda-forge.github.io/), 0 commits :octocat:
+18. [ianare/exif-py](https://github.com/ianare/exif-py/), 0 commits :octocat:
+19. [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints/), 0 commits :octocat:
+20. [conda/conda](https://github.com/conda/conda/), 0 commits :octocat:
 
 </details>
 
