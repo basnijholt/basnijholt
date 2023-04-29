@@ -18,14 +18,14 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-04-28 12:08:41.562219.
+Last updated at 2023-04-29 12:05:36.303423.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1439 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 934 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 936 ⭐️s
 3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 823 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 757 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 424 ⭐️s
@@ -37,8 +37,8 @@ Last updated at 2023-04-28 12:08:41.562219.
 9. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 100 ⭐️s
 10. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 91 ⭐️s
 11. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 71 ⭐️s
-12. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 39 ⭐️s
-13. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 39 ⭐️s
+12. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 43 ⭐️s
+13. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 39 ⭐️s
 14. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 28 ⭐️s
 15. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 25 ⭐️s
 16. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 19 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-04-28 12:08:41.562219.
 
 ## number of commits :octocat:
 
-1. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 228 commits :octocat:
-2. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
-3. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-4. [telegraphic/hickle](https://github.com/telegraphic/hickle/), 2 commits :octocat:
-5. [joblib/loky](https://github.com/joblib/loky/), 1 commits :octocat:
+1. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+2. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+3. [pymc-devs/pymc](https://github.com/pymc-devs/pymc/), 5 commits :octocat:
+4. [facebook/Ax](https://github.com/facebook/Ax/), 1 commits :octocat:
+5. [basnijholt/Schrodinger-time-evolution](https://github.com/basnijholt/Schrodinger-time-evolution/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/calendar-of-life](https://github.com/basnijholt/calendar-of-life/), 0 commits :octocat:
-7. [basnijholt/cyclecloud-slurm-scaling](https://github.com/basnijholt/cyclecloud-slurm-scaling/), 0 commits :octocat:
-8. [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon/), 0 commits :octocat:
-9. [conda-forge/broadbean-feedstock](https://github.com/conda-forge/broadbean-feedstock/), 0 commits :octocat:
-10. [Azure/azure-cli](https://github.com/Azure/azure-cli/), 0 commits :octocat:
-11. [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks/), 0 commits :octocat:
-12. [conda-forge/fenics-feedstock](https://github.com/conda-forge/fenics-feedstock/), 0 commits :octocat:
-13. [adshao/go-binance](https://github.com/adshao/go-binance/), 0 commits :octocat:
-14. [chelseybaker/iOSMessageExport](https://github.com/chelseybaker/iOSMessageExport/), 0 commits :octocat:
-15. [conda-forge/metis-feedstock](https://github.com/conda-forge/metis-feedstock/), 0 commits :octocat:
-16. [conda-forge/adaptive-scheduler-feedstock](https://github.com/conda-forge/adaptive-scheduler-feedstock/), 0 commits :octocat:
-17. [basnijholt/backups](https://github.com/basnijholt/backups/), 0 commits :octocat:
-18. [conda-forge/pfapack-feedstock](https://github.com/conda-forge/pfapack-feedstock/), 0 commits :octocat:
-19. [basnijholt/versioningit_fail](https://github.com/basnijholt/versioningit_fail/), 0 commits :octocat:
-20. [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon/), 0 commits :octocat:
+6. [binance-exchange/binance-official-api-docs](https://github.com/binance-exchange/binance-official-api-docs/), 0 commits :octocat:
+7. [Kobold/text_histogram](https://github.com/Kobold/text_histogram/), 0 commits :octocat:
+8. [Python-Meetup-Rotterdam/meetup1](https://github.com/Python-Meetup-Rotterdam/meetup1/), 0 commits :octocat:
+9. [basnijholt/pyfeast](https://github.com/basnijholt/pyfeast/), 0 commits :octocat:
+10. [Azure/azhpc-images](https://github.com/Azure/azhpc-images/), 0 commits :octocat:
+11. [hassio-addons/workflows](https://github.com/hassio-addons/workflows/), 0 commits :octocat:
+12. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 0 commits :octocat:
+13. [joblib/loky](https://github.com/joblib/loky/), 0 commits :octocat:
+14. [basnijholt/discretizer](https://github.com/basnijholt/discretizer/), 0 commits :octocat:
+15. [conda-forge/conda-forge.github.io](https://github.com/conda-forge/conda-forge.github.io/), 0 commits :octocat:
+16. [conda-forge/nbstripout-feedstock](https://github.com/conda-forge/nbstripout-feedstock/), 0 commits :octocat:
+17. [home-assistant/developers.home-assistant](https://github.com/home-assistant/developers.home-assistant/), 0 commits :octocat:
+18. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 0 commits :octocat:
+19. [conda-forge/qcodes-feedstock](https://github.com/conda-forge/qcodes-feedstock/), 0 commits :octocat:
+20. [conda-forge/paraview-feedstock](https://github.com/conda-forge/paraview-feedstock/), 0 commits :octocat:
 
 </details>
 
