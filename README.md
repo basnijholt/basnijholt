@@ -18,23 +18,23 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-04-29 12:05:36.303423.
+Last updated at 2023-04-30 12:08:45.981730.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1439 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 936 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 823 ⭐️s
-4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 757 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 424 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1440 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 939 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 824 ⭐️s
+4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 795 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 425 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 408 ⭐️s
 7. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 360 ⭐️s
 8. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 238 ⭐️s
-9. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 100 ⭐️s
+9. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 101 ⭐️s
 10. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 91 ⭐️s
 11. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 71 ⭐️s
 12. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 43 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-04-29 12:05:36.303423.
 
 ## number of commits :octocat:
 
-1. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-2. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-3. [pymc-devs/pymc](https://github.com/pymc-devs/pymc/), 5 commits :octocat:
-4. [facebook/Ax](https://github.com/facebook/Ax/), 1 commits :octocat:
-5. [basnijholt/Schrodinger-time-evolution](https://github.com/basnijholt/Schrodinger-time-evolution/), 0 commits :octocat:
+1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1413 commits :octocat:
+2. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
+3. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+4. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+5. [solidity-by-example/solidity-by-example.github.io](https://github.com/solidity-by-example/solidity-by-example.github.io/), 3 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [binance-exchange/binance-official-api-docs](https://github.com/binance-exchange/binance-official-api-docs/), 0 commits :octocat:
-7. [Kobold/text_histogram](https://github.com/Kobold/text_histogram/), 0 commits :octocat:
-8. [Python-Meetup-Rotterdam/meetup1](https://github.com/Python-Meetup-Rotterdam/meetup1/), 0 commits :octocat:
-9. [basnijholt/pyfeast](https://github.com/basnijholt/pyfeast/), 0 commits :octocat:
-10. [Azure/azhpc-images](https://github.com/Azure/azhpc-images/), 0 commits :octocat:
-11. [hassio-addons/workflows](https://github.com/hassio-addons/workflows/), 0 commits :octocat:
-12. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 0 commits :octocat:
-13. [joblib/loky](https://github.com/joblib/loky/), 0 commits :octocat:
-14. [basnijholt/discretizer](https://github.com/basnijholt/discretizer/), 0 commits :octocat:
-15. [conda-forge/conda-forge.github.io](https://github.com/conda-forge/conda-forge.github.io/), 0 commits :octocat:
-16. [conda-forge/nbstripout-feedstock](https://github.com/conda-forge/nbstripout-feedstock/), 0 commits :octocat:
-17. [home-assistant/developers.home-assistant](https://github.com/home-assistant/developers.home-assistant/), 0 commits :octocat:
-18. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 0 commits :octocat:
-19. [conda-forge/qcodes-feedstock](https://github.com/conda-forge/qcodes-feedstock/), 0 commits :octocat:
-20. [conda-forge/paraview-feedstock](https://github.com/conda-forge/paraview-feedstock/), 0 commits :octocat:
+6. [facebook/Ax](https://github.com/facebook/Ax/), 1 commits :octocat:
+7. [binder-project/binder-build-core](https://github.com/binder-project/binder-build-core/), 0 commits :octocat:
+8. [hassio-addons/workflows](https://github.com/hassio-addons/workflows/), 0 commits :octocat:
+9. [jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets/), 0 commits :octocat:
+10. [uchicago-cs/deepdish](https://github.com/uchicago-cs/deepdish/), 0 commits :octocat:
+11. [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN/), 0 commits :octocat:
+12. [conda-forge/jupyter-sphinx-feedstock](https://github.com/conda-forge/jupyter-sphinx-feedstock/), 0 commits :octocat:
+13. [jbweston/miniver](https://github.com/jbweston/miniver/), 0 commits :octocat:
+14. [basnijholt/kopen-of-huren](https://github.com/basnijholt/kopen-of-huren/), 0 commits :octocat:
+15. [conda-forge/conda-forge-repodata-patches-feedstock](https://github.com/conda-forge/conda-forge-repodata-patches-feedstock/), 0 commits :octocat:
+16. [basnijholt/pyfeast](https://github.com/basnijholt/pyfeast/), 0 commits :octocat:
+17. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 0 commits :octocat:
+18. [custom-components/pyscript](https://github.com/custom-components/pyscript/), 0 commits :octocat:
+19. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 0 commits :octocat:
+20. [conda/conda](https://github.com/conda/conda/), 0 commits :octocat:
 
 </details>
 
