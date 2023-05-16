@@ -18,27 +18,27 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-05-15 12:08:55.731391.
+Last updated at 2023-05-16 12:06:21.624601.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1446 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 960 ⭐️s
-3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 917 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 837 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 966 ⭐️s
+3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 950 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 838 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 427 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 410 ⭐️s
 7. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 360 ⭐️s
 8. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 238 ⭐️s
-9. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 153 ⭐️s
+9. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 175 ⭐️s
 10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 106 ⭐️s
 11. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 92 ⭐️s
 12. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 72 ⭐️s
-13. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 53 ⭐️s
+13. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 54 ⭐️s
 14. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 42 ⭐️s
 15. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 28 ⭐️s
 16. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 25 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-05-15 12:08:55.731391.
 
 ## number of commits :octocat:
 
-1. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
-2. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-3. [nipype/pydra-tutorial](https://github.com/nipype/pydra-tutorial/), 2 commits :octocat:
-4. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 0 commits :octocat:
-5. [agkozak/zsh-z](https://github.com/agkozak/zsh-z/), 0 commits :octocat:
+1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1417 commits :octocat:
+2. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 228 commits :octocat:
+3. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+4. [sobolevn/git-secret](https://github.com/sobolevn/git-secret/), 1 commits :octocat:
+5. [asottile/pyupgrade](https://github.com/asottile/pyupgrade/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit/), 0 commits :octocat:
-7. [MicrosoftDocs/azure-devops-docs](https://github.com/MicrosoftDocs/azure-devops-docs/), 0 commits :octocat:
-8. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 0 commits :octocat:
-9. [SchedMD/slurm](https://github.com/SchedMD/slurm/), 0 commits :octocat:
-10. [craigbarratt/hass-pyscript-jupyter](https://github.com/craigbarratt/hass-pyscript-jupyter/), 0 commits :octocat:
-11. [kwant-project/testing](https://github.com/kwant-project/testing/), 0 commits :octocat:
-12. [telegraphic/hickle](https://github.com/telegraphic/hickle/), 0 commits :octocat:
-13. [conda-forge/holoviews-feedstock](https://github.com/conda-forge/holoviews-feedstock/), 0 commits :octocat:
-14. [conda-forge/pelican-feedstock](https://github.com/conda-forge/pelican-feedstock/), 0 commits :octocat:
-15. [QCoDeS/broadbean](https://github.com/QCoDeS/broadbean/), 0 commits :octocat:
-16. [Azure/azhpc-images](https://github.com/Azure/azhpc-images/), 0 commits :octocat:
-17. [binder-project/binder-build-core](https://github.com/binder-project/binder-build-core/), 0 commits :octocat:
-18. [ianare/exif-py](https://github.com/ianare/exif-py/), 0 commits :octocat:
-19. [kraih/kefctl](https://github.com/kraih/kefctl/), 0 commits :octocat:
-20. [basnijholt/codestructure](https://github.com/basnijholt/codestructure/), 0 commits :octocat:
+6. [conda-forge/kwant-feedstock](https://github.com/conda-forge/kwant-feedstock/), 0 commits :octocat:
+7. [chelseybaker/iOSMessageExport](https://github.com/chelseybaker/iOSMessageExport/), 0 commits :octocat:
+8. [haarcuba/ssh-agent-setup](https://github.com/haarcuba/ssh-agent-setup/), 0 commits :octocat:
+9. [binder-project/binder](https://github.com/binder-project/binder/), 0 commits :octocat:
+10. [basnijholt/Casimir-programming](https://github.com/basnijholt/Casimir-programming/), 0 commits :octocat:
+11. [conda-forge/sphinx-autodoc-typehints-feedstock](https://github.com/conda-forge/sphinx-autodoc-typehints-feedstock/), 0 commits :octocat:
+12. [rougier/freetype-py](https://github.com/rougier/freetype-py/), 0 commits :octocat:
+13. [basnijholt/basnijholt](https://github.com/basnijholt/basnijholt/), 0 commits :octocat:
+14. [pandas-dev/pandas](https://github.com/pandas-dev/pandas/), 0 commits :octocat:
+15. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 0 commits :octocat:
+16. [grantjenks/python-sortedcollections](https://github.com/grantjenks/python-sortedcollections/), 0 commits :octocat:
+17. [basnijholt/molecular-dynamics-FORTRAN](https://github.com/basnijholt/molecular-dynamics-FORTRAN/), 0 commits :octocat:
+18. [NVIDIA/ipyparaview](https://github.com/NVIDIA/ipyparaview/), 0 commits :octocat:
+19. [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs/), 0 commits :octocat:
+20. [pydata/xarray](https://github.com/pydata/xarray/), 0 commits :octocat:
 
 </details>
 
