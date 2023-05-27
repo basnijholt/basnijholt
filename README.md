@@ -18,27 +18,27 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-05-26 12:05:59.235257.
+Last updated at 2023-05-27 12:09:21.001339.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1449 ⭐️s
-2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1032 ⭐️s
-3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 980 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1450 ⭐️s
+2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1034 ⭐️s
+3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 981 ⭐️s
 4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 842 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 432 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 410 ⭐️s
 7. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 360 ⭐️s
-8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 280 ⭐️s
+8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 285 ⭐️s
 9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 239 ⭐️s
 10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 106 ⭐️s
 11. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 92 ⭐️s
 12. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 73 ⭐️s
-13. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 62 ⭐️s
+13. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 63 ⭐️s
 14. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 42 ⭐️s
 15. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 28 ⭐️s
 16. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 25 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-05-26 12:05:59.235257.
 
 ## number of commits :octocat:
 
-1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1417 commits :octocat:
-2. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
-3. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-4. [amccaugh/phidl](https://github.com/amccaugh/phidl/), 34 commits :octocat:
-5. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+1. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
+2. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+3. [amccaugh/phidl](https://github.com/amccaugh/phidl/), 34 commits :octocat:
+4. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+5. [danobot/entity-controller](https://github.com/danobot/entity-controller/), 1 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [pymc-devs/pymc](https://github.com/pymc-devs/pymc/), 5 commits :octocat:
-7. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
-8. [basnijholt/codestructure](https://github.com/basnijholt/codestructure/), 0 commits :octocat:
-9. [basnijholt/backups](https://github.com/basnijholt/backups/), 0 commits :octocat:
-10. [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon/), 0 commits :octocat:
-11. [conda-forge/conda-forge.github.io](https://github.com/conda-forge/conda-forge.github.io/), 0 commits :octocat:
-12. [conda-forge/hpc05-feedstock](https://github.com/conda-forge/hpc05-feedstock/), 0 commits :octocat:
-13. [benfred/py-spy](https://github.com/benfred/py-spy/), 0 commits :octocat:
-14. [conda-forge/occt-feedstock](https://github.com/conda-forge/occt-feedstock/), 0 commits :octocat:
-15. [conda-forge/fastcache-feedstock](https://github.com/conda-forge/fastcache-feedstock/), 0 commits :octocat:
-16. [basnijholt/yaml2bib](https://github.com/basnijholt/yaml2bib/), 0 commits :octocat:
-17. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 0 commits :octocat:
-18. [conda-forge/sshtunnel-feedstock](https://github.com/conda-forge/sshtunnel-feedstock/), 0 commits :octocat:
-19. [Azure/azhpc-images](https://github.com/Azure/azhpc-images/), 0 commits :octocat:
-20. [custom-components/pyscript](https://github.com/custom-components/pyscript/), 0 commits :octocat:
+6. [conda-forge/nbstripout-feedstock](https://github.com/conda-forge/nbstripout-feedstock/), 0 commits :octocat:
+7. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 0 commits :octocat:
+8. [conda-forge/opencensus-feedstock](https://github.com/conda-forge/opencensus-feedstock/), 0 commits :octocat:
+9. [conda-forge/vtk-feedstock](https://github.com/conda-forge/vtk-feedstock/), 0 commits :octocat:
+10. [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs/), 0 commits :octocat:
+11. [kraih/kefctl](https://github.com/kraih/kefctl/), 0 commits :octocat:
+12. [holoviz/panel](https://github.com/holoviz/panel/), 0 commits :octocat:
+13. [conda-forge/mumps-feedstock](https://github.com/conda-forge/mumps-feedstock/), 0 commits :octocat:
+14. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 0 commits :octocat:
+15. [basnijholt/versioningit_fail](https://github.com/basnijholt/versioningit_fail/), 0 commits :octocat:
+16. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 0 commits :octocat:
+17. [basnijholt/qcodes-repr](https://github.com/basnijholt/qcodes-repr/), 0 commits :octocat:
+18. [basnijholt/slurm-usage](https://github.com/basnijholt/slurm-usage/), 0 commits :octocat:
+19. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 0 commits :octocat:
+20. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/), 0 commits :octocat:
 
 </details>
 
