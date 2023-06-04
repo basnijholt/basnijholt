@@ -18,24 +18,24 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-06-03 12:08:37.790423.
+Last updated at 2023-06-04 12:08:23.229061.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1460 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1461 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1043 ⭐️s
-3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 986 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 846 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 434 ⭐️s
+3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 987 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 845 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 435 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 411 ⭐️s
 7. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 360 ⭐️s
-8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 292 ⭐️s
+8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 293 ⭐️s
 9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 240 ⭐️s
-10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 107 ⭐️s
+10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 108 ⭐️s
 11. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 92 ⭐️s
 12. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 73 ⭐️s
 13. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 70 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-06-03 12:08:37.790423.
 
 ## number of commits :octocat:
 
-1. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
-2. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-3. [brettcannon/gidgethub](https://github.com/brettcannon/gidgethub/), 1 commits :octocat:
-4. [jbweston/miniver](https://github.com/jbweston/miniver/), 0 commits :octocat:
-5. [basnijholt/azure-agent-jupyter-minimal-notebook](https://github.com/basnijholt/azure-agent-jupyter-minimal-notebook/), 0 commits :octocat:
+1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1417 commits :octocat:
+2. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
+3. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+4. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+5. [solidity-by-example/solidity-by-example.github.io](https://github.com/solidity-by-example/solidity-by-example.github.io/), 3 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/test](https://github.com/basnijholt/test/), 0 commits :octocat:
-7. [embeddedartistry/templates](https://github.com/embeddedartistry/templates/), 0 commits :octocat:
-8. [basnijholt/adaptive-talk](https://github.com/basnijholt/adaptive-talk/), 0 commits :octocat:
-9. [amccaugh/phidl](https://github.com/amccaugh/phidl/), 0 commits :octocat:
-10. [pymc-devs/pymc](https://github.com/pymc-devs/pymc/), 0 commits :octocat:
-11. [kwant-project/binder](https://github.com/kwant-project/binder/), 0 commits :octocat:
-12. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 0 commits :octocat:
-13. [ipython/ipyparallel](https://github.com/ipython/ipyparallel/), 0 commits :octocat:
-14. [Jvanschoubroeck/Topology-optimization](https://github.com/Jvanschoubroeck/Topology-optimization/), 0 commits :octocat:
-15. [james-barrow/golang-ipc](https://github.com/james-barrow/golang-ipc/), 0 commits :octocat:
-16. [conda-forge/pyvista-feedstock](https://github.com/conda-forge/pyvista-feedstock/), 0 commits :octocat:
-17. [jwodder/versioningit](https://github.com/jwodder/versioningit/), 0 commits :octocat:
-18. [devcontainers/features](https://github.com/devcontainers/features/), 0 commits :octocat:
-19. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 0 commits :octocat:
-20. [danobot/entity-controller](https://github.com/danobot/entity-controller/), 0 commits :octocat:
+6. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
+7. [brettcannon/gidgethub](https://github.com/brettcannon/gidgethub/), 1 commits :octocat:
+8. [sobolevn/git-secret](https://github.com/sobolevn/git-secret/), 1 commits :octocat:
+9. [dask/dask-drmaa](https://github.com/dask/dask-drmaa/), 0 commits :octocat:
+10. [TribuneX/home_assistant](https://github.com/TribuneX/home_assistant/), 0 commits :octocat:
+11. [rotki/rotki](https://github.com/rotki/rotki/), 0 commits :octocat:
+12. [dfm/emcee](https://github.com/dfm/emcee/), 0 commits :octocat:
+13. [joblib/loky](https://github.com/joblib/loky/), 0 commits :octocat:
+14. [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer/), 0 commits :octocat:
+15. [conda-forge/conda-forge-repodata-patches-feedstock](https://github.com/conda-forge/conda-forge-repodata-patches-feedstock/), 0 commits :octocat:
+16. [basnijholt/shortjunction](https://github.com/basnijholt/shortjunction/), 0 commits :octocat:
+17. [conda-forge/fenics-feedstock](https://github.com/conda-forge/fenics-feedstock/), 0 commits :octocat:
+18. [conda-forge/deepdish-feedstock](https://github.com/conda-forge/deepdish-feedstock/), 0 commits :octocat:
+19. [basnijholt/zigzag-majoranas](https://github.com/basnijholt/zigzag-majoranas/), 0 commits :octocat:
+20. [conda-forge/cdt-builds](https://github.com/conda-forge/cdt-builds/), 0 commits :octocat:
 
 </details>
 
