@@ -18,22 +18,22 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-06-20 12:08:50.121503.
+Last updated at 2023-06-21 12:08:45.686754.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1468 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1469 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1046 ⭐️s
 3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1004 ⭐️s
 4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 856 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 441 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 444 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 413 ⭐️s
 7. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 360 ⭐️s
-8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 312 ⭐️s
+8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 317 ⭐️s
 9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 240 ⭐️s
 10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 110 ⭐️s
 11. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 92 ⭐️s
@@ -54,27 +54,27 @@ Last updated at 2023-06-20 12:08:50.121503.
 ## number of commits :octocat:
 
 1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1417 commits :octocat:
-2. [holoviz/panel](https://github.com/holoviz/panel/), 1 commits :octocat:
-3. [conda-forge/opencensus-feedstock](https://github.com/conda-forge/opencensus-feedstock/), 0 commits :octocat:
-4. [solidity-by-example/solidity-by-example.github.io](https://github.com/solidity-by-example/solidity-by-example.github.io/), 0 commits :octocat:
-5. [zigpy/zigpy](https://github.com/zigpy/zigpy/), 0 commits :octocat:
+2. [pymc-devs/pymc](https://github.com/pymc-devs/pymc/), 5 commits :octocat:
+3. [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player/), 1 commits :octocat:
+4. [conda-forge/kwant-feedstock](https://github.com/conda-forge/kwant-feedstock/), 0 commits :octocat:
+5. [conda-forge/pyvista-feedstock](https://github.com/conda-forge/pyvista-feedstock/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [ProjectMeniscus/pywebhdfs](https://github.com/ProjectMeniscus/pywebhdfs/), 0 commits :octocat:
-7. [conda-forge/adaptive-feedstock](https://github.com/conda-forge/adaptive-feedstock/), 0 commits :octocat:
-8. [basnijholt/nanowire-bandstructures](https://github.com/basnijholt/nanowire-bandstructures/), 0 commits :octocat:
-9. [Python-Meetup-Rotterdam/meetup1](https://github.com/Python-Meetup-Rotterdam/meetup1/), 0 commits :octocat:
-10. [conda/conda](https://github.com/conda/conda/), 0 commits :octocat:
-11. [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt/), 0 commits :octocat:
-12. [conda-forge/adaptive-scheduler-feedstock](https://github.com/conda-forge/adaptive-scheduler-feedstock/), 0 commits :octocat:
-13. [Azure/azure-cli](https://github.com/Azure/azure-cli/), 0 commits :octocat:
-14. [numpy/numpy](https://github.com/numpy/numpy/), 0 commits :octocat:
-15. [conda-forge/occt-feedstock](https://github.com/conda-forge/occt-feedstock/), 0 commits :octocat:
-16. [astrojuanlu/fenics-recipes](https://github.com/astrojuanlu/fenics-recipes/), 0 commits :octocat:
-17. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 0 commits :octocat:
-18. [andrewbrereton/privateinternetaccess-on-openwrt](https://github.com/andrewbrereton/privateinternetaccess-on-openwrt/), 0 commits :octocat:
-19. [aiidateam/aiida-core](https://github.com/aiidateam/aiida-core/), 0 commits :octocat:
-20. [sseemayer/qstat-pretty](https://github.com/sseemayer/qstat-pretty/), 0 commits :octocat:
+6. [conda/conda](https://github.com/conda/conda/), 0 commits :octocat:
+7. [binance-exchange/binance-official-api-docs](https://github.com/binance-exchange/binance-official-api-docs/), 0 commits :octocat:
+8. [binder-project/binder-build-core](https://github.com/binder-project/binder-build-core/), 0 commits :octocat:
+9. [cornelk/hashmap](https://github.com/cornelk/hashmap/), 0 commits :octocat:
+10. [telegraphic/hickle](https://github.com/telegraphic/hickle/), 0 commits :octocat:
+11. [custom-cards/button-card](https://github.com/custom-cards/button-card/), 0 commits :octocat:
+12. [conda-forge/nbstripout-feedstock](https://github.com/conda-forge/nbstripout-feedstock/), 0 commits :octocat:
+13. [miyakogi/m2r](https://github.com/miyakogi/m2r/), 0 commits :octocat:
+14. [ethereum/EIPs](https://github.com/ethereum/EIPs/), 0 commits :octocat:
+15. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 0 commits :octocat:
+16. [devcontainers/features](https://github.com/devcontainers/features/), 0 commits :octocat:
+17. [conda-forge/pywebhdfs-feedstock](https://github.com/conda-forge/pywebhdfs-feedstock/), 0 commits :octocat:
+18. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 0 commits :octocat:
+19. [ChristianKuehnel/btlewrap](https://github.com/ChristianKuehnel/btlewrap/), 0 commits :octocat:
+20. [ccxt/ccxt](https://github.com/ccxt/ccxt/), 0 commits :octocat:
 
 </details>
 
