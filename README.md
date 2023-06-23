@@ -18,17 +18,17 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-06-22 12:08:39.923132.
+Last updated at 2023-06-23 12:09:03.011406.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1471 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1473 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1046 ⭐️s
 3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1005 ⭐️s
 4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 856 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 445 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 446 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 413 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-06-22 12:08:39.923132.
 
 ## number of commits :octocat:
 
-1. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 57 commits :octocat:
-2. [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks/), 10 commits :octocat:
+1. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+2. [pymc-devs/pymc](https://github.com/pymc-devs/pymc/), 5 commits :octocat:
 3. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
-4. [brettcannon/gidgethub](https://github.com/brettcannon/gidgethub/), 1 commits :octocat:
-5. [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes/), 0 commits :octocat:
+4. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
+5. [sobolevn/git-secret](https://github.com/sobolevn/git-secret/), 1 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 0 commits :octocat:
-7. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 0 commits :octocat:
-8. [uchicago-cs/deepdish](https://github.com/uchicago-cs/deepdish/), 0 commits :octocat:
-9. [ICB-DCM/pyABC](https://github.com/ICB-DCM/pyABC/), 0 commits :octocat:
-10. [home-assistant/core](https://github.com/home-assistant/core/), 0 commits :octocat:
-11. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 0 commits :octocat:
-12. [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/), 0 commits :octocat:
-13. [home-assistant/supervisor](https://github.com/home-assistant/supervisor/), 0 commits :octocat:
-14. [conda-forge/mshr-feedstock](https://github.com/conda-forge/mshr-feedstock/), 0 commits :octocat:
-15. [dask/dask-jobqueue](https://github.com/dask/dask-jobqueue/), 0 commits :octocat:
-16. [kraih/kefctl](https://github.com/kraih/kefctl/), 0 commits :octocat:
-17. [conda-forge/tinyarray-feedstock](https://github.com/conda-forge/tinyarray-feedstock/), 0 commits :octocat:
-18. [ccxt/ccxt](https://github.com/ccxt/ccxt/), 0 commits :octocat:
-19. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 0 commits :octocat:
-20. [pydata/xarray](https://github.com/pydata/xarray/), 0 commits :octocat:
+6. [basnijholt/molecular-dynamics-Python](https://github.com/basnijholt/molecular-dynamics-Python/), 0 commits :octocat:
+7. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 0 commits :octocat:
+8. [bdraco/ulid-transform](https://github.com/bdraco/ulid-transform/), 0 commits :octocat:
+9. [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs/), 0 commits :octocat:
+10. [mbongaerts/Metchalizer](https://github.com/mbongaerts/Metchalizer/), 0 commits :octocat:
+11. [chelseybaker/iOSMessageExport](https://github.com/chelseybaker/iOSMessageExport/), 0 commits :octocat:
+12. [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19/), 0 commits :octocat:
+13. [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player/), 0 commits :octocat:
+14. [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes/), 0 commits :octocat:
+15. [conda-forge/pytest-flakes-feedstock](https://github.com/conda-forge/pytest-flakes-feedstock/), 0 commits :octocat:
+16. [lkorth/jekyll-500px-embed](https://github.com/lkorth/jekyll-500px-embed/), 0 commits :octocat:
+17. [conda-forge/sshtunnel-feedstock](https://github.com/conda-forge/sshtunnel-feedstock/), 0 commits :octocat:
+18. [tox-dev/azure-pipelines-template](https://github.com/tox-dev/azure-pipelines-template/), 0 commits :octocat:
+19. [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/), 0 commits :octocat:
+20. [mvn23/pyotgw](https://github.com/mvn23/pyotgw/), 0 commits :octocat:
 
 </details>
 
