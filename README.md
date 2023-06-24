@@ -18,22 +18,22 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-06-23 12:09:03.011406.
+Last updated at 2023-06-24 12:08:54.023248.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1473 ⭐️s
-2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1046 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1474 ⭐️s
+2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1047 ⭐️s
 3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1005 ⭐️s
 4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 856 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 446 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 448 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 413 ⭐️s
+6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 414 ⭐️s
 7. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 360 ⭐️s
-8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 320 ⭐️s
+8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 321 ⭐️s
 9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 241 ⭐️s
 10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 110 ⭐️s
 11. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 92 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-06-23 12:09:03.011406.
 
 ## number of commits :octocat:
 
-1. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-2. [pymc-devs/pymc](https://github.com/pymc-devs/pymc/), 5 commits :octocat:
-3. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
-4. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
-5. [sobolevn/git-secret](https://github.com/sobolevn/git-secret/), 1 commits :octocat:
+1. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 228 commits :octocat:
+2. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+3. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+4. [solidity-by-example/solidity-by-example.github.io](https://github.com/solidity-by-example/solidity-by-example.github.io/), 3 commits :octocat:
+5. [brettcannon/gidgethub](https://github.com/brettcannon/gidgethub/), 1 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/molecular-dynamics-Python](https://github.com/basnijholt/molecular-dynamics-Python/), 0 commits :octocat:
-7. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 0 commits :octocat:
-8. [bdraco/ulid-transform](https://github.com/bdraco/ulid-transform/), 0 commits :octocat:
-9. [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs/), 0 commits :octocat:
-10. [mbongaerts/Metchalizer](https://github.com/mbongaerts/Metchalizer/), 0 commits :octocat:
-11. [chelseybaker/iOSMessageExport](https://github.com/chelseybaker/iOSMessageExport/), 0 commits :octocat:
-12. [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19/), 0 commits :octocat:
-13. [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player/), 0 commits :octocat:
-14. [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes/), 0 commits :octocat:
-15. [conda-forge/pytest-flakes-feedstock](https://github.com/conda-forge/pytest-flakes-feedstock/), 0 commits :octocat:
-16. [lkorth/jekyll-500px-embed](https://github.com/lkorth/jekyll-500px-embed/), 0 commits :octocat:
-17. [conda-forge/sshtunnel-feedstock](https://github.com/conda-forge/sshtunnel-feedstock/), 0 commits :octocat:
-18. [tox-dev/azure-pipelines-template](https://github.com/tox-dev/azure-pipelines-template/), 0 commits :octocat:
-19. [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/), 0 commits :octocat:
-20. [mvn23/pyotgw](https://github.com/mvn23/pyotgw/), 0 commits :octocat:
+6. [basnijholt/kwant-conda-recipes](https://github.com/basnijholt/kwant-conda-recipes/), 0 commits :octocat:
+7. [mikeshultz/ledger-eth-lib](https://github.com/mikeshultz/ledger-eth-lib/), 0 commits :octocat:
+8. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 0 commits :octocat:
+9. [custom-components/pyscript](https://github.com/custom-components/pyscript/), 0 commits :octocat:
+10. [sobolevn/git-secret](https://github.com/sobolevn/git-secret/), 0 commits :octocat:
+11. [conda-forge/scikit-optimize-feedstock](https://github.com/conda-forge/scikit-optimize-feedstock/), 0 commits :octocat:
+12. [tox-dev/azure-pipelines-template](https://github.com/tox-dev/azure-pipelines-template/), 0 commits :octocat:
+13. [conda-forge/sphinx-autodoc-typehints-feedstock](https://github.com/conda-forge/sphinx-autodoc-typehints-feedstock/), 0 commits :octocat:
+14. [zigpy/zigpy](https://github.com/zigpy/zigpy/), 0 commits :octocat:
+15. [microsoft/azure-pipelines-agent](https://github.com/microsoft/azure-pipelines-agent/), 0 commits :octocat:
+16. [kwant-project/tinyarray](https://github.com/kwant-project/tinyarray/), 0 commits :octocat:
+17. [conda-forge/freecad-feedstock](https://github.com/conda-forge/freecad-feedstock/), 0 commits :octocat:
+18. [cornellius-gp/gpytorch](https://github.com/cornellius-gp/gpytorch/), 0 commits :octocat:
+19. [conda-forge/metis-feedstock](https://github.com/conda-forge/metis-feedstock/), 0 commits :octocat:
+20. [basnijholt/pyfeast](https://github.com/basnijholt/pyfeast/), 0 commits :octocat:
 
 </details>
 
