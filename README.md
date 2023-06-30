@@ -18,24 +18,24 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-06-29 12:08:49.030072.
+Last updated at 2023-06-30 12:08:55.002325.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1476 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1478 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1049 ⭐️s
-3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1007 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 860 ⭐️s
+3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1008 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 861 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 449 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 414 ⭐️s
+6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 416 ⭐️s
 7. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 360 ⭐️s
-8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 323 ⭐️s
+8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 325 ⭐️s
 9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 241 ⭐️s
-10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 113 ⭐️s
+10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 117 ⭐️s
 11. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 92 ⭐️s
 12. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 73 ⭐️s
 13. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 73 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-06-29 12:08:49.030072.
 
 ## number of commits :octocat:
 
-1. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-2. [ipython/ipyparallel](https://github.com/ipython/ipyparallel/), 3 commits :octocat:
-3. [cornelk/hashmap](https://github.com/cornelk/hashmap/), 1 commits :octocat:
-4. [pahaz/sshtunnel](https://github.com/pahaz/sshtunnel/), 1 commits :octocat:
-5. [conda-forge/freecad-feedstock](https://github.com/conda-forge/freecad-feedstock/), 0 commits :octocat:
+1. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+2. [custom-components/pyscript](https://github.com/custom-components/pyscript/), 5 commits :octocat:
+3. [RMerl/asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin/), 0 commits :octocat:
+4. [nipype/pydra-tutorial](https://github.com/nipype/pydra-tutorial/), 0 commits :octocat:
+5. [conda-forge/kwant-feedstock](https://github.com/conda-forge/kwant-feedstock/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [conda-forge/jupyter_cms-feedstock](https://github.com/conda-forge/jupyter_cms-feedstock/), 0 commits :octocat:
-7. [holoviz/panel](https://github.com/holoviz/panel/), 0 commits :octocat:
-8. [pydata/xarray](https://github.com/pydata/xarray/), 0 commits :octocat:
-9. [basnijholt/codestructure](https://github.com/basnijholt/codestructure/), 0 commits :octocat:
-10. [DenisCarriere/geocoder](https://github.com/DenisCarriere/geocoder/), 0 commits :octocat:
-11. [kedro-org/kedro-community](https://github.com/kedro-org/kedro-community/), 0 commits :octocat:
-12. [conda-forge/conda-forge-repodata-patches-feedstock](https://github.com/conda-forge/conda-forge-repodata-patches-feedstock/), 0 commits :octocat:
-13. [basnijholt/calendar-of-life](https://github.com/basnijholt/calendar-of-life/), 0 commits :octocat:
-14. [kwant-project/tinyarray](https://github.com/kwant-project/tinyarray/), 0 commits :octocat:
-15. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 0 commits :octocat:
-16. [microsoft/azure-pipelines-agent](https://github.com/microsoft/azure-pipelines-agent/), 0 commits :octocat:
-17. [conda-forge/pyvisa-feedstock](https://github.com/conda-forge/pyvisa-feedstock/), 0 commits :octocat:
-18. [conda-forge/paraview-feedstock](https://github.com/conda-forge/paraview-feedstock/), 0 commits :octocat:
-19. [basnijholt/yaml2bib](https://github.com/basnijholt/yaml2bib/), 0 commits :octocat:
-20. [hassio-addons/addon-vscode](https://github.com/hassio-addons/addon-vscode/), 0 commits :octocat:
+6. [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon/), 0 commits :octocat:
+7. [basnijholt/kwant-conda-recipes](https://github.com/basnijholt/kwant-conda-recipes/), 0 commits :octocat:
+8. [uchicago-cs/deepdish](https://github.com/uchicago-cs/deepdish/), 0 commits :octocat:
+9. [lkorth/jekyll-500px-embed](https://github.com/lkorth/jekyll-500px-embed/), 0 commits :octocat:
+10. [sammchardy/python-binance](https://github.com/sammchardy/python-binance/), 0 commits :octocat:
+11. [Kobold/text_histogram](https://github.com/Kobold/text_histogram/), 0 commits :octocat:
+12. [basnijholt/cyclecloud-slurm-scaling](https://github.com/basnijholt/cyclecloud-slurm-scaling/), 0 commits :octocat:
+13. [whiskerz007/proxmox_hassos_install](https://github.com/whiskerz007/proxmox_hassos_install/), 0 commits :octocat:
+14. [basnijholt/variational-quantum-monte-carlo](https://github.com/basnijholt/variational-quantum-monte-carlo/), 0 commits :octocat:
+15. [kwant-project/homebrew-kwant](https://github.com/kwant-project/homebrew-kwant/), 0 commits :octocat:
+16. [conda-forge/shapely-feedstock](https://github.com/conda-forge/shapely-feedstock/), 0 commits :octocat:
+17. [conda-forge/opencensus-ext-azure-feedstock](https://github.com/conda-forge/opencensus-ext-azure-feedstock/), 0 commits :octocat:
+18. [kwant-project/billiard](https://github.com/kwant-project/billiard/), 0 commits :octocat:
+19. [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/), 0 commits :octocat:
+20. [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd/), 0 commits :octocat:
 
 </details>
 
