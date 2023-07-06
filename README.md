@@ -18,15 +18,15 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-07-05 12:09:08.276126.
+Last updated at 2023-07-06 12:07:13.652118.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1478 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1480 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1049 ⭐️s
-3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1015 ⭐️s
+3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1017 ⭐️s
 4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 865 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 451 ⭐️s
 <details><summary>Click to expand!</summary>
@@ -53,28 +53,28 @@ Last updated at 2023-07-05 12:09:08.276126.
 
 ## number of commits :octocat:
 
-1. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
-2. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
-3. [facebook/Ax](https://github.com/facebook/Ax/), 1 commits :octocat:
-4. [kedro-org/kedro-community](https://github.com/kedro-org/kedro-community/), 0 commits :octocat:
-5. [eddy-ojb/holoviews-contrib](https://github.com/eddy-ojb/holoviews-contrib/), 0 commits :octocat:
+1. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+2. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+3. [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks/), 10 commits :octocat:
+4. [pymc-devs/pymc](https://github.com/pymc-devs/pymc/), 5 commits :octocat:
+5. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [pydata/xarray](https://github.com/pydata/xarray/), 0 commits :octocat:
-7. [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN/), 0 commits :octocat:
-8. [haarcuba/ssh-agent-setup](https://github.com/haarcuba/ssh-agent-setup/), 0 commits :octocat:
-9. [basnijholt/adaptive-tools](https://github.com/basnijholt/adaptive-tools/), 0 commits :octocat:
-10. [basnijholt/QPC-quantum-transport](https://github.com/basnijholt/QPC-quantum-transport/), 0 commits :octocat:
-11. [CJ-Wright/cf-graph-countyfair](https://github.com/CJ-Wright/cf-graph-countyfair/), 0 commits :octocat:
-12. [cornelk/hashmap](https://github.com/cornelk/hashmap/), 0 commits :octocat:
-13. [jleben/bib-yaml](https://github.com/jleben/bib-yaml/), 0 commits :octocat:
-14. [sphinx-contrib/napoleon](https://github.com/sphinx-contrib/napoleon/), 0 commits :octocat:
-15. [holoviz/panel](https://github.com/holoviz/panel/), 0 commits :octocat:
-16. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 0 commits :octocat:
-17. [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs/), 0 commits :octocat:
-18. [itstorque/jekyll-shell-theme](https://github.com/itstorque/jekyll-shell-theme/), 0 commits :octocat:
-19. [fsspec/adlfs](https://github.com/fsspec/adlfs/), 0 commits :octocat:
-20. [hacs/default](https://github.com/hacs/default/), 0 commits :octocat:
+6. [mpi4py/mpi4py](https://github.com/mpi4py/mpi4py/), 1 commits :octocat:
+7. [ccxt/ccxt](https://github.com/ccxt/ccxt/), 0 commits :octocat:
+8. [basnijholt/molecular-dynamics-FORTRAN](https://github.com/basnijholt/molecular-dynamics-FORTRAN/), 0 commits :octocat:
+9. [basnijholt/slurm-usage](https://github.com/basnijholt/slurm-usage/), 0 commits :octocat:
+10. [eddy-ojb/holoviews-contrib](https://github.com/eddy-ojb/holoviews-contrib/), 0 commits :octocat:
+11. [nipype/pydra](https://github.com/nipype/pydra/), 0 commits :octocat:
+12. [kraih/kefctl](https://github.com/kraih/kefctl/), 0 commits :octocat:
+13. [basnijholt/adaptive-talk](https://github.com/basnijholt/adaptive-talk/), 0 commits :octocat:
+14. [kwant-project/billiard](https://github.com/kwant-project/billiard/), 0 commits :octocat:
+15. [hacs/default](https://github.com/hacs/default/), 0 commits :octocat:
+16. [basnijholt/majorana-nanowire-conductance](https://github.com/basnijholt/majorana-nanowire-conductance/), 0 commits :octocat:
+17. [Azure/azure-cli](https://github.com/Azure/azure-cli/), 0 commits :octocat:
+18. [basnijholt/cluster-logger](https://github.com/basnijholt/cluster-logger/), 0 commits :octocat:
+19. [RobinUS2/golang-moving-average](https://github.com/RobinUS2/golang-moving-average/), 0 commits :octocat:
+20. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 0 commits :octocat:
 
 </details>
 
