@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-07-12 12:09:05.934512.
+Last updated at 2023-07-13 12:06:46.215984.
 
 # GitHub statistics — my top 20
 
@@ -28,7 +28,7 @@ Last updated at 2023-07-12 12:09:05.934512.
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1049 ⭐️s
 3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1023 ⭐️s
 4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 873 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 453 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 454 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 417 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-07-12 12:09:05.934512.
 
 ## number of commits :octocat:
 
-1. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-2. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
-3. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/), 0 commits :octocat:
-4. [conda-forge/deepdish-feedstock](https://github.com/conda-forge/deepdish-feedstock/), 0 commits :octocat:
-5. [ianare/exif-py](https://github.com/ianare/exif-py/), 0 commits :octocat:
+1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1419 commits :octocat:
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 445 commits :octocat:
+3. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
+4. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+5. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [conda-forge/mshr-feedstock](https://github.com/conda-forge/mshr-feedstock/), 0 commits :octocat:
-7. [Jvanschoubroeck/Topology-optimization](https://github.com/Jvanschoubroeck/Topology-optimization/), 0 commits :octocat:
-8. [mvn23/pyotgw](https://github.com/mvn23/pyotgw/), 0 commits :octocat:
-9. [synesthesiam/hassio-addons](https://github.com/synesthesiam/hassio-addons/), 0 commits :octocat:
-10. [basnijholt/adaptive-talk](https://github.com/basnijholt/adaptive-talk/), 0 commits :octocat:
-11. [sdouglas/cadnano2](https://github.com/sdouglas/cadnano2/), 0 commits :octocat:
-12. [mpi4py/mpi4py](https://github.com/mpi4py/mpi4py/), 0 commits :octocat:
-13. [conda-forge/pyvisa-feedstock](https://github.com/conda-forge/pyvisa-feedstock/), 0 commits :octocat:
-14. [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB/), 0 commits :octocat:
-15. [Koenkk/zigbee2mqtt.io](https://github.com/Koenkk/zigbee2mqtt.io/), 0 commits :octocat:
-16. [dramenti/symmetry](https://github.com/dramenti/symmetry/), 0 commits :octocat:
-17. [CJ-Wright/cf-graph-countyfair](https://github.com/CJ-Wright/cf-graph-countyfair/), 0 commits :octocat:
-18. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 0 commits :octocat:
-19. [miyakogi/m2r](https://github.com/miyakogi/m2r/), 0 commits :octocat:
-20. [cornellius-gp/gpytorch](https://github.com/cornellius-gp/gpytorch/), 0 commits :octocat:
+6. [ipython/ipyparallel](https://github.com/ipython/ipyparallel/), 3 commits :octocat:
+7. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 2 commits :octocat:
+8. [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card/), 1 commits :octocat:
+9. [pahaz/sshtunnel](https://github.com/pahaz/sshtunnel/), 1 commits :octocat:
+10. [home-assistant/frontend](https://github.com/home-assistant/frontend/), 0 commits :octocat:
+11. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 0 commits :octocat:
+12. [RobinUS2/golang-moving-average](https://github.com/RobinUS2/golang-moving-average/), 0 commits :octocat:
+13. [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt/), 0 commits :octocat:
+14. [embeddedartistry/templates](https://github.com/embeddedartistry/templates/), 0 commits :octocat:
+15. [sseemayer/qstat-pretty](https://github.com/sseemayer/qstat-pretty/), 0 commits :octocat:
+16. [hassio-addons/workflows](https://github.com/hassio-addons/workflows/), 0 commits :octocat:
+17. [basnijholt/kopen-of-huren](https://github.com/basnijholt/kopen-of-huren/), 0 commits :octocat:
+18. [mfouesneau/dasksge](https://github.com/mfouesneau/dasksge/), 0 commits :octocat:
+19. [conda-forge/kwant-feedstock](https://github.com/conda-forge/kwant-feedstock/), 0 commits :octocat:
+20. [conda-forge/pytest-flakes-feedstock](https://github.com/conda-forge/pytest-flakes-feedstock/), 0 commits :octocat:
 
 </details>
 
