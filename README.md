@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-07-13 12:06:46.215984.
+Last updated at 2023-07-14 12:09:38.212563.
 
 # GitHub statistics — my top 20
 
@@ -28,7 +28,7 @@ Last updated at 2023-07-13 12:06:46.215984.
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1049 ⭐️s
 3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1023 ⭐️s
 4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 873 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 454 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 455 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 417 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-07-13 12:06:46.215984.
 
 ## number of commits :octocat:
 
-1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1419 commits :octocat:
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 445 commits :octocat:
-3. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
-4. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-5. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1699 commits :octocat:
+2. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
+3. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+4. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+5. [hacs/default](https://github.com/hacs/default/), 6 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [ipython/ipyparallel](https://github.com/ipython/ipyparallel/), 3 commits :octocat:
-7. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 2 commits :octocat:
-8. [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card/), 1 commits :octocat:
-9. [pahaz/sshtunnel](https://github.com/pahaz/sshtunnel/), 1 commits :octocat:
-10. [home-assistant/frontend](https://github.com/home-assistant/frontend/), 0 commits :octocat:
-11. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 0 commits :octocat:
-12. [RobinUS2/golang-moving-average](https://github.com/RobinUS2/golang-moving-average/), 0 commits :octocat:
-13. [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt/), 0 commits :octocat:
-14. [embeddedartistry/templates](https://github.com/embeddedartistry/templates/), 0 commits :octocat:
-15. [sseemayer/qstat-pretty](https://github.com/sseemayer/qstat-pretty/), 0 commits :octocat:
-16. [hassio-addons/workflows](https://github.com/hassio-addons/workflows/), 0 commits :octocat:
-17. [basnijholt/kopen-of-huren](https://github.com/basnijholt/kopen-of-huren/), 0 commits :octocat:
-18. [mfouesneau/dasksge](https://github.com/mfouesneau/dasksge/), 0 commits :octocat:
-19. [conda-forge/kwant-feedstock](https://github.com/conda-forge/kwant-feedstock/), 0 commits :octocat:
-20. [conda-forge/pytest-flakes-feedstock](https://github.com/conda-forge/pytest-flakes-feedstock/), 0 commits :octocat:
+6. [pymc-devs/pymc](https://github.com/pymc-devs/pymc/), 5 commits :octocat:
+7. [dask/dask-jobqueue](https://github.com/dask/dask-jobqueue/), 3 commits :octocat:
+8. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
+9. [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player/), 1 commits :octocat:
+10. [conda-forge/smesh-feedstock](https://github.com/conda-forge/smesh-feedstock/), 0 commits :octocat:
+11. [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card/), 0 commits :octocat:
+12. [conda-forge/qcodes-feedstock](https://github.com/conda-forge/qcodes-feedstock/), 0 commits :octocat:
+13. [conda-forge/conda-forge-build-setup-feedstock](https://github.com/conda-forge/conda-forge-build-setup-feedstock/), 0 commits :octocat:
+14. [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19/), 0 commits :octocat:
+15. [lkorth/jekyll-500px-embed](https://github.com/lkorth/jekyll-500px-embed/), 0 commits :octocat:
+16. [craigbarratt/hass-pyscript-jupyter](https://github.com/craigbarratt/hass-pyscript-jupyter/), 0 commits :octocat:
+17. [basnijholt/fileup](https://github.com/basnijholt/fileup/), 0 commits :octocat:
+18. [codechimp-org/ha-menu](https://github.com/codechimp-org/ha-menu/), 0 commits :octocat:
+19. [dask/dask-drmaa](https://github.com/dask/dask-drmaa/), 0 commits :octocat:
+20. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 0 commits :octocat:
 
 </details>
 
