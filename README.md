@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-07-20 12:06:32.282388.
+Last updated at 2023-07-21 12:08:57.725851.
 
 # GitHub statistics — my top 20
 
@@ -27,7 +27,7 @@ Last updated at 2023-07-20 12:06:32.282388.
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1488 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1049 ⭐️s
 3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1026 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 878 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 879 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 455 ⭐️s
 <details><summary>Click to expand!</summary>
 
@@ -35,11 +35,11 @@ Last updated at 2023-07-20 12:06:32.282388.
 7. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 358 ⭐️s
 8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 329 ⭐️s
 9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 241 ⭐️s
-10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 122 ⭐️s
+10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 123 ⭐️s
 11. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 92 ⭐️s
 12. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 75 ⭐️s
 13. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 72 ⭐️s
-14. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 46 ⭐️s
+14. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 47 ⭐️s
 15. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 30 ⭐️s
 16. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 25 ⭐️s
 17. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 20 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-07-20 12:06:32.282388.
 
 ## number of commits :octocat:
 
-1. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-2. [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks/), 10 commits :octocat:
-3. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
-4. [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd/), 1 commits :octocat:
-5. [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer/), 1 commits :octocat:
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 451 commits :octocat:
+2. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 35 commits :octocat:
+4. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+5. [conda/conda](https://github.com/conda/conda/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [conda-forge/paraview-feedstock](https://github.com/conda-forge/paraview-feedstock/), 0 commits :octocat:
-7. [astrojuanlu/fenics-recipes](https://github.com/astrojuanlu/fenics-recipes/), 0 commits :octocat:
-8. [MicrosoftDocs/azure-devops-docs](https://github.com/MicrosoftDocs/azure-devops-docs/), 0 commits :octocat:
-9. [sseemayer/qstat-pretty](https://github.com/sseemayer/qstat-pretty/), 0 commits :octocat:
-10. [devcontainers/features](https://github.com/devcontainers/features/), 0 commits :octocat:
-11. [basnijholt/conda-recipes](https://github.com/basnijholt/conda-recipes/), 0 commits :octocat:
-12. [conda-forge/tinyarray-feedstock](https://github.com/conda-forge/tinyarray-feedstock/), 0 commits :octocat:
-13. [conda-forge/pywebhdfs-feedstock](https://github.com/conda-forge/pywebhdfs-feedstock/), 0 commits :octocat:
-14. [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19/), 0 commits :octocat:
-15. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 0 commits :octocat:
-16. [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon/), 0 commits :octocat:
-17. [Jvanschoubroeck/Topology-optimization](https://github.com/Jvanschoubroeck/Topology-optimization/), 0 commits :octocat:
-18. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 0 commits :octocat:
-19. [mbongaerts/Metchalizer](https://github.com/mbongaerts/Metchalizer/), 0 commits :octocat:
-20. [PaulAnnekov/tuyaha](https://github.com/PaulAnnekov/tuyaha/), 0 commits :octocat:
+6. [conda-forge/panel-feedstock](https://github.com/conda-forge/panel-feedstock/), 0 commits :octocat:
+7. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 0 commits :octocat:
+8. [conda-forge/fenics-feedstock](https://github.com/conda-forge/fenics-feedstock/), 0 commits :octocat:
+9. [conda-forge/admin-requests](https://github.com/conda-forge/admin-requests/), 0 commits :octocat:
+10. [basnijholt/basnijholt](https://github.com/basnijholt/basnijholt/), 0 commits :octocat:
+11. [jbweston/miniver](https://github.com/jbweston/miniver/), 0 commits :octocat:
+12. [tvdsluijs/py-nsapi](https://github.com/tvdsluijs/py-nsapi/), 0 commits :octocat:
+13. [embeddedartistry/templates](https://github.com/embeddedartistry/templates/), 0 commits :octocat:
+14. [hassio-addons/addon-vscode](https://github.com/hassio-addons/addon-vscode/), 0 commits :octocat:
+15. [sammchardy/python-binance](https://github.com/sammchardy/python-binance/), 0 commits :octocat:
+16. [ProjectMeniscus/pywebhdfs](https://github.com/ProjectMeniscus/pywebhdfs/), 0 commits :octocat:
+17. [pandas-dev/pandas](https://github.com/pandas-dev/pandas/), 0 commits :octocat:
+18. [Azure/azhpc-images](https://github.com/Azure/azhpc-images/), 0 commits :octocat:
+19. [conda-forge/azure-cosmos-feedstock](https://github.com/conda-forge/azure-cosmos-feedstock/), 0 commits :octocat:
+20. [conda-forge/broadbean-feedstock](https://github.com/conda-forge/broadbean-feedstock/), 0 commits :octocat:
 
 </details>
 
