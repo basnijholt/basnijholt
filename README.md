@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-07-25 12:06:07.890883.
+Last updated at 2023-07-26 12:09:46.846032.
 
 # GitHub statistics — my top 20
 
@@ -26,16 +26,16 @@ Last updated at 2023-07-25 12:06:07.890883.
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1491 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1050 ⭐️s
-3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1031 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 880 ⭐️s
+3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1033 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 881 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 456 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 417 ⭐️s
 7. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 358 ⭐️s
-8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 330 ⭐️s
+8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 331 ⭐️s
 9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 242 ⭐️s
-10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 125 ⭐️s
+10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 126 ⭐️s
 11. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 92 ⭐️s
 12. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 76 ⭐️s
 13. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 72 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-07-25 12:06:07.890883.
 
 ## number of commits :octocat:
 
-1. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 2 commits :octocat:
-2. [nipype/pydra-tutorial](https://github.com/nipype/pydra-tutorial/), 0 commits :octocat:
-3. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 0 commits :octocat:
-4. [mdichtler/PancakeSwap-Price-Scraper](https://github.com/mdichtler/PancakeSwap-Price-Scraper/), 0 commits :octocat:
-5. [basnijholt/deep-learning-udacity](https://github.com/basnijholt/deep-learning-udacity/), 0 commits :octocat:
+1. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
+2. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+3. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+4. [pymc-devs/pymc](https://github.com/pymc-devs/pymc/), 5 commits :octocat:
+5. [conda-forge/tinyarray-feedstock](https://github.com/conda-forge/tinyarray-feedstock/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 0 commits :octocat:
-7. [conda-forge/pytest-flakes-feedstock](https://github.com/conda-forge/pytest-flakes-feedstock/), 0 commits :octocat:
-8. [jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets/), 0 commits :octocat:
-9. [basnijholt/supercurrent-majorana-nanowire](https://github.com/basnijholt/supercurrent-majorana-nanowire/), 0 commits :octocat:
-10. [iamc/ML-CM-2019](https://github.com/iamc/ML-CM-2019/), 0 commits :octocat:
-11. [basnijholt/test](https://github.com/basnijholt/test/), 0 commits :octocat:
-12. [jasonacox/tuyapower](https://github.com/jasonacox/tuyapower/), 0 commits :octocat:
-13. [smartbch/smartbch](https://github.com/smartbch/smartbch/), 0 commits :octocat:
-14. [conda-forge/scipy-feedstock](https://github.com/conda-forge/scipy-feedstock/), 0 commits :octocat:
-15. [basnijholt/mumpy](https://github.com/basnijholt/mumpy/), 0 commits :octocat:
-16. [basnijholt/adaptive-talk](https://github.com/basnijholt/adaptive-talk/), 0 commits :octocat:
-17. [Electron-Cash/electrum-locale](https://github.com/Electron-Cash/electrum-locale/), 0 commits :octocat:
-18. [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy/), 0 commits :octocat:
-19. [conda-forge/nb_conda-feedstock](https://github.com/conda-forge/nb_conda-feedstock/), 0 commits :octocat:
-20. [jbweston/miniver](https://github.com/jbweston/miniver/), 0 commits :octocat:
+6. [mbongaerts/Metchalizer](https://github.com/mbongaerts/Metchalizer/), 0 commits :octocat:
+7. [vallops99/Conda-autoactivate-env](https://github.com/vallops99/Conda-autoactivate-env/), 0 commits :octocat:
+8. [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/), 0 commits :octocat:
+9. [conda-forge/paramiko-feedstock](https://github.com/conda-forge/paramiko-feedstock/), 0 commits :octocat:
+10. [solidity-by-example/solidity-by-example.github.io](https://github.com/solidity-by-example/solidity-by-example.github.io/), 0 commits :octocat:
+11. [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer/), 0 commits :octocat:
+12. [jupyter/jupyter-sphinx](https://github.com/jupyter/jupyter-sphinx/), 0 commits :octocat:
+13. [basnijholt/codestructure](https://github.com/basnijholt/codestructure/), 0 commits :octocat:
+14. [eddy-ojb/holoviews-contrib](https://github.com/eddy-ojb/holoviews-contrib/), 0 commits :octocat:
+15. [kwant-project/billiard](https://github.com/kwant-project/billiard/), 0 commits :octocat:
+16. [bramkragten/swipe-card](https://github.com/bramkragten/swipe-card/), 0 commits :octocat:
+17. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 0 commits :octocat:
+18. [conda-forge/opencensus-context-feedstock](https://github.com/conda-forge/opencensus-context-feedstock/), 0 commits :octocat:
+19. [mikeboers/PyMemoize](https://github.com/mikeboers/PyMemoize/), 0 commits :octocat:
+20. [synesthesiam/hassio-addons](https://github.com/synesthesiam/hassio-addons/), 0 commits :octocat:
 
 </details>
 
