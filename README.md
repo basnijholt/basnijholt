@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-07-27 12:08:52.765927.
+Last updated at 2023-07-28 12:09:32.988354.
 
 # GitHub statistics — my top 20
 
@@ -26,8 +26,8 @@ Last updated at 2023-07-27 12:08:52.765927.
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1491 ⭐️s
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1051 ⭐️s
-3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1033 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 882 ⭐️s
+3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1036 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 883 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 457 ⭐️s
 <details><summary>Click to expand!</summary>
 
@@ -53,28 +53,28 @@ Last updated at 2023-07-27 12:08:52.765927.
 
 ## number of commits :octocat:
 
-1. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
-2. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-3. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 2 commits :octocat:
-4. [holoviz/panel](https://github.com/holoviz/panel/), 1 commits :octocat:
-5. [cornellius-gp/gpytorch](https://github.com/cornellius-gp/gpytorch/), 1 commits :octocat:
+1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1419 commits :octocat:
+2. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
+3. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+4. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 80 commits :octocat:
+5. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/Schrodinger-time-evolution](https://github.com/basnijholt/Schrodinger-time-evolution/), 0 commits :octocat:
-7. [basnijholt/yaml2bib](https://github.com/basnijholt/yaml2bib/), 0 commits :octocat:
-8. [basnijholt/day-one-story-sender](https://github.com/basnijholt/day-one-story-sender/), 0 commits :octocat:
-9. [conda-forge/fastcache-feedstock](https://github.com/conda-forge/fastcache-feedstock/), 0 commits :octocat:
-10. [conda-forge/panel-feedstock](https://github.com/conda-forge/panel-feedstock/), 0 commits :octocat:
-11. [basnijholt/cadnano-scripts](https://github.com/basnijholt/cadnano-scripts/), 0 commits :octocat:
-12. [devcontainers/features](https://github.com/devcontainers/features/), 0 commits :octocat:
-13. [conda-forge/pymatbridge-feedstock](https://github.com/conda-forge/pymatbridge-feedstock/), 0 commits :octocat:
-14. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 0 commits :octocat:
-15. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 0 commits :octocat:
-16. [hacs/default](https://github.com/hacs/default/), 0 commits :octocat:
-17. [conda-forge/pcl-feedstock](https://github.com/conda-forge/pcl-feedstock/), 0 commits :octocat:
-18. [basnijholt/test](https://github.com/basnijholt/test/), 0 commits :octocat:
-19. [jasonacox/tuyapower](https://github.com/jasonacox/tuyapower/), 0 commits :octocat:
-20. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 0 commits :octocat:
+6. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
+7. [sobolevn/git-secret](https://github.com/sobolevn/git-secret/), 1 commits :octocat:
+8. [codechimp-org/ha-menu](https://github.com/codechimp-org/ha-menu/), 1 commits :octocat:
+9. [benfred/py-spy](https://github.com/benfred/py-spy/), 0 commits :octocat:
+10. [PaulAnnekov/tuyaha](https://github.com/PaulAnnekov/tuyaha/), 0 commits :octocat:
+11. [pahaz/sshtunnel](https://github.com/pahaz/sshtunnel/), 0 commits :octocat:
+12. [fsspec/adlfs](https://github.com/fsspec/adlfs/), 0 commits :octocat:
+13. [basnijholt/nanowire-qpc-spectrum](https://github.com/basnijholt/nanowire-qpc-spectrum/), 0 commits :octocat:
+14. [conda-forge/admin-requests](https://github.com/conda-forge/admin-requests/), 0 commits :octocat:
+15. [ohld/igbot](https://github.com/ohld/igbot/), 0 commits :octocat:
+16. [conda-forge/pyvisa-feedstock](https://github.com/conda-forge/pyvisa-feedstock/), 0 commits :octocat:
+17. [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy/), 0 commits :octocat:
+18. [basnijholt/psychedelic-data-science](https://github.com/basnijholt/psychedelic-data-science/), 0 commits :octocat:
+19. [JesseSlim/polymetric](https://github.com/JesseSlim/polymetric/), 0 commits :octocat:
+20. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 0 commits :octocat:
 
 </details>
 
