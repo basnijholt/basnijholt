@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-08-12 12:08:13.691343.
+Last updated at 2023-08-13 12:08:27.346024.
 
 # GitHub statistics — my top 20
 
@@ -31,7 +31,7 @@ Last updated at 2023-08-12 12:08:13.691343.
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 463 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 419 ⭐️s
+6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 420 ⭐️s
 7. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 358 ⭐️s
 8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 333 ⭐️s
 9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 245 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-08-12 12:08:13.691343.
 
 ## number of commits :octocat:
 
-1. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
-2. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+1. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+2. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 35 commits :octocat:
 3. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-4. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 2 commits :octocat:
-5. [custom-components/pyscript](https://github.com/custom-components/pyscript/), 0 commits :octocat:
+4. [pymc-devs/pymc](https://github.com/pymc-devs/pymc/), 5 commits :octocat:
+5. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [conda-forge/dataproperty-feedstock](https://github.com/conda-forge/dataproperty-feedstock/), 0 commits :octocat:
-7. [basnijholt/deep-learning-udacity](https://github.com/basnijholt/deep-learning-udacity/), 0 commits :octocat:
-8. [microsoft/azure-pipelines-agent](https://github.com/microsoft/azure-pipelines-agent/), 0 commits :octocat:
-9. [conda-forge/pyvisa-feedstock](https://github.com/conda-forge/pyvisa-feedstock/), 0 commits :octocat:
-10. [numpy/numpy](https://github.com/numpy/numpy/), 0 commits :octocat:
-11. [basnijholt/psychedelic-data-science](https://github.com/basnijholt/psychedelic-data-science/), 0 commits :octocat:
-12. [benfred/py-spy](https://github.com/benfred/py-spy/), 0 commits :octocat:
-13. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 0 commits :octocat:
-14. [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon/), 0 commits :octocat:
-15. [conda-forge/freecad-feedstock](https://github.com/conda-forge/freecad-feedstock/), 0 commits :octocat:
-16. [basnijholt/cadnano-scripts](https://github.com/basnijholt/cadnano-scripts/), 0 commits :octocat:
-17. [danobot/entity-controller](https://github.com/danobot/entity-controller/), 0 commits :octocat:
-18. [cornellius-gp/gpytorch](https://github.com/cornellius-gp/gpytorch/), 0 commits :octocat:
-19. [basnijholt/backups](https://github.com/basnijholt/backups/), 0 commits :octocat:
-20. [ianare/exif-py](https://github.com/ianare/exif-py/), 0 commits :octocat:
+6. [pypa/setuptools](https://github.com/pypa/setuptools/), 0 commits :octocat:
+7. [sdouglas/cadnano2](https://github.com/sdouglas/cadnano2/), 0 commits :octocat:
+8. [conda-forge/jenkspy-feedstock](https://github.com/conda-forge/jenkspy-feedstock/), 0 commits :octocat:
+9. [mikeboers/PyMemoize](https://github.com/mikeboers/PyMemoize/), 0 commits :octocat:
+10. [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd/), 0 commits :octocat:
+11. [devcontainers/features](https://github.com/devcontainers/features/), 0 commits :octocat:
+12. [bramkragten/swipe-card](https://github.com/bramkragten/swipe-card/), 0 commits :octocat:
+13. [conda-forge/tinyarray-feedstock](https://github.com/conda-forge/tinyarray-feedstock/), 0 commits :octocat:
+14. [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit/), 0 commits :octocat:
+15. [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs/), 0 commits :octocat:
+16. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 0 commits :octocat:
+17. [ethereum/EIPs](https://github.com/ethereum/EIPs/), 0 commits :octocat:
+18. [conda-forge/occt-feedstock](https://github.com/conda-forge/occt-feedstock/), 0 commits :octocat:
+19. [haarcuba/ssh-agent-setup](https://github.com/haarcuba/ssh-agent-setup/), 0 commits :octocat:
+20. [pydata/xarray](https://github.com/pydata/xarray/), 0 commits :octocat:
 
 </details>
 
