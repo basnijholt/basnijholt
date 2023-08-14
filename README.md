@@ -18,16 +18,16 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-08-13 12:08:27.346024.
+Last updated at 2023-08-14 12:09:49.483796.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1508 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1103 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1509 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1106 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1056 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 886 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 888 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 463 ⭐️s
 <details><summary>Click to expand!</summary>
 
@@ -54,27 +54,27 @@ Last updated at 2023-08-13 12:08:27.346024.
 ## number of commits :octocat:
 
 1. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-2. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 35 commits :octocat:
-3. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-4. [pymc-devs/pymc](https://github.com/pymc-devs/pymc/), 5 commits :octocat:
-5. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
+2. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+3. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 0 commits :octocat:
+4. [haarcuba/ssh-agent-setup](https://github.com/haarcuba/ssh-agent-setup/), 0 commits :octocat:
+5. [miyakogi/m2r](https://github.com/miyakogi/m2r/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [pypa/setuptools](https://github.com/pypa/setuptools/), 0 commits :octocat:
-7. [sdouglas/cadnano2](https://github.com/sdouglas/cadnano2/), 0 commits :octocat:
-8. [conda-forge/jenkspy-feedstock](https://github.com/conda-forge/jenkspy-feedstock/), 0 commits :octocat:
-9. [mikeboers/PyMemoize](https://github.com/mikeboers/PyMemoize/), 0 commits :octocat:
-10. [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd/), 0 commits :octocat:
-11. [devcontainers/features](https://github.com/devcontainers/features/), 0 commits :octocat:
-12. [bramkragten/swipe-card](https://github.com/bramkragten/swipe-card/), 0 commits :octocat:
-13. [conda-forge/tinyarray-feedstock](https://github.com/conda-forge/tinyarray-feedstock/), 0 commits :octocat:
-14. [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit/), 0 commits :octocat:
-15. [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs/), 0 commits :octocat:
-16. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 0 commits :octocat:
-17. [ethereum/EIPs](https://github.com/ethereum/EIPs/), 0 commits :octocat:
-18. [conda-forge/occt-feedstock](https://github.com/conda-forge/occt-feedstock/), 0 commits :octocat:
-19. [haarcuba/ssh-agent-setup](https://github.com/haarcuba/ssh-agent-setup/), 0 commits :octocat:
-20. [pydata/xarray](https://github.com/pydata/xarray/), 0 commits :octocat:
+6. [sdouglas/cadnano2](https://github.com/sdouglas/cadnano2/), 0 commits :octocat:
+7. [basnijholt/molecular-dynamics-Python](https://github.com/basnijholt/molecular-dynamics-Python/), 0 commits :octocat:
+8. [basnijholt/mumpy](https://github.com/basnijholt/mumpy/), 0 commits :octocat:
+9. [conda-forge/adaptive-feedstock](https://github.com/conda-forge/adaptive-feedstock/), 0 commits :octocat:
+10. [binance-exchange/binance-official-api-docs](https://github.com/binance-exchange/binance-official-api-docs/), 0 commits :octocat:
+11. [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/), 0 commits :octocat:
+12. [synesthesiam/hassio-addons](https://github.com/synesthesiam/hassio-addons/), 0 commits :octocat:
+13. [basnijholt/Schrodinger-time-evolution](https://github.com/basnijholt/Schrodinger-time-evolution/), 0 commits :octocat:
+14. [RobinUS2/golang-moving-average](https://github.com/RobinUS2/golang-moving-average/), 0 commits :octocat:
+15. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/), 0 commits :octocat:
+16. [Christophe31/screenutils](https://github.com/Christophe31/screenutils/), 0 commits :octocat:
+17. [conda-forge/dataproperty-feedstock](https://github.com/conda-forge/dataproperty-feedstock/), 0 commits :octocat:
+18. [craigbarratt/hass-pyscript-jupyter](https://github.com/craigbarratt/hass-pyscript-jupyter/), 0 commits :octocat:
+19. [RMerl/asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin/), 0 commits :octocat:
+20. [basnijholt/azure-agent-jupyter-minimal-notebook](https://github.com/basnijholt/azure-agent-jupyter-minimal-notebook/), 0 commits :octocat:
 
 </details>
 
