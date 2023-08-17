@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-08-16 12:08:51.022801.
+Last updated at 2023-08-17 12:08:38.983092.
 
 # GitHub statistics — my top 20
 
@@ -33,7 +33,7 @@ Last updated at 2023-08-16 12:08:51.022801.
 
 6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 422 ⭐️s
 7. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 358 ⭐️s
-8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 335 ⭐️s
+8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 336 ⭐️s
 9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 245 ⭐️s
 10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 132 ⭐️s
 11. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 92 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-08-16 12:08:51.022801.
 
 ## number of commits :octocat:
 
-1. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 228 commits :octocat:
+1. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
 2. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-3. [solidity-by-example/solidity-by-example.github.io](https://github.com/solidity-by-example/solidity-by-example.github.io/), 3 commits :octocat:
-4. [aio-libs/async-timeout](https://github.com/aio-libs/async-timeout/), 0 commits :octocat:
-5. [basnijholt/cluster-logger](https://github.com/basnijholt/cluster-logger/), 0 commits :octocat:
+3. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+4. [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks/), 10 commits :octocat:
+5. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/shortjunction](https://github.com/basnijholt/shortjunction/), 0 commits :octocat:
-7. [robmarkcole/HASS-data-detective](https://github.com/robmarkcole/HASS-data-detective/), 0 commits :octocat:
-8. [basnijholt/pfapack](https://github.com/basnijholt/pfapack/), 0 commits :octocat:
-9. [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/), 0 commits :octocat:
-10. [codechimp-org/ha-menu](https://github.com/codechimp-org/ha-menu/), 0 commits :octocat:
-11. [conda-forge/kwant-feedstock](https://github.com/conda-forge/kwant-feedstock/), 0 commits :octocat:
-12. [conda-forge/jupyter_cms-feedstock](https://github.com/conda-forge/jupyter_cms-feedstock/), 0 commits :octocat:
-13. [NVIDIA/ipyparaview](https://github.com/NVIDIA/ipyparaview/), 0 commits :octocat:
-14. [ethereum/EIPs](https://github.com/ethereum/EIPs/), 0 commits :octocat:
-15. [sobolevn/git-secret](https://github.com/sobolevn/git-secret/), 0 commits :octocat:
-16. [conda-forge/scikit-optimize-feedstock](https://github.com/conda-forge/scikit-optimize-feedstock/), 0 commits :octocat:
-17. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 0 commits :octocat:
-18. [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes/), 0 commits :octocat:
-19. [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt/), 0 commits :octocat:
-20. [benfred/py-spy](https://github.com/benfred/py-spy/), 0 commits :octocat:
+6. [holoviz/panel](https://github.com/holoviz/panel/), 1 commits :octocat:
+7. [python3statement/python3statement.github.io](https://github.com/python3statement/python3statement.github.io/), 0 commits :octocat:
+8. [Juvawa/HomeAssistant9292OvApiSensor](https://github.com/Juvawa/HomeAssistant9292OvApiSensor/), 0 commits :octocat:
+9. [hacs/documentation](https://github.com/hacs/documentation/), 0 commits :octocat:
+10. [stuertz/pybunqexport](https://github.com/stuertz/pybunqexport/), 0 commits :octocat:
+11. [adshao/go-binance](https://github.com/adshao/go-binance/), 0 commits :octocat:
+12. [dfm/emcee](https://github.com/dfm/emcee/), 0 commits :octocat:
+13. [itstorque/jekyll-shell-theme](https://github.com/itstorque/jekyll-shell-theme/), 0 commits :octocat:
+14. [mikeshultz/ledger-eth-lib](https://github.com/mikeshultz/ledger-eth-lib/), 0 commits :octocat:
+15. [Textualize/rich](https://github.com/Textualize/rich/), 0 commits :octocat:
+16. [TribuneX/home_assistant](https://github.com/TribuneX/home_assistant/), 0 commits :octocat:
+17. [benfred/py-spy](https://github.com/benfred/py-spy/), 0 commits :octocat:
+18. [kwant-project/homebrew-kwant](https://github.com/kwant-project/homebrew-kwant/), 0 commits :octocat:
+19. [agkozak/zsh-z](https://github.com/agkozak/zsh-z/), 0 commits :octocat:
+20. [basnijholt/fileup](https://github.com/basnijholt/fileup/), 0 commits :octocat:
 
 </details>
 
