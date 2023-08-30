@@ -18,14 +18,14 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-08-29 12:05:49.339379.
+Last updated at 2023-08-30 12:11:53.790649.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1516 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1157 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1517 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1158 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1063 ⭐️s
 4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 893 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 468 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-08-29 12:05:49.339379.
 
 ## number of commits :octocat:
 
-1. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
-2. [hacs/default](https://github.com/hacs/default/), 6 commits :octocat:
-3. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 2 commits :octocat:
-4. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
-5. [conda-forge/mumps-feedstock](https://github.com/conda-forge/mumps-feedstock/), 0 commits :octocat:
+1. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+2. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 0 commits :octocat:
+3. [mbongaerts/Metchalizer](https://github.com/mbongaerts/Metchalizer/), 0 commits :octocat:
+4. [conda-forge/opencensus-feedstock](https://github.com/conda-forge/opencensus-feedstock/), 0 commits :octocat:
+5. [aio-libs/async-timeout](https://github.com/aio-libs/async-timeout/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [madsbk/lrcloud](https://github.com/madsbk/lrcloud/), 0 commits :octocat:
-7. [grantjenks/python-sortedcollections](https://github.com/grantjenks/python-sortedcollections/), 0 commits :octocat:
-8. [dramenti/symmetry](https://github.com/dramenti/symmetry/), 0 commits :octocat:
-9. [microsoft/aiida-dynamic-workflows](https://github.com/microsoft/aiida-dynamic-workflows/), 0 commits :octocat:
-10. [uchicago-cs/deepdish](https://github.com/uchicago-cs/deepdish/), 0 commits :octocat:
-11. [conda-forge/freecad-feedstock](https://github.com/conda-forge/freecad-feedstock/), 0 commits :octocat:
-12. [basnijholt/pyfeast](https://github.com/basnijholt/pyfeast/), 0 commits :octocat:
-13. [DenisCarriere/geocoder](https://github.com/DenisCarriere/geocoder/), 0 commits :octocat:
-14. [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom/), 0 commits :octocat:
-15. [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt/), 0 commits :octocat:
-16. [fsspec/adlfs](https://github.com/fsspec/adlfs/), 0 commits :octocat:
-17. [conda-forge/conda-feedstock](https://github.com/conda-forge/conda-feedstock/), 0 commits :octocat:
-18. [conda-forge/pymatbridge-feedstock](https://github.com/conda-forge/pymatbridge-feedstock/), 0 commits :octocat:
-19. [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt/), 0 commits :octocat:
-20. [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon/), 0 commits :octocat:
+6. [PaulAnnekov/tuyaha](https://github.com/PaulAnnekov/tuyaha/), 0 commits :octocat:
+7. [whiskerz007/proxmox_hassos_install](https://github.com/whiskerz007/proxmox_hassos_install/), 0 commits :octocat:
+8. [basnijholt/arxiv-feed-mailer](https://github.com/basnijholt/arxiv-feed-mailer/), 0 commits :octocat:
+9. [conda-forge/holoviews-feedstock](https://github.com/conda-forge/holoviews-feedstock/), 0 commits :octocat:
+10. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 0 commits :octocat:
+11. [basnijholt/mumpy](https://github.com/basnijholt/mumpy/), 0 commits :octocat:
+12. [cornellius-gp/gpytorch](https://github.com/cornellius-gp/gpytorch/), 0 commits :octocat:
+13. [conda-forge/nbstripout-feedstock](https://github.com/conda-forge/nbstripout-feedstock/), 0 commits :octocat:
+14. [basnijholt/azure-singularity-agent](https://github.com/basnijholt/azure-singularity-agent/), 0 commits :octocat:
+15. [hacs/documentation](https://github.com/hacs/documentation/), 0 commits :octocat:
+16. [solidity-by-example/solidity-by-example.github.io](https://github.com/solidity-by-example/solidity-by-example.github.io/), 0 commits :octocat:
+17. [bdraco/ulid-transform](https://github.com/bdraco/ulid-transform/), 0 commits :octocat:
+18. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 0 commits :octocat:
+19. [23andMe/Yamale](https://github.com/23andMe/Yamale/), 0 commits :octocat:
+20. [basnijholt/wenfire](https://github.com/basnijholt/wenfire/), 0 commits :octocat:
 
 </details>
 
