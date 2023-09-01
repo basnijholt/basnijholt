@@ -18,16 +18,16 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-08-31 12:06:43.298272.
+Last updated at 2023-09-01 12:08:50.872414.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1517 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1158 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1160 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1063 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 894 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 896 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 468 ⭐️s
 <details><summary>Click to expand!</summary>
 
@@ -35,7 +35,7 @@ Last updated at 2023-08-31 12:06:43.298272.
 7. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 359 ⭐️s
 8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 340 ⭐️s
 9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 247 ⭐️s
-10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 135 ⭐️s
+10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 136 ⭐️s
 11. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 92 ⭐️s
 12. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 75 ⭐️s
 13. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 75 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-08-31 12:06:43.298272.
 
 ## number of commits :octocat:
 
-1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1419 commits :octocat:
-2. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
-3. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-4. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-5. [kwant-project/testing](https://github.com/kwant-project/testing/), 0 commits :octocat:
+1. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+2. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
+3. [conda-forge/discretizer-feedstock](https://github.com/conda-forge/discretizer-feedstock/), 0 commits :octocat:
+4. [dramenti/symmetry](https://github.com/dramenti/symmetry/), 0 commits :octocat:
+5. [basnijholt/molecular-dynamics-FORTRAN](https://github.com/basnijholt/molecular-dynamics-FORTRAN/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [conda-forge/scikit-optimize-feedstock](https://github.com/conda-forge/scikit-optimize-feedstock/), 0 commits :octocat:
-7. [mvn23/pyotgw](https://github.com/mvn23/pyotgw/), 0 commits :octocat:
-8. [conda-forge/smesh-feedstock](https://github.com/conda-forge/smesh-feedstock/), 0 commits :octocat:
-9. [Textualize/rich](https://github.com/Textualize/rich/), 0 commits :octocat:
-10. [hassio-addons/addon-vscode](https://github.com/hassio-addons/addon-vscode/), 0 commits :octocat:
-11. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 0 commits :octocat:
-12. [codechimp-org/ha-menu](https://github.com/codechimp-org/ha-menu/), 0 commits :octocat:
-13. [eddy-ojb/holoviews-contrib](https://github.com/eddy-ojb/holoviews-contrib/), 0 commits :octocat:
-14. [PaulAnnekov/tuyaha](https://github.com/PaulAnnekov/tuyaha/), 0 commits :octocat:
-15. [rust-lang/rustlings](https://github.com/rust-lang/rustlings/), 0 commits :octocat:
-16. [benfred/py-spy](https://github.com/benfred/py-spy/), 0 commits :octocat:
-17. [holoviz/panel](https://github.com/holoviz/panel/), 0 commits :octocat:
-18. [sympy/sympy](https://github.com/sympy/sympy/), 0 commits :octocat:
-19. [basnijholt/versioningit_fail](https://github.com/basnijholt/versioningit_fail/), 0 commits :octocat:
-20. [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19/), 0 commits :octocat:
+6. [ct-Open-Source/tuya-convert](https://github.com/ct-Open-Source/tuya-convert/), 0 commits :octocat:
+7. [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon/), 0 commits :octocat:
+8. [hassio-addons/workflows](https://github.com/hassio-addons/workflows/), 0 commits :octocat:
+9. [conda-forge/pcl-feedstock](https://github.com/conda-forge/pcl-feedstock/), 0 commits :octocat:
+10. [basnijholt/backups](https://github.com/basnijholt/backups/), 0 commits :octocat:
+11. [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io/), 0 commits :octocat:
+12. [mpi4py/mpi4py](https://github.com/mpi4py/mpi4py/), 0 commits :octocat:
+13. [basnijholt/variational-quantum-monte-carlo](https://github.com/basnijholt/variational-quantum-monte-carlo/), 0 commits :octocat:
+14. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 0 commits :octocat:
+15. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 0 commits :octocat:
+16. [basnijholt/cyclecloud-slurm-scaling](https://github.com/basnijholt/cyclecloud-slurm-scaling/), 0 commits :octocat:
+17. [conda-forge/fenics-feedstock](https://github.com/conda-forge/fenics-feedstock/), 0 commits :octocat:
+18. [conda-forge/conda-forge-build-setup-feedstock](https://github.com/conda-forge/conda-forge-build-setup-feedstock/), 0 commits :octocat:
+19. [microsoft/azure-pipelines-agent](https://github.com/microsoft/azure-pipelines-agent/), 0 commits :octocat:
+20. [basnijholt/cadnano-scripts](https://github.com/basnijholt/cadnano-scripts/), 0 commits :octocat:
 
 </details>
 
