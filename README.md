@@ -18,16 +18,16 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-09-13 12:06:21.953869.
+Last updated at 2023-09-14 12:09:02.877204.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1517 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1177 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1518 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1180 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1067 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 898 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 899 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 469 ⭐️s
 <details><summary>Click to expand!</summary>
 
@@ -39,7 +39,7 @@ Last updated at 2023-09-13 12:06:21.953869.
 11. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 92 ⭐️s
 12. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 76 ⭐️s
 13. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 75 ⭐️s
-14. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 47 ⭐️s
+14. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 46 ⭐️s
 15. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 32 ⭐️s
 16. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 26 ⭐️s
 17. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 21 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-09-13 12:06:21.953869.
 
 ## number of commits :octocat:
 
-1. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-2. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-3. [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card/), 1 commits :octocat:
-4. [danobot/entity-controller](https://github.com/danobot/entity-controller/), 0 commits :octocat:
-5. [conda-forge/broadbean-feedstock](https://github.com/conda-forge/broadbean-feedstock/), 0 commits :octocat:
+1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1419 commits :octocat:
+2. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 228 commits :octocat:
+3. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+4. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+5. [ipython/ipyparallel](https://github.com/ipython/ipyparallel/), 3 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [conda-forge/holoviews-feedstock](https://github.com/conda-forge/holoviews-feedstock/), 0 commits :octocat:
-7. [conda-forge/opencensus-feedstock](https://github.com/conda-forge/opencensus-feedstock/), 0 commits :octocat:
-8. [conda-forge/sympy-feedstock](https://github.com/conda-forge/sympy-feedstock/), 0 commits :octocat:
-9. [MicrosoftDocs/azure-devops-docs](https://github.com/MicrosoftDocs/azure-devops-docs/), 0 commits :octocat:
-10. [sdouglas/cadnano2](https://github.com/sdouglas/cadnano2/), 0 commits :octocat:
-11. [gidgethub/gidgethub](https://github.com/gidgethub/gidgethub/), 0 commits :octocat:
-12. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/), 0 commits :octocat:
-13. [mpi4py/mpi4py](https://github.com/mpi4py/mpi4py/), 0 commits :octocat:
-14. [conda-forge/dataproperty-feedstock](https://github.com/conda-forge/dataproperty-feedstock/), 0 commits :octocat:
-15. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 0 commits :octocat:
-16. [hacs/default](https://github.com/hacs/default/), 0 commits :octocat:
-17. [basnijholt/pfapack](https://github.com/basnijholt/pfapack/), 0 commits :octocat:
-18. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 0 commits :octocat:
-19. [PyTables/pytables.github.com](https://github.com/PyTables/pytables.github.com/), 0 commits :octocat:
-20. [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit/), 0 commits :octocat:
+6. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
+7. [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs/), 0 commits :octocat:
+8. [Azure/azhpc-images](https://github.com/Azure/azhpc-images/), 0 commits :octocat:
+9. [microsoft/azure-pipelines-agent](https://github.com/microsoft/azure-pipelines-agent/), 0 commits :octocat:
+10. [kwant-project/testing](https://github.com/kwant-project/testing/), 0 commits :octocat:
+11. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 0 commits :octocat:
+12. [basnijholt/Casimir-programming-2019](https://github.com/basnijholt/Casimir-programming-2019/), 0 commits :octocat:
+13. [synesthesiam/hassio-addons](https://github.com/synesthesiam/hassio-addons/), 0 commits :octocat:
+14. [aiidateam/aiida-core](https://github.com/aiidateam/aiida-core/), 0 commits :octocat:
+15. [sympy/sympy](https://github.com/sympy/sympy/), 0 commits :octocat:
+16. [conda-forge/occt-feedstock](https://github.com/conda-forge/occt-feedstock/), 0 commits :octocat:
+17. [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt/), 0 commits :octocat:
+18. [dask/dask-jobqueue](https://github.com/dask/dask-jobqueue/), 0 commits :octocat:
+19. [mfouesneau/dasksge](https://github.com/mfouesneau/dasksge/), 0 commits :octocat:
+20. [conda-forge/mshr-feedstock](https://github.com/conda-forge/mshr-feedstock/), 0 commits :octocat:
 
 </details>
 
