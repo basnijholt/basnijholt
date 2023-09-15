@@ -18,13 +18,13 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-09-14 12:09:02.877204.
+Last updated at 2023-09-15 12:05:52.975340.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1518 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1519 ⭐️s
 2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1180 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1067 ⭐️s
 4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 899 ⭐️s
@@ -55,26 +55,26 @@ Last updated at 2023-09-14 12:09:02.877204.
 
 1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1419 commits :octocat:
 2. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 228 commits :octocat:
-3. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-4. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-5. [ipython/ipyparallel](https://github.com/ipython/ipyparallel/), 3 commits :octocat:
+3. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+4. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 2 commits :octocat:
+5. [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card/), 1 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
-7. [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs/), 0 commits :octocat:
-8. [Azure/azhpc-images](https://github.com/Azure/azhpc-images/), 0 commits :octocat:
-9. [microsoft/azure-pipelines-agent](https://github.com/microsoft/azure-pipelines-agent/), 0 commits :octocat:
-10. [kwant-project/testing](https://github.com/kwant-project/testing/), 0 commits :octocat:
-11. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 0 commits :octocat:
-12. [basnijholt/Casimir-programming-2019](https://github.com/basnijholt/Casimir-programming-2019/), 0 commits :octocat:
-13. [synesthesiam/hassio-addons](https://github.com/synesthesiam/hassio-addons/), 0 commits :octocat:
-14. [aiidateam/aiida-core](https://github.com/aiidateam/aiida-core/), 0 commits :octocat:
-15. [sympy/sympy](https://github.com/sympy/sympy/), 0 commits :octocat:
-16. [conda-forge/occt-feedstock](https://github.com/conda-forge/occt-feedstock/), 0 commits :octocat:
-17. [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt/), 0 commits :octocat:
-18. [dask/dask-jobqueue](https://github.com/dask/dask-jobqueue/), 0 commits :octocat:
-19. [mfouesneau/dasksge](https://github.com/mfouesneau/dasksge/), 0 commits :octocat:
-20. [conda-forge/mshr-feedstock](https://github.com/conda-forge/mshr-feedstock/), 0 commits :octocat:
+6. [zigpy/zigpy](https://github.com/zigpy/zigpy/), 1 commits :octocat:
+7. [danobot/entity-controller](https://github.com/danobot/entity-controller/), 1 commits :octocat:
+8. [pahaz/sshtunnel](https://github.com/pahaz/sshtunnel/), 1 commits :octocat:
+9. [mpi4py/mpi4py](https://github.com/mpi4py/mpi4py/), 1 commits :octocat:
+10. [tox-dev/azure-pipelines-template](https://github.com/tox-dev/azure-pipelines-template/), 0 commits :octocat:
+11. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 0 commits :octocat:
+12. [NVIDIA/ipyparaview](https://github.com/NVIDIA/ipyparaview/), 0 commits :octocat:
+13. [basnijholt/test](https://github.com/basnijholt/test/), 0 commits :octocat:
+14. [RMerl/asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin/), 0 commits :octocat:
+15. [JesseSlim/polymetric](https://github.com/JesseSlim/polymetric/), 0 commits :octocat:
+16. [basnijholt/wenfire](https://github.com/basnijholt/wenfire/), 0 commits :octocat:
+17. [facebook/Ax](https://github.com/facebook/Ax/), 0 commits :octocat:
+18. [ipython/ipyparallel](https://github.com/ipython/ipyparallel/), 0 commits :octocat:
+19. [jleben/bib-yaml](https://github.com/jleben/bib-yaml/), 0 commits :octocat:
+20. [home-assistant/frontend](https://github.com/home-assistant/frontend/), 0 commits :octocat:
 
 </details>
 
