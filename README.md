@@ -18,17 +18,17 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-09-20 12:09:03.152970.
+Last updated at 2023-09-21 12:06:16.228124.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1522 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1184 ⭐️s
-3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1070 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1187 ⭐️s
+3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1072 ⭐️s
 4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 899 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 470 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 471 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 424 ⭐️s
@@ -54,27 +54,27 @@ Last updated at 2023-09-20 12:09:03.152970.
 ## number of commits :octocat:
 
 1. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-2. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-3. [nipype/pydra](https://github.com/nipype/pydra/), 10 commits :octocat:
-4. [solidity-by-example/solidity-by-example.github.io](https://github.com/solidity-by-example/solidity-by-example.github.io/), 3 commits :octocat:
-5. [jasonacox/tuyapower](https://github.com/jasonacox/tuyapower/), 0 commits :octocat:
+2. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
+3. [fsspec/adlfs](https://github.com/fsspec/adlfs/), 1 commits :octocat:
+4. [danobot/entity-controller](https://github.com/danobot/entity-controller/), 0 commits :octocat:
+5. [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [conda-forge/spylon-kernel-feedstock](https://github.com/conda-forge/spylon-kernel-feedstock/), 0 commits :octocat:
-7. [cornellius-gp/gpytorch](https://github.com/cornellius-gp/gpytorch/), 0 commits :octocat:
-8. [astrojuanlu/fenics-recipes](https://github.com/astrojuanlu/fenics-recipes/), 0 commits :octocat:
-9. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 0 commits :octocat:
-10. [basnijholt/kopen-of-huren](https://github.com/basnijholt/kopen-of-huren/), 0 commits :octocat:
-11. [fsspec/adlfs](https://github.com/fsspec/adlfs/), 0 commits :octocat:
-12. [NabuCasa/coronavirus](https://github.com/NabuCasa/coronavirus/), 0 commits :octocat:
+6. [hassio-addons/workflows](https://github.com/hassio-addons/workflows/), 0 commits :octocat:
+7. [scipy/scipy](https://github.com/scipy/scipy/), 0 commits :octocat:
+8. [andrewbrereton/privateinternetaccess-on-openwrt](https://github.com/andrewbrereton/privateinternetaccess-on-openwrt/), 0 commits :octocat:
+9. [basnijholt/conda-recipes](https://github.com/basnijholt/conda-recipes/), 0 commits :octocat:
+10. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 0 commits :octocat:
+11. [basnijholt/qcodes-repr](https://github.com/basnijholt/qcodes-repr/), 0 commits :octocat:
+12. [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes/), 0 commits :octocat:
 13. [ohld/igbot](https://github.com/ohld/igbot/), 0 commits :octocat:
-14. [conda-forge/freecad-feedstock](https://github.com/conda-forge/freecad-feedstock/), 0 commits :octocat:
-15. [basnijholt/cyclecloud-slurm-scaling](https://github.com/basnijholt/cyclecloud-slurm-scaling/), 0 commits :octocat:
-16. [basnijholt/Project-Euler](https://github.com/basnijholt/Project-Euler/), 0 commits :octocat:
-17. [MicrosoftDocs/azure-devops-docs](https://github.com/MicrosoftDocs/azure-devops-docs/), 0 commits :octocat:
-18. [SchedMD/slurm](https://github.com/SchedMD/slurm/), 0 commits :octocat:
-19. [conda-forge/azure-cosmos-feedstock](https://github.com/conda-forge/azure-cosmos-feedstock/), 0 commits :octocat:
-20. [conda-forge/pelican-feedstock](https://github.com/conda-forge/pelican-feedstock/), 0 commits :octocat:
+14. [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB/), 0 commits :octocat:
+15. [vallops99/Conda-autoactivate-env](https://github.com/vallops99/Conda-autoactivate-env/), 0 commits :octocat:
+16. [JesseSlim/polymetric](https://github.com/JesseSlim/polymetric/), 0 commits :octocat:
+17. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 0 commits :octocat:
+18. [asottile/pyupgrade](https://github.com/asottile/pyupgrade/), 0 commits :octocat:
+19. [ipython/ipyparallel](https://github.com/ipython/ipyparallel/), 0 commits :octocat:
+20. [basnijholt/psychedelic-data-science](https://github.com/basnijholt/psychedelic-data-science/), 0 commits :octocat:
 
 </details>
 
