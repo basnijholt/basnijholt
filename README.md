@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-09-24 12:08:35.701227.
+Last updated at 2023-09-25 12:06:15.128999.
 
 # GitHub statistics — my top 20
 
@@ -27,14 +27,14 @@ Last updated at 2023-09-24 12:08:35.701227.
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1523 ⭐️s
 2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1196 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1073 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 903 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 906 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 471 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 424 ⭐️s
+6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 425 ⭐️s
 7. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 359 ⭐️s
 8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 343 ⭐️s
-9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 249 ⭐️s
+9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 250 ⭐️s
 10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 139 ⭐️s
 11. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 92 ⭐️s
 12. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 76 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-09-24 12:08:35.701227.
 
 ## number of commits :octocat:
 
-1. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+1. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
 2. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-3. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
-4. [vinta/awesome-python](https://github.com/vinta/awesome-python/), 0 commits :octocat:
-5. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 0 commits :octocat:
+3. [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN/), 5 commits :octocat:
+4. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 2 commits :octocat:
+5. [craigbarratt/hass-pyscript-jupyter](https://github.com/craigbarratt/hass-pyscript-jupyter/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [conda-forge/pelican-feedstock](https://github.com/conda-forge/pelican-feedstock/), 0 commits :octocat:
-7. [conda-forge/conda-forge.github.io](https://github.com/conda-forge/conda-forge.github.io/), 0 commits :octocat:
-8. [pahaz/sshtunnel](https://github.com/pahaz/sshtunnel/), 0 commits :octocat:
-9. [basnijholt/fileup](https://github.com/basnijholt/fileup/), 0 commits :octocat:
-10. [GadgetReactor/pyHS100](https://github.com/GadgetReactor/pyHS100/), 0 commits :octocat:
-11. [basnijholt/Markov-chain-Monte-Carlo-polymer-growth](https://github.com/basnijholt/Markov-chain-Monte-Carlo-polymer-growth/), 0 commits :octocat:
-12. [basnijholt/zigzag-majoranas](https://github.com/basnijholt/zigzag-majoranas/), 0 commits :octocat:
-13. [cornellius-gp/gpytorch](https://github.com/cornellius-gp/gpytorch/), 0 commits :octocat:
-14. [basnijholt/day-one-story-sender](https://github.com/basnijholt/day-one-story-sender/), 0 commits :octocat:
-15. [conda-forge/spylon-kernel-feedstock](https://github.com/conda-forge/spylon-kernel-feedstock/), 0 commits :octocat:
-16. [basnijholt/pfapack](https://github.com/basnijholt/pfapack/), 0 commits :octocat:
-17. [rotki/rotki](https://github.com/rotki/rotki/), 0 commits :octocat:
-18. [conda-forge/param-feedstock](https://github.com/conda-forge/param-feedstock/), 0 commits :octocat:
-19. [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io/), 0 commits :octocat:
-20. [conda-forge/mumps-feedstock](https://github.com/conda-forge/mumps-feedstock/), 0 commits :octocat:
+6. [basnijholt/deep-learning-udacity](https://github.com/basnijholt/deep-learning-udacity/), 0 commits :octocat:
+7. [conda-forge/azure-cosmos-feedstock](https://github.com/conda-forge/azure-cosmos-feedstock/), 0 commits :octocat:
+8. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 0 commits :octocat:
+9. [conda-forge/pyvisa-feedstock](https://github.com/conda-forge/pyvisa-feedstock/), 0 commits :octocat:
+10. [Kobold/text_histogram](https://github.com/Kobold/text_histogram/), 0 commits :octocat:
+11. [nipype/pydra](https://github.com/nipype/pydra/), 0 commits :octocat:
+12. [conda-forge/conda-forge.github.io](https://github.com/conda-forge/conda-forge.github.io/), 0 commits :octocat:
+13. [ethereum/EIPs](https://github.com/ethereum/EIPs/), 0 commits :octocat:
+14. [basnijholt/wenfire](https://github.com/basnijholt/wenfire/), 0 commits :octocat:
+15. [hacs/default](https://github.com/hacs/default/), 0 commits :octocat:
+16. [conda-forge/holoviews-feedstock](https://github.com/conda-forge/holoviews-feedstock/), 0 commits :octocat:
+17. [jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets/), 0 commits :octocat:
+18. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 0 commits :octocat:
+19. [conda-forge/fastcache-feedstock](https://github.com/conda-forge/fastcache-feedstock/), 0 commits :octocat:
+20. [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player/), 0 commits :octocat:
 
 </details>
 
