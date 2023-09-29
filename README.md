@@ -18,16 +18,16 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-09-28 12:08:55.813371.
+Last updated at 2023-09-29 12:12:05.512735.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1525 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1526 ⭐️s
 2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1204 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1073 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 907 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 908 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 472 ⭐️s
 <details><summary>Click to expand!</summary>
 
@@ -55,26 +55,26 @@ Last updated at 2023-09-28 12:08:55.813371.
 
 1. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 228 commits :octocat:
 2. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
-3. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-4. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-5. [ipython/ipyparallel](https://github.com/ipython/ipyparallel/), 3 commits :octocat:
+3. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
+4. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+5. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [holoviz/panel](https://github.com/holoviz/panel/), 1 commits :octocat:
-7. [ct-Open-Source/tuya-convert](https://github.com/ct-Open-Source/tuya-convert/), 0 commits :octocat:
-8. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 0 commits :octocat:
-9. [jupyter/jupyter-sphinx](https://github.com/jupyter/jupyter-sphinx/), 0 commits :octocat:
-10. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 0 commits :octocat:
-11. [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy/), 0 commits :octocat:
-12. [conda-forge/qcodes-feedstock](https://github.com/conda-forge/qcodes-feedstock/), 0 commits :octocat:
-13. [basnijholt/azure-agent-jupyter-minimal-notebook](https://github.com/basnijholt/azure-agent-jupyter-minimal-notebook/), 0 commits :octocat:
-14. [sympy/sympy](https://github.com/sympy/sympy/), 0 commits :octocat:
-15. [conda-forge/cdt-builds](https://github.com/conda-forge/cdt-builds/), 0 commits :octocat:
-16. [basnijholt/variational-quantum-monte-carlo](https://github.com/basnijholt/variational-quantum-monte-carlo/), 0 commits :octocat:
-17. [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom/), 0 commits :octocat:
-18. [conda-forge/opencensus-ext-azure-feedstock](https://github.com/conda-forge/opencensus-ext-azure-feedstock/), 0 commits :octocat:
-19. [ianare/exif-py](https://github.com/ianare/exif-py/), 0 commits :octocat:
-20. [embeddedartistry/templates](https://github.com/embeddedartistry/templates/), 0 commits :octocat:
+6. [Azure/azhpc-images](https://github.com/Azure/azhpc-images/), 1 commits :octocat:
+7. [mpi4py/mpi4py](https://github.com/mpi4py/mpi4py/), 1 commits :octocat:
+8. [kwant-project/binder](https://github.com/kwant-project/binder/), 0 commits :octocat:
+9. [pypa/setuptools](https://github.com/pypa/setuptools/), 0 commits :octocat:
+10. [conda-forge/scotch-feedstock](https://github.com/conda-forge/scotch-feedstock/), 0 commits :octocat:
+11. [h5netcdf/h5netcdf](https://github.com/h5netcdf/h5netcdf/), 0 commits :octocat:
+12. [RobinUS2/golang-moving-average](https://github.com/RobinUS2/golang-moving-average/), 0 commits :octocat:
+13. [binder-project/binder](https://github.com/binder-project/binder/), 0 commits :octocat:
+14. [home-assistant/supervisor](https://github.com/home-assistant/supervisor/), 0 commits :octocat:
+15. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 0 commits :octocat:
+16. [conda-forge/paraview-feedstock](https://github.com/conda-forge/paraview-feedstock/), 0 commits :octocat:
+17. [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player/), 0 commits :octocat:
+18. [conda-forge/vtk-feedstock](https://github.com/conda-forge/vtk-feedstock/), 0 commits :octocat:
+19. [basnijholt/orbitalfield](https://github.com/basnijholt/orbitalfield/), 0 commits :octocat:
+20. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 0 commits :octocat:
 
 </details>
 
