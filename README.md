@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-09-30 12:08:26.128255.
+Last updated at 2023-10-01 12:08:35.206485.
 
 # GitHub statistics — my top 20
 
@@ -53,28 +53,28 @@ Last updated at 2023-09-30 12:08:26.128255.
 
 ## number of commits :octocat:
 
-1. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
-2. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-3. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-4. [conda/conda](https://github.com/conda/conda/), 0 commits :octocat:
-5. [ccxt/ccxt](https://github.com/ccxt/ccxt/), 0 commits :octocat:
+1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1419 commits :octocat:
+2. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
+3. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+4. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+5. [pymc-devs/pymc](https://github.com/pymc-devs/pymc/), 5 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [uchicago-cs/deepdish](https://github.com/uchicago-cs/deepdish/), 0 commits :octocat:
-7. [james-barrow/golang-ipc](https://github.com/james-barrow/golang-ipc/), 0 commits :octocat:
-8. [basnijholt/ipynb_git_filters](https://github.com/basnijholt/ipynb_git_filters/), 0 commits :octocat:
-9. [basnijholt/cluster-logger](https://github.com/basnijholt/cluster-logger/), 0 commits :octocat:
-10. [madsbk/lrcloud](https://github.com/madsbk/lrcloud/), 0 commits :octocat:
-11. [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd/), 0 commits :octocat:
-12. [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN/), 0 commits :octocat:
-13. [conda-forge/scipy-feedstock](https://github.com/conda-forge/scipy-feedstock/), 0 commits :octocat:
-14. [synesthesiam/hassio-addons](https://github.com/synesthesiam/hassio-addons/), 0 commits :octocat:
-15. [kwant-project/testing](https://github.com/kwant-project/testing/), 0 commits :octocat:
-16. [basnijholt/zigzag-majoranas](https://github.com/basnijholt/zigzag-majoranas/), 0 commits :octocat:
-17. [robmarkcole/HASS-data-detective](https://github.com/robmarkcole/HASS-data-detective/), 0 commits :octocat:
-18. [joblib/loky](https://github.com/joblib/loky/), 0 commits :octocat:
-19. [ProjectMeniscus/pywebhdfs](https://github.com/ProjectMeniscus/pywebhdfs/), 0 commits :octocat:
-20. [sympy/sympy](https://github.com/sympy/sympy/), 0 commits :octocat:
+6. [conda-forge/conda-forge-repodata-patches-feedstock](https://github.com/conda-forge/conda-forge-repodata-patches-feedstock/), 0 commits :octocat:
+7. [basnijholt/nanowire-qpc-spectrum](https://github.com/basnijholt/nanowire-qpc-spectrum/), 0 commits :octocat:
+8. [scipy/scipy](https://github.com/scipy/scipy/), 0 commits :octocat:
+9. [dschrempf/syncthing-resolve-conflicts](https://github.com/dschrempf/syncthing-resolve-conflicts/), 0 commits :octocat:
+10. [hassio-addons/workflows](https://github.com/hassio-addons/workflows/), 0 commits :octocat:
+11. [QCoDeS/broadbean](https://github.com/QCoDeS/broadbean/), 0 commits :octocat:
+12. [danobot/entity-controller](https://github.com/danobot/entity-controller/), 0 commits :octocat:
+13. [sympy/sympy](https://github.com/sympy/sympy/), 0 commits :octocat:
+14. [basnijholt/codestructure](https://github.com/basnijholt/codestructure/), 0 commits :octocat:
+15. [benfred/py-spy](https://github.com/benfred/py-spy/), 0 commits :octocat:
+16. [PaulAnnekov/tuyaha](https://github.com/PaulAnnekov/tuyaha/), 0 commits :octocat:
+17. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/), 0 commits :octocat:
+18. [zigpy/zigpy](https://github.com/zigpy/zigpy/), 0 commits :octocat:
+19. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 0 commits :octocat:
+20. [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs/), 0 commits :octocat:
 
 </details>
 
