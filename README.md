@@ -18,14 +18,14 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-10-01 12:08:35.206485.
+Last updated at 2023-10-02 12:08:59.931671.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1526 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1208 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1527 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1210 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1074 ⭐️s
 4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 908 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 472 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-10-01 12:08:35.206485.
 
 ## number of commits :octocat:
 
-1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1419 commits :octocat:
-2. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
-3. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-4. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-5. [pymc-devs/pymc](https://github.com/pymc-devs/pymc/), 5 commits :octocat:
+1. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
+2. [conda-forge/conda-feedstock](https://github.com/conda-forge/conda-feedstock/), 0 commits :octocat:
+3. [conda-forge/adaptive-feedstock](https://github.com/conda-forge/adaptive-feedstock/), 0 commits :octocat:
+4. [zigpy/zigpy](https://github.com/zigpy/zigpy/), 0 commits :octocat:
+5. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [conda-forge/conda-forge-repodata-patches-feedstock](https://github.com/conda-forge/conda-forge-repodata-patches-feedstock/), 0 commits :octocat:
-7. [basnijholt/nanowire-qpc-spectrum](https://github.com/basnijholt/nanowire-qpc-spectrum/), 0 commits :octocat:
-8. [scipy/scipy](https://github.com/scipy/scipy/), 0 commits :octocat:
-9. [dschrempf/syncthing-resolve-conflicts](https://github.com/dschrempf/syncthing-resolve-conflicts/), 0 commits :octocat:
-10. [hassio-addons/workflows](https://github.com/hassio-addons/workflows/), 0 commits :octocat:
-11. [QCoDeS/broadbean](https://github.com/QCoDeS/broadbean/), 0 commits :octocat:
-12. [danobot/entity-controller](https://github.com/danobot/entity-controller/), 0 commits :octocat:
-13. [sympy/sympy](https://github.com/sympy/sympy/), 0 commits :octocat:
-14. [basnijholt/codestructure](https://github.com/basnijholt/codestructure/), 0 commits :octocat:
-15. [benfred/py-spy](https://github.com/benfred/py-spy/), 0 commits :octocat:
-16. [PaulAnnekov/tuyaha](https://github.com/PaulAnnekov/tuyaha/), 0 commits :octocat:
-17. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/), 0 commits :octocat:
-18. [zigpy/zigpy](https://github.com/zigpy/zigpy/), 0 commits :octocat:
-19. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 0 commits :octocat:
-20. [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs/), 0 commits :octocat:
+6. [stuertz/pybunqexport](https://github.com/stuertz/pybunqexport/), 0 commits :octocat:
+7. [basnijholt/Markov-chain-Monte-Carlo-polymer-growth](https://github.com/basnijholt/Markov-chain-Monte-Carlo-polymer-growth/), 0 commits :octocat:
+8. [ben8p/home-assistant-bunq-balance-sensors](https://github.com/ben8p/home-assistant-bunq-balance-sensors/), 0 commits :octocat:
+9. [TheRealLink/pylgtv](https://github.com/TheRealLink/pylgtv/), 0 commits :octocat:
+10. [basnijholt/adaptive-tools](https://github.com/basnijholt/adaptive-tools/), 0 commits :octocat:
+11. [pymc-devs/pymc](https://github.com/pymc-devs/pymc/), 0 commits :octocat:
+12. [TribuneX/home_assistant](https://github.com/TribuneX/home_assistant/), 0 commits :octocat:
+13. [conda-forge/qcodes-feedstock](https://github.com/conda-forge/qcodes-feedstock/), 0 commits :octocat:
+14. [hacs/default](https://github.com/hacs/default/), 0 commits :octocat:
+15. [basnijholt/molecular-dynamics-FORTRAN](https://github.com/basnijholt/molecular-dynamics-FORTRAN/), 0 commits :octocat:
+16. [basnijholt/nanowire-bandstructures](https://github.com/basnijholt/nanowire-bandstructures/), 0 commits :octocat:
+17. [basnijholt/fileup](https://github.com/basnijholt/fileup/), 0 commits :octocat:
+18. [basnijholt/deep-learning-udacity](https://github.com/basnijholt/deep-learning-udacity/), 0 commits :octocat:
+19. [QCoDeS/broadbean](https://github.com/QCoDeS/broadbean/), 0 commits :octocat:
+20. [chelseybaker/iOSMessageExport](https://github.com/chelseybaker/iOSMessageExport/), 0 commits :octocat:
 
 </details>
 
