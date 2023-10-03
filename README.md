@@ -18,14 +18,14 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-10-02 12:08:59.931671.
+Last updated at 2023-10-03 12:09:32.193371.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1527 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1210 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1211 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1074 ⭐️s
 4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 908 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 472 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-10-02 12:08:59.931671.
 
 ## number of commits :octocat:
 
-1. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
-2. [conda-forge/conda-feedstock](https://github.com/conda-forge/conda-feedstock/), 0 commits :octocat:
-3. [conda-forge/adaptive-feedstock](https://github.com/conda-forge/adaptive-feedstock/), 0 commits :octocat:
-4. [zigpy/zigpy](https://github.com/zigpy/zigpy/), 0 commits :octocat:
-5. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 0 commits :octocat:
+1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1419 commits :octocat:
+2. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 228 commits :octocat:
+3. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
+4. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+5. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 2 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [stuertz/pybunqexport](https://github.com/stuertz/pybunqexport/), 0 commits :octocat:
-7. [basnijholt/Markov-chain-Monte-Carlo-polymer-growth](https://github.com/basnijholt/Markov-chain-Monte-Carlo-polymer-growth/), 0 commits :octocat:
-8. [ben8p/home-assistant-bunq-balance-sensors](https://github.com/ben8p/home-assistant-bunq-balance-sensors/), 0 commits :octocat:
-9. [TheRealLink/pylgtv](https://github.com/TheRealLink/pylgtv/), 0 commits :octocat:
-10. [basnijholt/adaptive-tools](https://github.com/basnijholt/adaptive-tools/), 0 commits :octocat:
-11. [pymc-devs/pymc](https://github.com/pymc-devs/pymc/), 0 commits :octocat:
-12. [TribuneX/home_assistant](https://github.com/TribuneX/home_assistant/), 0 commits :octocat:
-13. [conda-forge/qcodes-feedstock](https://github.com/conda-forge/qcodes-feedstock/), 0 commits :octocat:
-14. [hacs/default](https://github.com/hacs/default/), 0 commits :octocat:
-15. [basnijholt/molecular-dynamics-FORTRAN](https://github.com/basnijholt/molecular-dynamics-FORTRAN/), 0 commits :octocat:
-16. [basnijholt/nanowire-bandstructures](https://github.com/basnijholt/nanowire-bandstructures/), 0 commits :octocat:
-17. [basnijholt/fileup](https://github.com/basnijholt/fileup/), 0 commits :octocat:
-18. [basnijholt/deep-learning-udacity](https://github.com/basnijholt/deep-learning-udacity/), 0 commits :octocat:
-19. [QCoDeS/broadbean](https://github.com/QCoDeS/broadbean/), 0 commits :octocat:
-20. [chelseybaker/iOSMessageExport](https://github.com/chelseybaker/iOSMessageExport/), 0 commits :octocat:
+6. [basnijholt/Schrodinger-time-evolution](https://github.com/basnijholt/Schrodinger-time-evolution/), 0 commits :octocat:
+7. [hassio-addons/workflows](https://github.com/hassio-addons/workflows/), 0 commits :octocat:
+8. [sympy/sympy](https://github.com/sympy/sympy/), 0 commits :octocat:
+9. [ICB-DCM/pyABC](https://github.com/ICB-DCM/pyABC/), 0 commits :octocat:
+10. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 0 commits :octocat:
+11. [conda/conda](https://github.com/conda/conda/), 0 commits :octocat:
+12. [Azure/azhpc-images](https://github.com/Azure/azhpc-images/), 0 commits :octocat:
+13. [conda-forge/adaptive-scheduler-feedstock](https://github.com/conda-forge/adaptive-scheduler-feedstock/), 0 commits :octocat:
+14. [stuertz/pybunqexport](https://github.com/stuertz/pybunqexport/), 0 commits :octocat:
+15. [conda-forge/conda-forge-build-setup-feedstock](https://github.com/conda-forge/conda-forge-build-setup-feedstock/), 0 commits :octocat:
+16. [basnijholt/nanowire-qpc-spectrum](https://github.com/basnijholt/nanowire-qpc-spectrum/), 0 commits :octocat:
+17. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 0 commits :octocat:
+18. [rougier/freetype-py](https://github.com/rougier/freetype-py/), 0 commits :octocat:
+19. [conda-forge/jenkspy-feedstock](https://github.com/conda-forge/jenkspy-feedstock/), 0 commits :octocat:
+20. [dfm/emcee](https://github.com/dfm/emcee/), 0 commits :octocat:
 
 </details>
 
