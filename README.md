@@ -18,17 +18,17 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-10-03 12:09:32.193371.
+Last updated at 2023-10-04 12:09:17.453042.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1527 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1528 ⭐️s
 2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1211 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1074 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 908 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 472 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 909 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 473 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 426 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-10-03 12:09:32.193371.
 
 ## number of commits :octocat:
 
-1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1419 commits :octocat:
-2. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 228 commits :octocat:
-3. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
-4. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-5. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 2 commits :octocat:
+1. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 228 commits :octocat:
+2. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
+3. [CJ-Wright/cf-graph-countyfair](https://github.com/CJ-Wright/cf-graph-countyfair/), 0 commits :octocat:
+4. [ct-Open-Source/tuya-convert](https://github.com/ct-Open-Source/tuya-convert/), 0 commits :octocat:
+5. [Azure/azhpc-images](https://github.com/Azure/azhpc-images/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/Schrodinger-time-evolution](https://github.com/basnijholt/Schrodinger-time-evolution/), 0 commits :octocat:
-7. [hassio-addons/workflows](https://github.com/hassio-addons/workflows/), 0 commits :octocat:
-8. [sympy/sympy](https://github.com/sympy/sympy/), 0 commits :octocat:
-9. [ICB-DCM/pyABC](https://github.com/ICB-DCM/pyABC/), 0 commits :octocat:
-10. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 0 commits :octocat:
-11. [conda/conda](https://github.com/conda/conda/), 0 commits :octocat:
-12. [Azure/azhpc-images](https://github.com/Azure/azhpc-images/), 0 commits :octocat:
-13. [conda-forge/adaptive-scheduler-feedstock](https://github.com/conda-forge/adaptive-scheduler-feedstock/), 0 commits :octocat:
-14. [stuertz/pybunqexport](https://github.com/stuertz/pybunqexport/), 0 commits :octocat:
-15. [conda-forge/conda-forge-build-setup-feedstock](https://github.com/conda-forge/conda-forge-build-setup-feedstock/), 0 commits :octocat:
-16. [basnijholt/nanowire-qpc-spectrum](https://github.com/basnijholt/nanowire-qpc-spectrum/), 0 commits :octocat:
-17. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 0 commits :octocat:
-18. [rougier/freetype-py](https://github.com/rougier/freetype-py/), 0 commits :octocat:
-19. [conda-forge/jenkspy-feedstock](https://github.com/conda-forge/jenkspy-feedstock/), 0 commits :octocat:
-20. [dfm/emcee](https://github.com/dfm/emcee/), 0 commits :octocat:
+6. [basnijholt/money_scribbles](https://github.com/basnijholt/money_scribbles/), 0 commits :octocat:
+7. [sdouglas/cadnano2](https://github.com/sdouglas/cadnano2/), 0 commits :octocat:
+8. [conda-forge/conda-forge.github.io](https://github.com/conda-forge/conda-forge.github.io/), 0 commits :octocat:
+9. [dotnet/docs](https://github.com/dotnet/docs/), 0 commits :octocat:
+10. [ohld/igbot](https://github.com/ohld/igbot/), 0 commits :octocat:
+11. [basnijholt/Markov-chain-Monte-Carlo-polymer-growth](https://github.com/basnijholt/Markov-chain-Monte-Carlo-polymer-growth/), 0 commits :octocat:
+12. [madsbk/lrcloud](https://github.com/madsbk/lrcloud/), 0 commits :octocat:
+13. [jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets/), 0 commits :octocat:
+14. [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt/), 0 commits :octocat:
+15. [basnijholt/orbitalfield](https://github.com/basnijholt/orbitalfield/), 0 commits :octocat:
+16. [embeddedartistry/templates](https://github.com/embeddedartistry/templates/), 0 commits :octocat:
+17. [basnijholt/variational-quantum-monte-carlo](https://github.com/basnijholt/variational-quantum-monte-carlo/), 0 commits :octocat:
+18. [custom-cards/button-card](https://github.com/custom-cards/button-card/), 0 commits :octocat:
+19. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 0 commits :octocat:
+20. [basnijholt/conda-recipes](https://github.com/basnijholt/conda-recipes/), 0 commits :octocat:
 
 </details>
 
