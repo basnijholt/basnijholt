@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-10-07 12:06:06.008845.
+Last updated at 2023-10-08 12:08:35.467155.
 
 # GitHub statistics — my top 20
 
@@ -28,7 +28,7 @@ Last updated at 2023-10-07 12:06:06.008845.
 2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1219 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1075 ⭐️s
 4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 909 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 474 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 475 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 426 ⭐️s
@@ -54,27 +54,27 @@ Last updated at 2023-10-07 12:06:06.008845.
 ## number of commits :octocat:
 
 1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1419 commits :octocat:
-2. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-3. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-4. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 2 commits :octocat:
-5. [joblib/loky](https://github.com/joblib/loky/), 0 commits :octocat:
+2. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
+3. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
+4. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+5. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [Juvawa/HomeAssistant9292OvApiSensor](https://github.com/Juvawa/HomeAssistant9292OvApiSensor/), 0 commits :octocat:
-7. [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit/), 0 commits :octocat:
-8. [sammchardy/python-binance](https://github.com/sammchardy/python-binance/), 0 commits :octocat:
-9. [haarcuba/ssh-agent-setup](https://github.com/haarcuba/ssh-agent-setup/), 0 commits :octocat:
-10. [conda-forge/metis-feedstock](https://github.com/conda-forge/metis-feedstock/), 0 commits :octocat:
-11. [conda-forge/panel-feedstock](https://github.com/conda-forge/panel-feedstock/), 0 commits :octocat:
-12. [sseemayer/qstat-pretty](https://github.com/sseemayer/qstat-pretty/), 0 commits :octocat:
-13. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 0 commits :octocat:
-14. [conda-forge/paraview-feedstock](https://github.com/conda-forge/paraview-feedstock/), 0 commits :octocat:
-15. [mpi4py/mpi4py](https://github.com/mpi4py/mpi4py/), 0 commits :octocat:
-16. [MicrosoftDocs/azure-devops-docs](https://github.com/MicrosoftDocs/azure-devops-docs/), 0 commits :octocat:
-17. [hassio-addons/addon-jupyterlab](https://github.com/hassio-addons/addon-jupyterlab/), 0 commits :octocat:
-18. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 0 commits :octocat:
-19. [embeddedartistry/templates](https://github.com/embeddedartistry/templates/), 0 commits :octocat:
-20. [kwant-project/binder](https://github.com/kwant-project/binder/), 0 commits :octocat:
+6. [ccxt/ccxt](https://github.com/ccxt/ccxt/), 0 commits :octocat:
+7. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 0 commits :octocat:
+8. [ianare/exif-py](https://github.com/ianare/exif-py/), 0 commits :octocat:
+9. [conda-forge/opencensus-feedstock](https://github.com/conda-forge/opencensus-feedstock/), 0 commits :octocat:
+10. [conda/conda](https://github.com/conda/conda/), 0 commits :octocat:
+11. [sdouglas/cadnano2](https://github.com/sdouglas/cadnano2/), 0 commits :octocat:
+12. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 0 commits :octocat:
+13. [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org/), 0 commits :octocat:
+14. [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB/), 0 commits :octocat:
+15. [ProjectMeniscus/pywebhdfs](https://github.com/ProjectMeniscus/pywebhdfs/), 0 commits :octocat:
+16. [gidgethub/gidgethub](https://github.com/gidgethub/gidgethub/), 0 commits :octocat:
+17. [ipython/ipyparallel](https://github.com/ipython/ipyparallel/), 0 commits :octocat:
+18. [basnijholt/azure-singularity-agent](https://github.com/basnijholt/azure-singularity-agent/), 0 commits :octocat:
+19. [conda-forge/pywebhdfs-feedstock](https://github.com/conda-forge/pywebhdfs-feedstock/), 0 commits :octocat:
+20. [jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets/), 0 commits :octocat:
 
 </details>
 
