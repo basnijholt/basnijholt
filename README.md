@@ -18,16 +18,16 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-10-09 12:09:08.788747.
+Last updated at 2023-10-10 12:08:55.146963.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1528 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1529 ⭐️s
 2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1220 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1074 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 909 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 910 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 475 ⭐️s
 <details><summary>Click to expand!</summary>
 
@@ -55,26 +55,26 @@ Last updated at 2023-10-09 12:09:08.788747.
 
 1. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
 2. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-3. [Christophe31/screenutils](https://github.com/Christophe31/screenutils/), 0 commits :octocat:
-4. [basnijholt/qcodes-repr](https://github.com/basnijholt/qcodes-repr/), 0 commits :octocat:
-5. [dask/dask-jobqueue](https://github.com/dask/dask-jobqueue/), 0 commits :octocat:
+3. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
+4. [dotnet/docs](https://github.com/dotnet/docs/), 0 commits :octocat:
+5. [conda-forge/dataproperty-feedstock](https://github.com/conda-forge/dataproperty-feedstock/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [adshao/go-binance](https://github.com/adshao/go-binance/), 0 commits :octocat:
-7. [JesseSlim/polymetric](https://github.com/JesseSlim/polymetric/), 0 commits :octocat:
-8. [rust-lang/rustlings](https://github.com/rust-lang/rustlings/), 0 commits :octocat:
-9. [conda-forge/smesh-feedstock](https://github.com/conda-forge/smesh-feedstock/), 0 commits :octocat:
-10. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 0 commits :octocat:
-11. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 0 commits :octocat:
-12. [conda-forge/jupyter-sphinx-feedstock](https://github.com/conda-forge/jupyter-sphinx-feedstock/), 0 commits :octocat:
-13. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 0 commits :octocat:
-14. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 0 commits :octocat:
-15. [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect/), 0 commits :octocat:
-16. [conda-forge/jupyter_cms-feedstock](https://github.com/conda-forge/jupyter_cms-feedstock/), 0 commits :octocat:
-17. [conda-forge/jenkspy-feedstock](https://github.com/conda-forge/jenkspy-feedstock/), 0 commits :octocat:
-18. [basnijholt/Markov-chain-Monte-Carlo-polymer-growth](https://github.com/basnijholt/Markov-chain-Monte-Carlo-polymer-growth/), 0 commits :octocat:
-19. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 0 commits :octocat:
-20. [basnijholt/slurm-usage](https://github.com/basnijholt/slurm-usage/), 0 commits :octocat:
+6. [gidgethub/gidgethub](https://github.com/gidgethub/gidgethub/), 0 commits :octocat:
+7. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 0 commits :octocat:
+8. [python3statement/python3statement.github.io](https://github.com/python3statement/python3statement.github.io/), 0 commits :octocat:
+9. [basnijholt/adaptive-talk](https://github.com/basnijholt/adaptive-talk/), 0 commits :octocat:
+10. [dfm/emcee](https://github.com/dfm/emcee/), 0 commits :octocat:
+11. [hacs/default](https://github.com/hacs/default/), 0 commits :octocat:
+12. [codechimp-org/ha-menu](https://github.com/codechimp-org/ha-menu/), 0 commits :octocat:
+13. [MicrosoftDocs/azure-devops-docs](https://github.com/MicrosoftDocs/azure-devops-docs/), 0 commits :octocat:
+14. [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints/), 0 commits :octocat:
+15. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 0 commits :octocat:
+16. [Juvawa/HomeAssistant9292OvApiSensor](https://github.com/Juvawa/HomeAssistant9292OvApiSensor/), 0 commits :octocat:
+17. [JesseSlim/polymetric](https://github.com/JesseSlim/polymetric/), 0 commits :octocat:
+18. [andrewbrereton/privateinternetaccess-on-openwrt](https://github.com/andrewbrereton/privateinternetaccess-on-openwrt/), 0 commits :octocat:
+19. [basnijholt/azure-agent-jupyter-minimal-notebook](https://github.com/basnijholt/azure-agent-jupyter-minimal-notebook/), 0 commits :octocat:
+20. [microsoft/aiida-dynamic-workflows](https://github.com/microsoft/aiida-dynamic-workflows/), 0 commits :octocat:
 
 </details>
 
