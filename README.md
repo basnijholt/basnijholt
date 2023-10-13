@@ -18,16 +18,16 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-10-12 12:09:21.761568.
+Last updated at 2023-10-13 12:09:10.525635.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1530 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1224 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1531 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1226 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1074 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 912 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 914 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 478 ⭐️s
 <details><summary>Click to expand!</summary>
 
@@ -53,28 +53,28 @@ Last updated at 2023-10-12 12:09:21.761568.
 
 ## number of commits :octocat:
 
-1. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-2. [RMerl/asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin/), 0 commits :octocat:
-3. [basnijholt/azure-singularity-agent](https://github.com/basnijholt/azure-singularity-agent/), 0 commits :octocat:
-4. [smartbch/smartbch](https://github.com/smartbch/smartbch/), 0 commits :octocat:
-5. [hassio-addons/addon-vscode](https://github.com/hassio-addons/addon-vscode/), 0 commits :octocat:
+1. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 228 commits :octocat:
+2. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+3. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 2 commits :octocat:
+4. [23andMe/Yamale](https://github.com/23andMe/Yamale/), 0 commits :octocat:
+5. [Kobold/text_histogram](https://github.com/Kobold/text_histogram/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [codechimp-org/ha-menu](https://github.com/codechimp-org/ha-menu/), 0 commits :octocat:
-7. [conda-forge/freecad-feedstock](https://github.com/conda-forge/freecad-feedstock/), 0 commits :octocat:
-8. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 0 commits :octocat:
-9. [basnijholt/molecular-dynamics-FORTRAN](https://github.com/basnijholt/molecular-dynamics-FORTRAN/), 0 commits :octocat:
-10. [basnijholt/orbitalfield](https://github.com/basnijholt/orbitalfield/), 0 commits :octocat:
-11. [conda-forge/opencensus-context-feedstock](https://github.com/conda-forge/opencensus-context-feedstock/), 0 commits :octocat:
-12. [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect/), 0 commits :octocat:
-13. [scipy/scipy](https://github.com/scipy/scipy/), 0 commits :octocat:
-14. [solidity-by-example/solidity-by-example.github.io](https://github.com/solidity-by-example/solidity-by-example.github.io/), 0 commits :octocat:
-15. [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic/), 0 commits :octocat:
-16. [whiskerz007/proxmox_hassos_install](https://github.com/whiskerz007/proxmox_hassos_install/), 0 commits :octocat:
-17. [TimGebraad/Computational-Physics-TDSE](https://github.com/TimGebraad/Computational-Physics-TDSE/), 0 commits :octocat:
-18. [binder-project/binder](https://github.com/binder-project/binder/), 0 commits :octocat:
-19. [tox-dev/azure-pipelines-template](https://github.com/tox-dev/azure-pipelines-template/), 0 commits :octocat:
-20. [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy/), 0 commits :octocat:
+6. [basnijholt/arxiv-feed-mailer](https://github.com/basnijholt/arxiv-feed-mailer/), 0 commits :octocat:
+7. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 0 commits :octocat:
+8. [basnijholt/adaptive-talk](https://github.com/basnijholt/adaptive-talk/), 0 commits :octocat:
+9. [RMerl/asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin/), 0 commits :octocat:
+10. [basnijholt/discretizer](https://github.com/basnijholt/discretizer/), 0 commits :octocat:
+11. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 0 commits :octocat:
+12. [fi-sch/ux_goodie_theme](https://github.com/fi-sch/ux_goodie_theme/), 0 commits :octocat:
+13. [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/), 0 commits :octocat:
+14. [conda-forge/pytest-flakes-feedstock](https://github.com/conda-forge/pytest-flakes-feedstock/), 0 commits :octocat:
+15. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 0 commits :octocat:
+16. [nipype/pydra-tutorial](https://github.com/nipype/pydra-tutorial/), 0 commits :octocat:
+17. [basnijholt/shortjunction](https://github.com/basnijholt/shortjunction/), 0 commits :octocat:
+18. [conda-forge/jupyter_cms-feedstock](https://github.com/conda-forge/jupyter_cms-feedstock/), 0 commits :octocat:
+19. [conda-forge/conda-forge-pinning-feedstock](https://github.com/conda-forge/conda-forge-pinning-feedstock/), 0 commits :octocat:
+20. [basnijholt/adaptive-tools](https://github.com/basnijholt/adaptive-tools/), 0 commits :octocat:
 
 </details>
 
