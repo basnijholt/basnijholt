@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-10-22 12:08:39.161090.
+Last updated at 2023-10-23 12:09:08.814739.
 
 # GitHub statistics — my top 20
 
@@ -53,28 +53,28 @@ Last updated at 2023-10-22 12:08:39.161090.
 
 ## number of commits :octocat:
 
-1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1419 commits :octocat:
-2. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-3. [TimGebraad/Computational-Physics-TDSE](https://github.com/TimGebraad/Computational-Physics-TDSE/), 0 commits :octocat:
-4. [conda-forge/pcl-feedstock](https://github.com/conda-forge/pcl-feedstock/), 0 commits :octocat:
-5. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 0 commits :octocat:
+1. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+2. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
+3. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 0 commits :octocat:
+4. [sympy/sympy](https://github.com/sympy/sympy/), 0 commits :octocat:
+5. [itstorque/jekyll-shell-theme](https://github.com/itstorque/jekyll-shell-theme/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [embeddedartistry/templates](https://github.com/embeddedartistry/templates/), 0 commits :octocat:
-7. [conda-forge/conda-forge-build-setup-feedstock](https://github.com/conda-forge/conda-forge-build-setup-feedstock/), 0 commits :octocat:
-8. [NabuCasa/coronavirus](https://github.com/NabuCasa/coronavirus/), 0 commits :octocat:
-9. [dask/dask-drmaa](https://github.com/dask/dask-drmaa/), 0 commits :octocat:
-10. [basnijholt/Project-Euler](https://github.com/basnijholt/Project-Euler/), 0 commits :octocat:
-11. [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes/), 0 commits :octocat:
-12. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 0 commits :octocat:
-13. [conda-forge/azure-cosmos-feedstock](https://github.com/conda-forge/azure-cosmos-feedstock/), 0 commits :octocat:
-14. [basnijholt/versioningit_fail](https://github.com/basnijholt/versioningit_fail/), 0 commits :octocat:
-15. [PaulAnnekov/tuyaha](https://github.com/PaulAnnekov/tuyaha/), 0 commits :octocat:
-16. [conda-forge/suitesparse-feedstock](https://github.com/conda-forge/suitesparse-feedstock/), 0 commits :octocat:
-17. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 0 commits :octocat:
-18. [basnijholt/azure-singularity-agent](https://github.com/basnijholt/azure-singularity-agent/), 0 commits :octocat:
-19. [ccxt/ccxt](https://github.com/ccxt/ccxt/), 0 commits :octocat:
-20. [JesseSlim/polymetric](https://github.com/JesseSlim/polymetric/), 0 commits :octocat:
+6. [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/), 0 commits :octocat:
+7. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 0 commits :octocat:
+8. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 0 commits :octocat:
+9. [dotnet/docs](https://github.com/dotnet/docs/), 0 commits :octocat:
+10. [ramonhagenaars/nptyping](https://github.com/ramonhagenaars/nptyping/), 0 commits :octocat:
+11. [conda-forge/conda-forge-pinning-feedstock](https://github.com/conda-forge/conda-forge-pinning-feedstock/), 0 commits :octocat:
+12. [iamc/ML-CM-2019](https://github.com/iamc/ML-CM-2019/), 0 commits :octocat:
+13. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 0 commits :octocat:
+14. [jleben/bib-yaml](https://github.com/jleben/bib-yaml/), 0 commits :octocat:
+15. [craigbarratt/hass-pyscript-jupyter](https://github.com/craigbarratt/hass-pyscript-jupyter/), 0 commits :octocat:
+16. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 0 commits :octocat:
+17. [MicrosoftDocs/azure-devops-docs](https://github.com/MicrosoftDocs/azure-devops-docs/), 0 commits :octocat:
+18. [basnijholt/day-one-story-sender](https://github.com/basnijholt/day-one-story-sender/), 0 commits :octocat:
+19. [conda-forge/metis-feedstock](https://github.com/conda-forge/metis-feedstock/), 0 commits :octocat:
+20. [pymc-devs/pymc](https://github.com/pymc-devs/pymc/), 0 commits :octocat:
 
 </details>
 
