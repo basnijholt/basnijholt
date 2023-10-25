@@ -18,14 +18,14 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-10-24 12:08:48.309647.
+Last updated at 2023-10-25 12:08:58.058700.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1536 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1246 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1250 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1073 ⭐️s
 4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 928 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 485 ⭐️s
@@ -40,7 +40,7 @@ Last updated at 2023-10-24 12:08:48.309647.
 12. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 76 ⭐️s
 13. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 76 ⭐️s
 14. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 48 ⭐️s
-15. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 33 ⭐️s
+15. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 34 ⭐️s
 16. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 26 ⭐️s
 17. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 21 ⭐️s
 18. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 20 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-10-24 12:08:48.309647.
 
 ## number of commits :octocat:
 
-1. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
-2. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-3. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-4. [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks/), 10 commits :octocat:
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 0 commits :octocat:
+1. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 228 commits :octocat:
+2. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
+3. [PyTables/pytables.github.com](https://github.com/PyTables/pytables.github.com/), 0 commits :octocat:
+4. [DenisCarriere/geocoder](https://github.com/DenisCarriere/geocoder/), 0 commits :octocat:
+5. [conda-forge/holoviews-feedstock](https://github.com/conda-forge/holoviews-feedstock/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [conda-forge/scotch-feedstock](https://github.com/conda-forge/scotch-feedstock/), 0 commits :octocat:
-7. [basnijholt/Casimir-programming](https://github.com/basnijholt/Casimir-programming/), 0 commits :octocat:
-8. [NabuCasa/coronavirus](https://github.com/NabuCasa/coronavirus/), 0 commits :octocat:
-9. [basnijholt/cyclecloud-slurm-scaling](https://github.com/basnijholt/cyclecloud-slurm-scaling/), 0 commits :octocat:
-10. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 0 commits :octocat:
-11. [binder-project/binder](https://github.com/binder-project/binder/), 0 commits :octocat:
-12. [conda-forge/cdt-builds](https://github.com/conda-forge/cdt-builds/), 0 commits :octocat:
-13. [home-assistant/frontend](https://github.com/home-assistant/frontend/), 0 commits :octocat:
-14. [conda-forge/spylon-kernel-feedstock](https://github.com/conda-forge/spylon-kernel-feedstock/), 0 commits :octocat:
-15. [kwant-project/billiard](https://github.com/kwant-project/billiard/), 0 commits :octocat:
-16. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 0 commits :octocat:
-17. [fi-sch/ux_goodie_theme](https://github.com/fi-sch/ux_goodie_theme/), 0 commits :octocat:
-18. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 0 commits :octocat:
-19. [jupyter/jupyter-sphinx](https://github.com/jupyter/jupyter-sphinx/), 0 commits :octocat:
-20. [conda-forge/jupyter-sphinx-feedstock](https://github.com/conda-forge/jupyter-sphinx-feedstock/), 0 commits :octocat:
+6. [basnijholt/molecular-dynamics-FORTRAN](https://github.com/basnijholt/molecular-dynamics-FORTRAN/), 0 commits :octocat:
+7. [conda-forge/vtk-feedstock](https://github.com/conda-forge/vtk-feedstock/), 0 commits :octocat:
+8. [basnijholt/azure-agent-jupyter-minimal-notebook](https://github.com/basnijholt/azure-agent-jupyter-minimal-notebook/), 0 commits :octocat:
+9. [holoviz/panel](https://github.com/holoviz/panel/), 0 commits :octocat:
+10. [conda-forge/kwant-feedstock](https://github.com/conda-forge/kwant-feedstock/), 0 commits :octocat:
+11. [rust-lang/rustlings](https://github.com/rust-lang/rustlings/), 0 commits :octocat:
+12. [andrewbrereton/privateinternetaccess-on-openwrt](https://github.com/andrewbrereton/privateinternetaccess-on-openwrt/), 0 commits :octocat:
+13. [sympy/sympy](https://github.com/sympy/sympy/), 0 commits :octocat:
+14. [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19/), 0 commits :octocat:
+15. [RobinUS2/golang-moving-average](https://github.com/RobinUS2/golang-moving-average/), 0 commits :octocat:
+16. [basnijholt/cyclecloud-slurm-scaling](https://github.com/basnijholt/cyclecloud-slurm-scaling/), 0 commits :octocat:
+17. [conda-forge/adaptive-scheduler-feedstock](https://github.com/conda-forge/adaptive-scheduler-feedstock/), 0 commits :octocat:
+18. [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN/), 0 commits :octocat:
+19. [scipy/scipy](https://github.com/scipy/scipy/), 0 commits :octocat:
+20. [nipype/pydra](https://github.com/nipype/pydra/), 0 commits :octocat:
 
 </details>
 
