@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-10-25 12:08:58.058700.
+Last updated at 2023-10-26 12:06:10.620010.
 
 # GitHub statistics — my top 20
 
@@ -26,8 +26,8 @@ Last updated at 2023-10-25 12:08:58.058700.
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1536 ⭐️s
 2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1250 ⭐️s
-3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1073 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 928 ⭐️s
+3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1074 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 929 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 485 ⭐️s
 <details><summary>Click to expand!</summary>
 
@@ -53,28 +53,28 @@ Last updated at 2023-10-25 12:08:58.058700.
 
 ## number of commits :octocat:
 
-1. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 228 commits :octocat:
-2. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
-3. [PyTables/pytables.github.com](https://github.com/PyTables/pytables.github.com/), 0 commits :octocat:
-4. [DenisCarriere/geocoder](https://github.com/DenisCarriere/geocoder/), 0 commits :octocat:
-5. [conda-forge/holoviews-feedstock](https://github.com/conda-forge/holoviews-feedstock/), 0 commits :octocat:
+1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1419 commits :octocat:
+2. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+3. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+4. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
+5. [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer/), 1 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/molecular-dynamics-FORTRAN](https://github.com/basnijholt/molecular-dynamics-FORTRAN/), 0 commits :octocat:
-7. [conda-forge/vtk-feedstock](https://github.com/conda-forge/vtk-feedstock/), 0 commits :octocat:
-8. [basnijholt/azure-agent-jupyter-minimal-notebook](https://github.com/basnijholt/azure-agent-jupyter-minimal-notebook/), 0 commits :octocat:
-9. [holoviz/panel](https://github.com/holoviz/panel/), 0 commits :octocat:
-10. [conda-forge/kwant-feedstock](https://github.com/conda-forge/kwant-feedstock/), 0 commits :octocat:
-11. [rust-lang/rustlings](https://github.com/rust-lang/rustlings/), 0 commits :octocat:
-12. [andrewbrereton/privateinternetaccess-on-openwrt](https://github.com/andrewbrereton/privateinternetaccess-on-openwrt/), 0 commits :octocat:
-13. [sympy/sympy](https://github.com/sympy/sympy/), 0 commits :octocat:
-14. [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19/), 0 commits :octocat:
-15. [RobinUS2/golang-moving-average](https://github.com/RobinUS2/golang-moving-average/), 0 commits :octocat:
-16. [basnijholt/cyclecloud-slurm-scaling](https://github.com/basnijholt/cyclecloud-slurm-scaling/), 0 commits :octocat:
-17. [conda-forge/adaptive-scheduler-feedstock](https://github.com/conda-forge/adaptive-scheduler-feedstock/), 0 commits :octocat:
-18. [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN/), 0 commits :octocat:
-19. [scipy/scipy](https://github.com/scipy/scipy/), 0 commits :octocat:
-20. [nipype/pydra](https://github.com/nipype/pydra/), 0 commits :octocat:
+6. [ohld/igbot](https://github.com/ohld/igbot/), 0 commits :octocat:
+7. [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19/), 0 commits :octocat:
+8. [basnijholt/nanowire-bandstructures](https://github.com/basnijholt/nanowire-bandstructures/), 0 commits :octocat:
+9. [conda-forge/fastcache-feedstock](https://github.com/conda-forge/fastcache-feedstock/), 0 commits :octocat:
+10. [iamc/ML-CM-2019](https://github.com/iamc/ML-CM-2019/), 0 commits :octocat:
+11. [sseemayer/qstat-pretty](https://github.com/sseemayer/qstat-pretty/), 0 commits :octocat:
+12. [sammchardy/python-binance](https://github.com/sammchardy/python-binance/), 0 commits :octocat:
+13. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 0 commits :octocat:
+14. [ianare/exif-py](https://github.com/ianare/exif-py/), 0 commits :octocat:
+15. [binance-exchange/binance-official-api-docs](https://github.com/binance-exchange/binance-official-api-docs/), 0 commits :octocat:
+16. [basnijholt/cluster-logger](https://github.com/basnijholt/cluster-logger/), 0 commits :octocat:
+17. [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN/), 0 commits :octocat:
+18. [basnijholt/variational-quantum-monte-carlo](https://github.com/basnijholt/variational-quantum-monte-carlo/), 0 commits :octocat:
+19. [pydata/xarray](https://github.com/pydata/xarray/), 0 commits :octocat:
+20. [jbweston/miniver](https://github.com/jbweston/miniver/), 0 commits :octocat:
 
 </details>
 
