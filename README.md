@@ -18,13 +18,13 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-10-29 12:08:50.842382.
+Last updated at 2023-10-30 12:09:19.141923.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1537 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1538 ⭐️s
 2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1252 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1075 ⭐️s
 4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 934 ⭐️s
@@ -54,27 +54,27 @@ Last updated at 2023-10-29 12:08:50.842382.
 ## number of commits :octocat:
 
 1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1419 commits :octocat:
-2. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
-3. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-4. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-5. [solidity-by-example/solidity-by-example.github.io](https://github.com/solidity-by-example/solidity-by-example.github.io/), 3 commits :octocat:
+2. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+3. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+4. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 2 commits :octocat:
+5. [sammchardy/python-binance](https://github.com/sammchardy/python-binance/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [conda-forge/qcodes-feedstock](https://github.com/conda-forge/qcodes-feedstock/), 0 commits :octocat:
-7. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 0 commits :octocat:
-8. [conda-forge/pywebhdfs-feedstock](https://github.com/conda-forge/pywebhdfs-feedstock/), 0 commits :octocat:
-9. [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN/), 0 commits :octocat:
-10. [RMerl/asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin/), 0 commits :octocat:
-11. [fsspec/adlfs](https://github.com/fsspec/adlfs/), 0 commits :octocat:
-12. [aio-libs/async-timeout](https://github.com/aio-libs/async-timeout/), 0 commits :octocat:
-13. [conda-forge/ipyparallel-feedstock](https://github.com/conda-forge/ipyparallel-feedstock/), 0 commits :octocat:
+6. [codechimp-org/ha-menu](https://github.com/codechimp-org/ha-menu/), 0 commits :octocat:
+7. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 0 commits :octocat:
+8. [basnijholt/basnijholt](https://github.com/basnijholt/basnijholt/), 0 commits :octocat:
+9. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 0 commits :octocat:
+10. [kwant-project/tinyarray](https://github.com/kwant-project/tinyarray/), 0 commits :octocat:
+11. [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon/), 0 commits :octocat:
+12. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 0 commits :octocat:
+13. [conda-forge/conda-forge-build-setup-feedstock](https://github.com/conda-forge/conda-forge-build-setup-feedstock/), 0 commits :octocat:
 14. [conda-forge/paraview-feedstock](https://github.com/conda-forge/paraview-feedstock/), 0 commits :octocat:
-15. [basnijholt/Project-Euler](https://github.com/basnijholt/Project-Euler/), 0 commits :octocat:
-16. [MicrosoftDocs/azure-devops-docs](https://github.com/MicrosoftDocs/azure-devops-docs/), 0 commits :octocat:
-17. [Kobold/text_histogram](https://github.com/Kobold/text_histogram/), 0 commits :octocat:
-18. [Jvanschoubroeck/Topology-optimization](https://github.com/Jvanschoubroeck/Topology-optimization/), 0 commits :octocat:
-19. [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs/), 0 commits :octocat:
-20. [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card/), 0 commits :octocat:
+15. [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon/), 0 commits :octocat:
+16. [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints/), 0 commits :octocat:
+17. [conda-forge/pywebhdfs-feedstock](https://github.com/conda-forge/pywebhdfs-feedstock/), 0 commits :octocat:
+18. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 0 commits :octocat:
+19. [basnijholt/orbitalfield](https://github.com/basnijholt/orbitalfield/), 0 commits :octocat:
+20. [grantjenks/python-sortedcollections](https://github.com/grantjenks/python-sortedcollections/), 0 commits :octocat:
 
 </details>
 
