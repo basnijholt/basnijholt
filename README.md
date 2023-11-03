@@ -18,16 +18,16 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-11-02 12:05:22.593017.
+Last updated at 2023-11-03 12:05:25.695443.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1539 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1261 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1264 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1076 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 934 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 935 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 487 ⭐️s
 <details><summary>Click to expand!</summary>
 
@@ -53,28 +53,28 @@ Last updated at 2023-11-02 12:05:22.593017.
 
 ## number of commits :octocat:
 
-1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1419 commits :octocat:
-2. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-3. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 0 commits :octocat:
-4. [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes/), 0 commits :octocat:
-5. [amccaugh/phidl](https://github.com/amccaugh/phidl/), 0 commits :octocat:
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 536 commits :octocat:
+2. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 228 commits :octocat:
+3. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
+4. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+5. [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN/), 5 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [joblib/loky](https://github.com/joblib/loky/), 0 commits :octocat:
-7. [Juvawa/HomeAssistant9292OvApiSensor](https://github.com/Juvawa/HomeAssistant9292OvApiSensor/), 0 commits :octocat:
-8. [microsoft/azure-pipelines-agent](https://github.com/microsoft/azure-pipelines-agent/), 0 commits :octocat:
-9. [microsoft/qmt](https://github.com/microsoft/qmt/), 0 commits :octocat:
-10. [basnijholt/fileup](https://github.com/basnijholt/fileup/), 0 commits :octocat:
-11. [conda-forge/mshr-feedstock](https://github.com/conda-forge/mshr-feedstock/), 0 commits :octocat:
-12. [trelau/SMESH](https://github.com/trelau/SMESH/), 0 commits :octocat:
-13. [microsoft/aiida-dynamic-workflows](https://github.com/microsoft/aiida-dynamic-workflows/), 0 commits :octocat:
-14. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 0 commits :octocat:
-15. [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB/), 0 commits :octocat:
-16. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 0 commits :octocat:
-17. [astrojuanlu/fenics-recipes](https://github.com/astrojuanlu/fenics-recipes/), 0 commits :octocat:
-18. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 0 commits :octocat:
-19. [jleben/bib-yaml](https://github.com/jleben/bib-yaml/), 0 commits :octocat:
-20. [NVIDIA/ipyparaview](https://github.com/NVIDIA/ipyparaview/), 0 commits :octocat:
+6. [basnijholt/versioningit_fail](https://github.com/basnijholt/versioningit_fail/), 0 commits :octocat:
+7. [ohld/igbot](https://github.com/ohld/igbot/), 0 commits :octocat:
+8. [basnijholt/Casimir-programming-2019](https://github.com/basnijholt/Casimir-programming-2019/), 0 commits :octocat:
+9. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 0 commits :octocat:
+10. [zigpy/zigpy](https://github.com/zigpy/zigpy/), 0 commits :octocat:
+11. [conda-forge/adaptive-feedstock](https://github.com/conda-forge/adaptive-feedstock/), 0 commits :octocat:
+12. [ben8p/home-assistant-bunq-balance-sensors](https://github.com/ben8p/home-assistant-bunq-balance-sensors/), 0 commits :octocat:
+13. [DenisCarriere/geocoder](https://github.com/DenisCarriere/geocoder/), 0 commits :octocat:
+14. [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python/), 0 commits :octocat:
+15. [conda-forge/jupyter-sphinx-feedstock](https://github.com/conda-forge/jupyter-sphinx-feedstock/), 0 commits :octocat:
+16. [dfm/emcee](https://github.com/dfm/emcee/), 0 commits :octocat:
+17. [basnijholt/test](https://github.com/basnijholt/test/), 0 commits :octocat:
+18. [Koenkk/zigbee2mqtt.io](https://github.com/Koenkk/zigbee2mqtt.io/), 0 commits :octocat:
+19. [nipype/pydra-tutorial](https://github.com/nipype/pydra-tutorial/), 0 commits :octocat:
+20. [conda-forge/suitesparse-feedstock](https://github.com/conda-forge/suitesparse-feedstock/), 0 commits :octocat:
 
 </details>
 
