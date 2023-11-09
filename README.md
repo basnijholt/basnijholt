@@ -18,16 +18,16 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-11-08 12:06:17.351803.
+Last updated at 2023-11-09 12:08:10.552518.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1543 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1274 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1545 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1275 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1076 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 939 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 943 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 488 ⭐️s
 <details><summary>Click to expand!</summary>
 
@@ -35,7 +35,7 @@ Last updated at 2023-11-08 12:06:17.351803.
 7. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 358 ⭐️s
 8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 349 ⭐️s
 9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 253 ⭐️s
-10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 143 ⭐️s
+10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 144 ⭐️s
 11. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 94 ⭐️s
 12. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 76 ⭐️s
 13. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 76 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-11-08 12:06:17.351803.
 
 ## number of commits :octocat:
 
-1. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-2. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 2 commits :octocat:
-3. [sobolevn/git-secret](https://github.com/sobolevn/git-secret/), 1 commits :octocat:
-4. [bdraco/ulid-transform](https://github.com/bdraco/ulid-transform/), 0 commits :octocat:
-5. [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes/), 0 commits :octocat:
+1. [pymc-devs/pymc](https://github.com/pymc-devs/pymc/), 5 commits :octocat:
+2. [conda-forge/deepdish-feedstock](https://github.com/conda-forge/deepdish-feedstock/), 0 commits :octocat:
+3. [conda-forge/hpc05-feedstock](https://github.com/conda-forge/hpc05-feedstock/), 0 commits :octocat:
+4. [conda-forge/cdt-builds](https://github.com/conda-forge/cdt-builds/), 0 commits :octocat:
+5. [conda-forge/admin-requests](https://github.com/conda-forge/admin-requests/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [conda-forge/conda-feedstock](https://github.com/conda-forge/conda-feedstock/), 0 commits :octocat:
-7. [basnijholt/cyclecloud-slurm-scaling](https://github.com/basnijholt/cyclecloud-slurm-scaling/), 0 commits :octocat:
-8. [conda/conda](https://github.com/conda/conda/), 0 commits :octocat:
-9. [sigma-py/quadpy](https://github.com/sigma-py/quadpy/), 0 commits :octocat:
-10. [conda-forge/sphinx-autodoc-typehints-feedstock](https://github.com/conda-forge/sphinx-autodoc-typehints-feedstock/), 0 commits :octocat:
-11. [microsoft/azure-pipelines-agent](https://github.com/microsoft/azure-pipelines-agent/), 0 commits :octocat:
-12. [basnijholt/cluster-logger](https://github.com/basnijholt/cluster-logger/), 0 commits :octocat:
-13. [basnijholt/test](https://github.com/basnijholt/test/), 0 commits :octocat:
-14. [agkozak/zsh-z](https://github.com/agkozak/zsh-z/), 0 commits :octocat:
-15. [dotnet/docs](https://github.com/dotnet/docs/), 0 commits :octocat:
-16. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 0 commits :octocat:
-17. [h5netcdf/h5netcdf](https://github.com/h5netcdf/h5netcdf/), 0 commits :octocat:
-18. [conda-forge/paraview-feedstock](https://github.com/conda-forge/paraview-feedstock/), 0 commits :octocat:
-19. [basnijholt/Casimir-programming](https://github.com/basnijholt/Casimir-programming/), 0 commits :octocat:
-20. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 0 commits :octocat:
+6. [custom-components/pyscript](https://github.com/custom-components/pyscript/), 0 commits :octocat:
+7. [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints/), 0 commits :octocat:
+8. [Koenkk/zigbee2mqtt.io](https://github.com/Koenkk/zigbee2mqtt.io/), 0 commits :octocat:
+9. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 0 commits :octocat:
+10. [JesseSlim/polymetric](https://github.com/JesseSlim/polymetric/), 0 commits :octocat:
+11. [SchedMD/slurm](https://github.com/SchedMD/slurm/), 0 commits :octocat:
+12. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 0 commits :octocat:
+13. [basnijholt/ipynb_git_filters](https://github.com/basnijholt/ipynb_git_filters/), 0 commits :octocat:
+14. [basnijholt/psychedelic-data-science](https://github.com/basnijholt/psychedelic-data-science/), 0 commits :octocat:
+15. [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19/), 0 commits :octocat:
+16. [conda-forge/jenkspy-feedstock](https://github.com/conda-forge/jenkspy-feedstock/), 0 commits :octocat:
+17. [pahaz/sshtunnel](https://github.com/pahaz/sshtunnel/), 0 commits :octocat:
+18. [mfouesneau/dasksge](https://github.com/mfouesneau/dasksge/), 0 commits :octocat:
+19. [basnijholt/molecular-dynamics-FORTRAN](https://github.com/basnijholt/molecular-dynamics-FORTRAN/), 0 commits :octocat:
+20. [home-assistant/developers.home-assistant](https://github.com/home-assistant/developers.home-assistant/), 0 commits :octocat:
 
 </details>
 
