@@ -18,16 +18,16 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-11-09 12:08:10.552518.
+Last updated at 2023-11-10 12:08:16.230970.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1545 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1275 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1546 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1277 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1076 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 943 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 945 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 488 ⭐️s
 <details><summary>Click to expand!</summary>
 
@@ -35,7 +35,7 @@ Last updated at 2023-11-09 12:08:10.552518.
 7. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 358 ⭐️s
 8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 349 ⭐️s
 9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 253 ⭐️s
-10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 144 ⭐️s
+10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 145 ⭐️s
 11. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 94 ⭐️s
 12. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 76 ⭐️s
 13. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 76 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-11-09 12:08:10.552518.
 
 ## number of commits :octocat:
 
-1. [pymc-devs/pymc](https://github.com/pymc-devs/pymc/), 5 commits :octocat:
-2. [conda-forge/deepdish-feedstock](https://github.com/conda-forge/deepdish-feedstock/), 0 commits :octocat:
-3. [conda-forge/hpc05-feedstock](https://github.com/conda-forge/hpc05-feedstock/), 0 commits :octocat:
-4. [conda-forge/cdt-builds](https://github.com/conda-forge/cdt-builds/), 0 commits :octocat:
-5. [conda-forge/admin-requests](https://github.com/conda-forge/admin-requests/), 0 commits :octocat:
+1. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 228 commits :octocat:
+2. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
+3. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+4. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+5. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [custom-components/pyscript](https://github.com/custom-components/pyscript/), 0 commits :octocat:
-7. [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints/), 0 commits :octocat:
-8. [Koenkk/zigbee2mqtt.io](https://github.com/Koenkk/zigbee2mqtt.io/), 0 commits :octocat:
-9. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 0 commits :octocat:
-10. [JesseSlim/polymetric](https://github.com/JesseSlim/polymetric/), 0 commits :octocat:
-11. [SchedMD/slurm](https://github.com/SchedMD/slurm/), 0 commits :octocat:
-12. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 0 commits :octocat:
-13. [basnijholt/ipynb_git_filters](https://github.com/basnijholt/ipynb_git_filters/), 0 commits :octocat:
-14. [basnijholt/psychedelic-data-science](https://github.com/basnijholt/psychedelic-data-science/), 0 commits :octocat:
-15. [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19/), 0 commits :octocat:
-16. [conda-forge/jenkspy-feedstock](https://github.com/conda-forge/jenkspy-feedstock/), 0 commits :octocat:
-17. [pahaz/sshtunnel](https://github.com/pahaz/sshtunnel/), 0 commits :octocat:
-18. [mfouesneau/dasksge](https://github.com/mfouesneau/dasksge/), 0 commits :octocat:
-19. [basnijholt/molecular-dynamics-FORTRAN](https://github.com/basnijholt/molecular-dynamics-FORTRAN/), 0 commits :octocat:
-20. [home-assistant/developers.home-assistant](https://github.com/home-assistant/developers.home-assistant/), 0 commits :octocat:
+6. [conda-forge/adaptive-feedstock](https://github.com/conda-forge/adaptive-feedstock/), 0 commits :octocat:
+7. [basnijholt/azure-singularity-agent](https://github.com/basnijholt/azure-singularity-agent/), 0 commits :octocat:
+8. [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN/), 0 commits :octocat:
+9. [Juvawa/HomeAssistant9292OvApiSensor](https://github.com/Juvawa/HomeAssistant9292OvApiSensor/), 0 commits :octocat:
+10. [basnijholt/Markov-chain-Monte-Carlo-polymer-growth](https://github.com/basnijholt/Markov-chain-Monte-Carlo-polymer-growth/), 0 commits :octocat:
+11. [conda-forge/param-feedstock](https://github.com/conda-forge/param-feedstock/), 0 commits :octocat:
+12. [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon/), 0 commits :octocat:
+13. [home-assistant/developers.home-assistant](https://github.com/home-assistant/developers.home-assistant/), 0 commits :octocat:
+14. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 0 commits :octocat:
+15. [basnijholt/adaptive-tools](https://github.com/basnijholt/adaptive-tools/), 0 commits :octocat:
+16. [dotnet/docs](https://github.com/dotnet/docs/), 0 commits :octocat:
+17. [miyakogi/m2r](https://github.com/miyakogi/m2r/), 0 commits :octocat:
+18. [TimGebraad/Computational-Physics-TDSE](https://github.com/TimGebraad/Computational-Physics-TDSE/), 0 commits :octocat:
+19. [rougier/freetype-py](https://github.com/rougier/freetype-py/), 0 commits :octocat:
+20. [ipython/ipyparallel](https://github.com/ipython/ipyparallel/), 0 commits :octocat:
 
 </details>
 
