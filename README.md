@@ -18,23 +18,23 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-11-12 12:08:07.829908.
+Last updated at 2023-11-13 12:06:15.873053.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1547 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1283 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1548 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1285 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1076 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 949 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 950 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 488 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 426 ⭐️s
 7. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 358 ⭐️s
 8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 349 ⭐️s
-9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 253 ⭐️s
+9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 254 ⭐️s
 10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 145 ⭐️s
 11. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 94 ⭐️s
 12. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 76 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-11-12 12:08:07.829908.
 
 ## number of commits :octocat:
 
-1. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 228 commits :octocat:
-2. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-3. [solidity-by-example/solidity-by-example.github.io](https://github.com/solidity-by-example/solidity-by-example.github.io/), 3 commits :octocat:
-4. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 2 commits :octocat:
-5. [conda-forge/pywebhdfs-feedstock](https://github.com/conda-forge/pywebhdfs-feedstock/), 0 commits :octocat:
+1. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+2. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 81 commits :octocat:
+3. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+4. [haarcuba/ssh-agent-setup](https://github.com/haarcuba/ssh-agent-setup/), 0 commits :octocat:
+5. [basnijholt/azure-agent-jupyter-minimal-notebook](https://github.com/basnijholt/azure-agent-jupyter-minimal-notebook/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 0 commits :octocat:
-7. [conda-forge/pymatbridge-feedstock](https://github.com/conda-forge/pymatbridge-feedstock/), 0 commits :octocat:
-8. [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player/), 0 commits :octocat:
-9. [JesseSlim/polymetric](https://github.com/JesseSlim/polymetric/), 0 commits :octocat:
-10. [aiidateam/aiida-core](https://github.com/aiidateam/aiida-core/), 0 commits :octocat:
-11. [home-assistant/developers.home-assistant](https://github.com/home-assistant/developers.home-assistant/), 0 commits :octocat:
-12. [conda-forge/pyvisa-feedstock](https://github.com/conda-forge/pyvisa-feedstock/), 0 commits :octocat:
-13. [basnijholt/azure-singularity-agent](https://github.com/basnijholt/azure-singularity-agent/), 0 commits :octocat:
-14. [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer/), 0 commits :octocat:
-15. [ChristianKuehnel/btlewrap](https://github.com/ChristianKuehnel/btlewrap/), 0 commits :octocat:
-16. [basnijholt/cadnano-scripts](https://github.com/basnijholt/cadnano-scripts/), 0 commits :octocat:
-17. [basnijholt/backups](https://github.com/basnijholt/backups/), 0 commits :octocat:
-18. [mikeshultz/ledger-eth-lib](https://github.com/mikeshultz/ledger-eth-lib/), 0 commits :octocat:
-19. [rust-lang/rustlings](https://github.com/rust-lang/rustlings/), 0 commits :octocat:
-20. [conda-forge/dataproperty-feedstock](https://github.com/conda-forge/dataproperty-feedstock/), 0 commits :octocat:
+6. [conda-forge/smesh-feedstock](https://github.com/conda-forge/smesh-feedstock/), 0 commits :octocat:
+7. [conda-forge/opencensus-feedstock](https://github.com/conda-forge/opencensus-feedstock/), 0 commits :octocat:
+8. [home-assistant/core](https://github.com/home-assistant/core/), 0 commits :octocat:
+9. [conda-forge/vtk-feedstock](https://github.com/conda-forge/vtk-feedstock/), 0 commits :octocat:
+10. [vinta/awesome-python](https://github.com/vinta/awesome-python/), 0 commits :octocat:
+11. [basnijholt/test](https://github.com/basnijholt/test/), 0 commits :octocat:
+12. [conda-forge/deepdish-feedstock](https://github.com/conda-forge/deepdish-feedstock/), 0 commits :octocat:
+13. [conda-forge/adaptive-scheduler-feedstock](https://github.com/conda-forge/adaptive-scheduler-feedstock/), 0 commits :octocat:
+14. [basnijholt/Markov-chain-Monte-Carlo-polymer-growth](https://github.com/basnijholt/Markov-chain-Monte-Carlo-polymer-growth/), 0 commits :octocat:
+15. [basnijholt/shortjunction](https://github.com/basnijholt/shortjunction/), 0 commits :octocat:
+16. [conda-forge/conda-feedstock](https://github.com/conda-forge/conda-feedstock/), 0 commits :octocat:
+17. [andrewbrereton/privateinternetaccess-on-openwrt](https://github.com/andrewbrereton/privateinternetaccess-on-openwrt/), 0 commits :octocat:
+18. [mikeboers/PyMemoize](https://github.com/mikeboers/PyMemoize/), 0 commits :octocat:
+19. [ccxt/ccxt](https://github.com/ccxt/ccxt/), 0 commits :octocat:
+20. [basnijholt/azure-singularity-agent](https://github.com/basnijholt/azure-singularity-agent/), 0 commits :octocat:
 
 </details>
 
