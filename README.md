@@ -18,14 +18,14 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-11-14 12:05:35.093408.
+Last updated at 2023-11-15 12:06:09.166153.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1548 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1286 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1287 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1076 ⭐️s
 4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 950 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 488 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-11-14 12:05:35.093408.
 
 ## number of commits :octocat:
 
-1. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-2. [conda-forge/azure-cosmos-feedstock](https://github.com/conda-forge/azure-cosmos-feedstock/), 0 commits :octocat:
-3. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 0 commits :octocat:
-4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 0 commits :octocat:
-5. [hacs/documentation](https://github.com/hacs/documentation/), 0 commits :octocat:
+1. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
+2. [conda-forge/mshr-feedstock](https://github.com/conda-forge/mshr-feedstock/), 0 commits :octocat:
+3. [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit/), 0 commits :octocat:
+4. [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks/), 0 commits :octocat:
+5. [basnijholt/discretizer](https://github.com/basnijholt/discretizer/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/Project-Euler](https://github.com/basnijholt/Project-Euler/), 0 commits :octocat:
-7. [basnijholt/orbitalfield](https://github.com/basnijholt/orbitalfield/), 0 commits :octocat:
-8. [danobot/entity-controller](https://github.com/danobot/entity-controller/), 0 commits :octocat:
-9. [Jvanschoubroeck/Topology-optimization](https://github.com/Jvanschoubroeck/Topology-optimization/), 0 commits :octocat:
-10. [basnijholt/wenfire](https://github.com/basnijholt/wenfire/), 0 commits :octocat:
-11. [PaulAnnekov/tuyaha](https://github.com/PaulAnnekov/tuyaha/), 0 commits :octocat:
-12. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 0 commits :octocat:
-13. [PyTables/pytables.github.com](https://github.com/PyTables/pytables.github.com/), 0 commits :octocat:
-14. [basnijholt/kwant-conda-recipes](https://github.com/basnijholt/kwant-conda-recipes/), 0 commits :octocat:
-15. [basnijholt/cyclecloud-slurm-scaling](https://github.com/basnijholt/cyclecloud-slurm-scaling/), 0 commits :octocat:
-16. [craigbarratt/hass-pyscript-jupyter](https://github.com/craigbarratt/hass-pyscript-jupyter/), 0 commits :octocat:
-17. [basnijholt/day-one-story-sender](https://github.com/basnijholt/day-one-story-sender/), 0 commits :octocat:
-18. [basnijholt/azure-singularity-agent](https://github.com/basnijholt/azure-singularity-agent/), 0 commits :octocat:
-19. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 0 commits :octocat:
-20. [kedro-org/kedro-community](https://github.com/kedro-org/kedro-community/), 0 commits :octocat:
+6. [chelseybaker/iOSMessageExport](https://github.com/chelseybaker/iOSMessageExport/), 0 commits :octocat:
+7. [danobot/entity-controller](https://github.com/danobot/entity-controller/), 0 commits :octocat:
+8. [rust-lang/rustlings](https://github.com/rust-lang/rustlings/), 0 commits :octocat:
+9. [conda-forge/fastcache-feedstock](https://github.com/conda-forge/fastcache-feedstock/), 0 commits :octocat:
+10. [madsbk/lrcloud](https://github.com/madsbk/lrcloud/), 0 commits :octocat:
+11. [basnijholt/azure-singularity-agent](https://github.com/basnijholt/azure-singularity-agent/), 0 commits :octocat:
+12. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 0 commits :octocat:
+13. [basnijholt/majorana-nanowire-conductance](https://github.com/basnijholt/majorana-nanowire-conductance/), 0 commits :octocat:
+14. [basnijholt/Schrodinger-time-evolution](https://github.com/basnijholt/Schrodinger-time-evolution/), 0 commits :octocat:
+15. [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon/), 0 commits :octocat:
+16. [ct-Open-Source/tuya-convert](https://github.com/ct-Open-Source/tuya-convert/), 0 commits :octocat:
+17. [conda-forge/azure-cosmos-feedstock](https://github.com/conda-forge/azure-cosmos-feedstock/), 0 commits :octocat:
+18. [basnijholt/Markov-chain-Monte-Carlo-polymer-growth](https://github.com/basnijholt/Markov-chain-Monte-Carlo-polymer-growth/), 0 commits :octocat:
+19. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 0 commits :octocat:
+20. [whiskerz007/proxmox_hassos_install](https://github.com/whiskerz007/proxmox_hassos_install/), 0 commits :octocat:
 
 </details>
 
