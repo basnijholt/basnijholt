@@ -18,15 +18,15 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-11-15 12:06:09.166153.
+Last updated at 2023-11-16 12:08:25.974979.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1548 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1287 ⭐️s
-3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1076 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1289 ⭐️s
+3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1077 ⭐️s
 4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 950 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 488 ⭐️s
 <details><summary>Click to expand!</summary>
@@ -53,28 +53,28 @@ Last updated at 2023-11-15 12:06:09.166153.
 
 ## number of commits :octocat:
 
-1. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
-2. [conda-forge/mshr-feedstock](https://github.com/conda-forge/mshr-feedstock/), 0 commits :octocat:
-3. [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit/), 0 commits :octocat:
-4. [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks/), 0 commits :octocat:
-5. [basnijholt/discretizer](https://github.com/basnijholt/discretizer/), 0 commits :octocat:
+1. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 231 commits :octocat:
+2. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 160 commits :octocat:
+3. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
+4. [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder/), 0 commits :octocat:
+5. [TimGebraad/Computational-Physics-TDSE](https://github.com/TimGebraad/Computational-Physics-TDSE/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [chelseybaker/iOSMessageExport](https://github.com/chelseybaker/iOSMessageExport/), 0 commits :octocat:
-7. [danobot/entity-controller](https://github.com/danobot/entity-controller/), 0 commits :octocat:
-8. [rust-lang/rustlings](https://github.com/rust-lang/rustlings/), 0 commits :octocat:
-9. [conda-forge/fastcache-feedstock](https://github.com/conda-forge/fastcache-feedstock/), 0 commits :octocat:
-10. [madsbk/lrcloud](https://github.com/madsbk/lrcloud/), 0 commits :octocat:
-11. [basnijholt/azure-singularity-agent](https://github.com/basnijholt/azure-singularity-agent/), 0 commits :octocat:
-12. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 0 commits :octocat:
-13. [basnijholt/majorana-nanowire-conductance](https://github.com/basnijholt/majorana-nanowire-conductance/), 0 commits :octocat:
-14. [basnijholt/Schrodinger-time-evolution](https://github.com/basnijholt/Schrodinger-time-evolution/), 0 commits :octocat:
-15. [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon/), 0 commits :octocat:
-16. [ct-Open-Source/tuya-convert](https://github.com/ct-Open-Source/tuya-convert/), 0 commits :octocat:
-17. [conda-forge/azure-cosmos-feedstock](https://github.com/conda-forge/azure-cosmos-feedstock/), 0 commits :octocat:
-18. [basnijholt/Markov-chain-Monte-Carlo-polymer-growth](https://github.com/basnijholt/Markov-chain-Monte-Carlo-polymer-growth/), 0 commits :octocat:
-19. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 0 commits :octocat:
-20. [whiskerz007/proxmox_hassos_install](https://github.com/whiskerz007/proxmox_hassos_install/), 0 commits :octocat:
+6. [holoviz/panel](https://github.com/holoviz/panel/), 0 commits :octocat:
+7. [aio-libs/async-timeout](https://github.com/aio-libs/async-timeout/), 0 commits :octocat:
+8. [conda-forge/opencensus-feedstock](https://github.com/conda-forge/opencensus-feedstock/), 0 commits :octocat:
+9. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 0 commits :octocat:
+10. [numpy/numpy](https://github.com/numpy/numpy/), 0 commits :octocat:
+11. [basnijholt/supercurrent-majorana-nanowire](https://github.com/basnijholt/supercurrent-majorana-nanowire/), 0 commits :octocat:
+12. [whiskerz007/proxmox_hassos_install](https://github.com/whiskerz007/proxmox_hassos_install/), 0 commits :octocat:
+13. [nipype/pydra](https://github.com/nipype/pydra/), 0 commits :octocat:
+14. [sseemayer/qstat-pretty](https://github.com/sseemayer/qstat-pretty/), 0 commits :octocat:
+15. [CJ-Wright/cf-graph-countyfair](https://github.com/CJ-Wright/cf-graph-countyfair/), 0 commits :octocat:
+16. [GadgetReactor/pyHS100](https://github.com/GadgetReactor/pyHS100/), 0 commits :octocat:
+17. [conda-forge/nb_conda-feedstock](https://github.com/conda-forge/nb_conda-feedstock/), 0 commits :octocat:
+18. [conda-forge/azure-cosmos-feedstock](https://github.com/conda-forge/azure-cosmos-feedstock/), 0 commits :octocat:
+19. [andrewbrereton/privateinternetaccess-on-openwrt](https://github.com/andrewbrereton/privateinternetaccess-on-openwrt/), 0 commits :octocat:
+20. [conda-forge/conda-forge-pinning-feedstock](https://github.com/conda-forge/conda-forge-pinning-feedstock/), 0 commits :octocat:
 
 </details>
 
