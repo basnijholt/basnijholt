@@ -18,26 +18,26 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-11-16 12:08:25.974979.
+Last updated at 2023-11-17 12:05:30.535889.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1548 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1289 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1291 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1077 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 950 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 488 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 951 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 490 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 426 ⭐️s
 7. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 358 ⭐️s
 8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 349 ⭐️s
-9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 254 ⭐️s
+9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 255 ⭐️s
 10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 145 ⭐️s
 11. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 94 ⭐️s
-12. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 76 ⭐️s
+12. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 77 ⭐️s
 13. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 76 ⭐️s
 14. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 48 ⭐️s
 15. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 34 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-11-16 12:08:25.974979.
 
 ## number of commits :octocat:
 
-1. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 231 commits :octocat:
-2. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 160 commits :octocat:
-3. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
-4. [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder/), 0 commits :octocat:
-5. [TimGebraad/Computational-Physics-TDSE](https://github.com/TimGebraad/Computational-Physics-TDSE/), 0 commits :octocat:
+1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1419 commits :octocat:
+2. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+3. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+4. [CJ-Wright/cf-graph-countyfair](https://github.com/CJ-Wright/cf-graph-countyfair/), 0 commits :octocat:
+5. [conda-forge/pytest-flakes-feedstock](https://github.com/conda-forge/pytest-flakes-feedstock/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [holoviz/panel](https://github.com/holoviz/panel/), 0 commits :octocat:
-7. [aio-libs/async-timeout](https://github.com/aio-libs/async-timeout/), 0 commits :octocat:
-8. [conda-forge/opencensus-feedstock](https://github.com/conda-forge/opencensus-feedstock/), 0 commits :octocat:
-9. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 0 commits :octocat:
-10. [numpy/numpy](https://github.com/numpy/numpy/), 0 commits :octocat:
-11. [basnijholt/supercurrent-majorana-nanowire](https://github.com/basnijholt/supercurrent-majorana-nanowire/), 0 commits :octocat:
-12. [whiskerz007/proxmox_hassos_install](https://github.com/whiskerz007/proxmox_hassos_install/), 0 commits :octocat:
-13. [nipype/pydra](https://github.com/nipype/pydra/), 0 commits :octocat:
-14. [sseemayer/qstat-pretty](https://github.com/sseemayer/qstat-pretty/), 0 commits :octocat:
-15. [CJ-Wright/cf-graph-countyfair](https://github.com/CJ-Wright/cf-graph-countyfair/), 0 commits :octocat:
-16. [GadgetReactor/pyHS100](https://github.com/GadgetReactor/pyHS100/), 0 commits :octocat:
-17. [conda-forge/nb_conda-feedstock](https://github.com/conda-forge/nb_conda-feedstock/), 0 commits :octocat:
-18. [conda-forge/azure-cosmos-feedstock](https://github.com/conda-forge/azure-cosmos-feedstock/), 0 commits :octocat:
-19. [andrewbrereton/privateinternetaccess-on-openwrt](https://github.com/andrewbrereton/privateinternetaccess-on-openwrt/), 0 commits :octocat:
-20. [conda-forge/conda-forge-pinning-feedstock](https://github.com/conda-forge/conda-forge-pinning-feedstock/), 0 commits :octocat:
+6. [jwodder/versioningit](https://github.com/jwodder/versioningit/), 0 commits :octocat:
+7. [HugoBlox/theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv/), 0 commits :octocat:
+8. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 0 commits :octocat:
+9. [codechimp-org/ha-menu](https://github.com/codechimp-org/ha-menu/), 0 commits :octocat:
+10. [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card/), 0 commits :octocat:
+11. [basnijholt/day-one-story-sender](https://github.com/basnijholt/day-one-story-sender/), 0 commits :octocat:
+12. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 0 commits :octocat:
+13. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 0 commits :octocat:
+14. [vinta/awesome-python](https://github.com/vinta/awesome-python/), 0 commits :octocat:
+15. [binder-project/binder-build-core](https://github.com/binder-project/binder-build-core/), 0 commits :octocat:
+16. [conda-forge/opencensus-ext-azure-feedstock](https://github.com/conda-forge/opencensus-ext-azure-feedstock/), 0 commits :octocat:
+17. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 0 commits :octocat:
+18. [basnijholt/deep-learning-udacity](https://github.com/basnijholt/deep-learning-udacity/), 0 commits :octocat:
+19. [pandas-dev/pandas](https://github.com/pandas-dev/pandas/), 0 commits :octocat:
+20. [Koenkk/zigbee2mqtt.io](https://github.com/Koenkk/zigbee2mqtt.io/), 0 commits :octocat:
 
 </details>
 
