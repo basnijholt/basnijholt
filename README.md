@@ -18,16 +18,16 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-11-28 12:08:22.324964.
+Last updated at 2023-11-29 12:08:29.927248.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1557 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1307 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1558 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1308 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1080 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 961 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 962 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 492 ⭐️s
 <details><summary>Click to expand!</summary>
 
@@ -53,28 +53,28 @@ Last updated at 2023-11-28 12:08:22.324964.
 
 ## number of commits :octocat:
 
-1. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-2. [pymc-devs/pymc](https://github.com/pymc-devs/pymc/), 5 commits :octocat:
-3. [basnijholt/orbitalfield](https://github.com/basnijholt/orbitalfield/), 0 commits :octocat:
-4. [mbongaerts/Metchalizer](https://github.com/mbongaerts/Metchalizer/), 0 commits :octocat:
-5. [conda-forge/opencensus-feedstock](https://github.com/conda-forge/opencensus-feedstock/), 0 commits :octocat:
+1. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+2. [cornellius-gp/gpytorch](https://github.com/cornellius-gp/gpytorch/), 0 commits :octocat:
+3. [basnijholt/pipefunc](https://github.com/basnijholt/pipefunc/), 0 commits :octocat:
+4. [basnijholt/money_scribbles](https://github.com/basnijholt/money_scribbles/), 0 commits :octocat:
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [home-assistant/developers.home-assistant](https://github.com/home-assistant/developers.home-assistant/), 0 commits :octocat:
-7. [Textualize/rich](https://github.com/Textualize/rich/), 0 commits :octocat:
-8. [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io/), 0 commits :octocat:
-9. [hassio-addons/addon-jupyterlab](https://github.com/hassio-addons/addon-jupyterlab/), 0 commits :octocat:
-10. [adshao/go-binance](https://github.com/adshao/go-binance/), 0 commits :octocat:
-11. [jleben/bib-yaml](https://github.com/jleben/bib-yaml/), 0 commits :octocat:
-12. [synesthesiam/hassio-addons](https://github.com/synesthesiam/hassio-addons/), 0 commits :octocat:
-13. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 0 commits :octocat:
-14. [aio-libs/async-timeout](https://github.com/aio-libs/async-timeout/), 0 commits :octocat:
-15. [conda-forge/metis-feedstock](https://github.com/conda-forge/metis-feedstock/), 0 commits :octocat:
-16. [basnijholt/revtex-markdown-paper](https://github.com/basnijholt/revtex-markdown-paper/), 0 commits :octocat:
-17. [basnijholt/day-one-story-sender](https://github.com/basnijholt/day-one-story-sender/), 0 commits :octocat:
-18. [sphinx-contrib/napoleon](https://github.com/sphinx-contrib/napoleon/), 0 commits :octocat:
-19. [ccxt/ccxt](https://github.com/ccxt/ccxt/), 0 commits :octocat:
-20. [ianare/exif-py](https://github.com/ianare/exif-py/), 0 commits :octocat:
+6. [conda-forge/tkwant-feedstock](https://github.com/conda-forge/tkwant-feedstock/), 0 commits :octocat:
+7. [jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets/), 0 commits :octocat:
+8. [whiskerz007/proxmox_hassos_install](https://github.com/whiskerz007/proxmox_hassos_install/), 0 commits :octocat:
+9. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 0 commits :octocat:
+10. [dask/dask-jobqueue](https://github.com/dask/dask-jobqueue/), 0 commits :octocat:
+11. [agkozak/zsh-z](https://github.com/agkozak/zsh-z/), 0 commits :octocat:
+12. [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes/), 0 commits :octocat:
+13. [mbongaerts/Metchalizer](https://github.com/mbongaerts/Metchalizer/), 0 commits :octocat:
+14. [DenisCarriere/geocoder](https://github.com/DenisCarriere/geocoder/), 0 commits :octocat:
+15. [basnijholt/kopen-of-huren](https://github.com/basnijholt/kopen-of-huren/), 0 commits :octocat:
+16. [sammchardy/python-binance](https://github.com/sammchardy/python-binance/), 0 commits :octocat:
+17. [itstorque/jekyll-shell-theme](https://github.com/itstorque/jekyll-shell-theme/), 0 commits :octocat:
+18. [basnijholt/deep-learning-udacity](https://github.com/basnijholt/deep-learning-udacity/), 0 commits :octocat:
+19. [conda-forge/paraview-feedstock](https://github.com/conda-forge/paraview-feedstock/), 0 commits :octocat:
+20. [conda-forge/panel-feedstock](https://github.com/conda-forge/panel-feedstock/), 0 commits :octocat:
 
 </details>
 
