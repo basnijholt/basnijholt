@@ -18,24 +18,24 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-12-01 12:08:21.887719.
+Last updated at 2023-12-02 12:08:31.931628.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1558 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1312 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1559 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1313 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1083 ⭐️s
 4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 963 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 493 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 495 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 426 ⭐️s
 7. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 359 ⭐️s
 8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 348 ⭐️s
 9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 257 ⭐️s
-10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 148 ⭐️s
+10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 149 ⭐️s
 11. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 94 ⭐️s
 12. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 77 ⭐️s
 13. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 76 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-12-01 12:08:21.887719.
 
 ## number of commits :octocat:
 
-1. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-2. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-3. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
-4. [TribuneX/home_assistant](https://github.com/TribuneX/home_assistant/), 0 commits :octocat:
-5. [ethereum/EIPs](https://github.com/ethereum/EIPs/), 0 commits :octocat:
+1. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 241 commits :octocat:
+2. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
+3. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+4. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+5. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/zigzag-majoranas](https://github.com/basnijholt/zigzag-majoranas/), 0 commits :octocat:
-7. [bdraco/ulid-transform](https://github.com/bdraco/ulid-transform/), 0 commits :octocat:
-8. [ipython/ipyparallel](https://github.com/ipython/ipyparallel/), 0 commits :octocat:
-9. [sseemayer/qstat-pretty](https://github.com/sseemayer/qstat-pretty/), 0 commits :octocat:
-10. [basnijholt/supercurrent-majorana-nanowire](https://github.com/basnijholt/supercurrent-majorana-nanowire/), 0 commits :octocat:
-11. [conda-forge/tkwant-feedstock](https://github.com/conda-forge/tkwant-feedstock/), 0 commits :octocat:
-12. [basnijholt/deep-learning-udacity](https://github.com/basnijholt/deep-learning-udacity/), 0 commits :octocat:
-13. [conda-forge/paramiko-feedstock](https://github.com/conda-forge/paramiko-feedstock/), 0 commits :octocat:
-14. [lkorth/jekyll-500px-embed](https://github.com/lkorth/jekyll-500px-embed/), 0 commits :octocat:
-15. [regro/rever](https://github.com/regro/rever/), 0 commits :octocat:
-16. [mdichtler/PancakeSwap-Price-Scraper](https://github.com/mdichtler/PancakeSwap-Price-Scraper/), 0 commits :octocat:
-17. [conda-forge/conda-forge-repodata-patches-feedstock](https://github.com/conda-forge/conda-forge-repodata-patches-feedstock/), 0 commits :octocat:
-18. [microsoft/aiida-dynamic-workflows](https://github.com/microsoft/aiida-dynamic-workflows/), 0 commits :octocat:
-19. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 0 commits :octocat:
-20. [Kobold/text_histogram](https://github.com/Kobold/text_histogram/), 0 commits :octocat:
+6. [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card/), 1 commits :octocat:
+7. [pydata/xarray](https://github.com/pydata/xarray/), 0 commits :octocat:
+8. [ben8p/home-assistant-bunq-balance-sensors](https://github.com/ben8p/home-assistant-bunq-balance-sensors/), 0 commits :octocat:
+9. [conda-forge/freecad-feedstock](https://github.com/conda-forge/freecad-feedstock/), 0 commits :octocat:
+10. [lkorth/jekyll-500px-embed](https://github.com/lkorth/jekyll-500px-embed/), 0 commits :octocat:
+11. [jupyter/jupyter-sphinx](https://github.com/jupyter/jupyter-sphinx/), 0 commits :octocat:
+12. [numpy/numpy](https://github.com/numpy/numpy/), 0 commits :octocat:
+13. [smartbch/smartbch](https://github.com/smartbch/smartbch/), 0 commits :octocat:
+14. [conda-forge/mshr-feedstock](https://github.com/conda-forge/mshr-feedstock/), 0 commits :octocat:
+15. [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer/), 0 commits :octocat:
+16. [basnijholt/orbitalfield](https://github.com/basnijholt/orbitalfield/), 0 commits :octocat:
+17. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 0 commits :octocat:
+18. [basnijholt/day-one-story-sender](https://github.com/basnijholt/day-one-story-sender/), 0 commits :octocat:
+19. [basnijholt/Project-Euler](https://github.com/basnijholt/Project-Euler/), 0 commits :octocat:
+20. [conda-forge/paraview-feedstock](https://github.com/conda-forge/paraview-feedstock/), 0 commits :octocat:
 
 </details>
 
