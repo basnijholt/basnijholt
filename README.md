@@ -18,17 +18,17 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-12-03 12:07:53.759378.
+Last updated at 2023-12-04 12:08:25.577302.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1562 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1314 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1321 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1081 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 965 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 496 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 966 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 497 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 426 ⭐️s
@@ -38,7 +38,7 @@ Last updated at 2023-12-03 12:07:53.759378.
 10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 149 ⭐️s
 11. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 94 ⭐️s
 12. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 77 ⭐️s
-13. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 76 ⭐️s
+13. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 77 ⭐️s
 14. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 51 ⭐️s
 15. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 34 ⭐️s
 16. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 27 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2023-12-03 12:07:53.759378.
 
 ## number of commits :octocat:
 
-1. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-2. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-3. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
-4. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 2 commits :octocat:
-5. [Textualize/rich](https://github.com/Textualize/rich/), 0 commits :octocat:
+1. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
+2. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+3. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+4. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
+5. [numpy/numpy](https://github.com/numpy/numpy/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [james-barrow/golang-ipc](https://github.com/james-barrow/golang-ipc/), 0 commits :octocat:
-7. [adshao/go-binance](https://github.com/adshao/go-binance/), 0 commits :octocat:
-8. [conda-forge/occt-feedstock](https://github.com/conda-forge/occt-feedstock/), 0 commits :octocat:
-9. [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/), 0 commits :octocat:
-10. [conda-forge/jupyter-sphinx-feedstock](https://github.com/conda-forge/jupyter-sphinx-feedstock/), 0 commits :octocat:
-11. [ProjectMeniscus/pywebhdfs](https://github.com/ProjectMeniscus/pywebhdfs/), 0 commits :octocat:
-12. [CJ-Wright/cf-graph-countyfair](https://github.com/CJ-Wright/cf-graph-countyfair/), 0 commits :octocat:
-13. [DenisCarriere/geocoder](https://github.com/DenisCarriere/geocoder/), 0 commits :octocat:
-14. [tvdsluijs/py-nsapi](https://github.com/tvdsluijs/py-nsapi/), 0 commits :octocat:
-15. [vinta/awesome-python](https://github.com/vinta/awesome-python/), 0 commits :octocat:
-16. [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs/), 0 commits :octocat:
-17. [amccaugh/phidl](https://github.com/amccaugh/phidl/), 0 commits :octocat:
-18. [custom-components/pyscript](https://github.com/custom-components/pyscript/), 0 commits :octocat:
-19. [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/), 0 commits :octocat:
-20. [conda-forge/pytest-flakes-feedstock](https://github.com/conda-forge/pytest-flakes-feedstock/), 0 commits :octocat:
+6. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 0 commits :octocat:
+7. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 0 commits :octocat:
+8. [eddy-ojb/holoviews-contrib](https://github.com/eddy-ojb/holoviews-contrib/), 0 commits :octocat:
+9. [basnijholt/shortjunction](https://github.com/basnijholt/shortjunction/), 0 commits :octocat:
+10. [basnijholt/slurm-usage](https://github.com/basnijholt/slurm-usage/), 0 commits :octocat:
+11. [bdraco/ulid-transform](https://github.com/bdraco/ulid-transform/), 0 commits :octocat:
+12. [basnijholt/backups](https://github.com/basnijholt/backups/), 0 commits :octocat:
+13. [mbongaerts/Metchalizer](https://github.com/mbongaerts/Metchalizer/), 0 commits :octocat:
+14. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 0 commits :octocat:
+15. [nipype/pydra-tutorial](https://github.com/nipype/pydra-tutorial/), 0 commits :octocat:
+16. [GadgetReactor/pyHS100](https://github.com/GadgetReactor/pyHS100/), 0 commits :octocat:
+17. [conda-forge/scikit-optimize-feedstock](https://github.com/conda-forge/scikit-optimize-feedstock/), 0 commits :octocat:
+18. [conda-forge/opencensus-feedstock](https://github.com/conda-forge/opencensus-feedstock/), 0 commits :octocat:
+19. [CJ-Wright/cf-graph-countyfair](https://github.com/CJ-Wright/cf-graph-countyfair/), 0 commits :octocat:
+20. [basnijholt/orbitalfield](https://github.com/basnijholt/orbitalfield/), 0 commits :octocat:
 
 </details>
 
