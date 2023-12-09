@@ -18,16 +18,16 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-12-08 12:05:50.102068.
+Last updated at 2023-12-09 12:08:02.052280.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1565 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1327 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1334 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1084 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 971 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 973 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 498 ⭐️s
 <details><summary>Click to expand!</summary>
 
@@ -53,28 +53,28 @@ Last updated at 2023-12-08 12:05:50.102068.
 
 ## number of commits :octocat:
 
-1. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 270 commits :octocat:
-2. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
-3. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-4. [hacs/default](https://github.com/hacs/default/), 6 commits :octocat:
-5. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
+1. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+2. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+3. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 2 commits :octocat:
+4. [basnijholt/ipynb_git_filters](https://github.com/basnijholt/ipynb_git_filters/), 0 commits :octocat:
+5. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/nanowire-bandstructures](https://github.com/basnijholt/nanowire-bandstructures/), 0 commits :octocat:
-7. [conda-forge/unidep-feedstock](https://github.com/conda-forge/unidep-feedstock/), 0 commits :octocat:
-8. [hassio-addons/addon-vscode](https://github.com/hassio-addons/addon-vscode/), 0 commits :octocat:
-9. [mbongaerts/Metchalizer](https://github.com/mbongaerts/Metchalizer/), 0 commits :octocat:
-10. [conda-forge/smesh-feedstock](https://github.com/conda-forge/smesh-feedstock/), 0 commits :octocat:
-11. [conda-forge/qcodes-feedstock](https://github.com/conda-forge/qcodes-feedstock/), 0 commits :octocat:
-12. [conda-forge/param-feedstock](https://github.com/conda-forge/param-feedstock/), 0 commits :octocat:
-13. [dfm/emcee](https://github.com/dfm/emcee/), 0 commits :octocat:
-14. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 0 commits :octocat:
-15. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 0 commits :octocat:
-16. [rougier/freetype-py](https://github.com/rougier/freetype-py/), 0 commits :octocat:
-17. [custom-cards/button-card](https://github.com/custom-cards/button-card/), 0 commits :octocat:
-18. [devcontainers/features](https://github.com/devcontainers/features/), 0 commits :octocat:
-19. [conda-forge/conda-feedstock](https://github.com/conda-forge/conda-feedstock/), 0 commits :octocat:
-20. [tvdsluijs/py-nsapi](https://github.com/tvdsluijs/py-nsapi/), 0 commits :octocat:
+6. [basnijholt/adaptive-talk](https://github.com/basnijholt/adaptive-talk/), 0 commits :octocat:
+7. [conda-forge/scikit-optimize-feedstock](https://github.com/conda-forge/scikit-optimize-feedstock/), 0 commits :octocat:
+8. [conda-forge/scotch-feedstock](https://github.com/conda-forge/scotch-feedstock/), 0 commits :octocat:
+9. [conda-forge/nbstripout-feedstock](https://github.com/conda-forge/nbstripout-feedstock/), 0 commits :octocat:
+10. [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/), 0 commits :octocat:
+11. [whiskerz007/proxmox_hassos_install](https://github.com/whiskerz007/proxmox_hassos_install/), 0 commits :octocat:
+12. [adshao/go-binance](https://github.com/adshao/go-binance/), 0 commits :octocat:
+13. [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19/), 0 commits :octocat:
+14. [TribuneX/home_assistant](https://github.com/TribuneX/home_assistant/), 0 commits :octocat:
+15. [conda-forge/jupyter_cms-feedstock](https://github.com/conda-forge/jupyter_cms-feedstock/), 0 commits :octocat:
+16. [basnijholt/Casimir-programming](https://github.com/basnijholt/Casimir-programming/), 0 commits :octocat:
+17. [dask/dask-jobqueue](https://github.com/dask/dask-jobqueue/), 0 commits :octocat:
+18. [agkozak/zsh-z](https://github.com/agkozak/zsh-z/), 0 commits :octocat:
+19. [basnijholt/conda-recipes](https://github.com/basnijholt/conda-recipes/), 0 commits :octocat:
+20. [basnijholt/azure-agent-jupyter-minimal-notebook](https://github.com/basnijholt/azure-agent-jupyter-minimal-notebook/), 0 commits :octocat:
 
 </details>
 
