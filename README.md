@@ -18,14 +18,14 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-12-09 12:08:02.052280.
+Last updated at 2023-12-10 12:08:06.844855.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1565 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1334 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1566 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1335 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1084 ⭐️s
 4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 973 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 498 ⭐️s
@@ -41,11 +41,11 @@ Last updated at 2023-12-09 12:08:02.052280.
 13. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 77 ⭐️s
 14. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 53 ⭐️s
 15. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 34 ⭐️s
-16. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 27 ⭐️s
+16. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 29 ⭐️s
 17. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 22 ⭐️s
 18. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 20 ⭐️s
 19. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 17 ⭐️s
-20. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 15 ⭐️s
+20. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 16 ⭐️s
 
 </details>
 
@@ -53,28 +53,28 @@ Last updated at 2023-12-09 12:08:02.052280.
 
 ## number of commits :octocat:
 
-1. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-2. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-3. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 2 commits :octocat:
-4. [basnijholt/ipynb_git_filters](https://github.com/basnijholt/ipynb_git_filters/), 0 commits :octocat:
-5. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 0 commits :octocat:
+1. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
+2. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+3. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+4. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
+5. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 2 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/adaptive-talk](https://github.com/basnijholt/adaptive-talk/), 0 commits :octocat:
-7. [conda-forge/scikit-optimize-feedstock](https://github.com/conda-forge/scikit-optimize-feedstock/), 0 commits :octocat:
-8. [conda-forge/scotch-feedstock](https://github.com/conda-forge/scotch-feedstock/), 0 commits :octocat:
-9. [conda-forge/nbstripout-feedstock](https://github.com/conda-forge/nbstripout-feedstock/), 0 commits :octocat:
-10. [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/), 0 commits :octocat:
-11. [whiskerz007/proxmox_hassos_install](https://github.com/whiskerz007/proxmox_hassos_install/), 0 commits :octocat:
-12. [adshao/go-binance](https://github.com/adshao/go-binance/), 0 commits :octocat:
-13. [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19/), 0 commits :octocat:
-14. [TribuneX/home_assistant](https://github.com/TribuneX/home_assistant/), 0 commits :octocat:
-15. [conda-forge/jupyter_cms-feedstock](https://github.com/conda-forge/jupyter_cms-feedstock/), 0 commits :octocat:
-16. [basnijholt/Casimir-programming](https://github.com/basnijholt/Casimir-programming/), 0 commits :octocat:
-17. [dask/dask-jobqueue](https://github.com/dask/dask-jobqueue/), 0 commits :octocat:
-18. [agkozak/zsh-z](https://github.com/agkozak/zsh-z/), 0 commits :octocat:
-19. [basnijholt/conda-recipes](https://github.com/basnijholt/conda-recipes/), 0 commits :octocat:
-20. [basnijholt/azure-agent-jupyter-minimal-notebook](https://github.com/basnijholt/azure-agent-jupyter-minimal-notebook/), 0 commits :octocat:
+6. [conda-forge/hpc05-feedstock](https://github.com/conda-forge/hpc05-feedstock/), 0 commits :octocat:
+7. [whiskerz007/proxmox_hassos_install](https://github.com/whiskerz007/proxmox_hassos_install/), 0 commits :octocat:
+8. [JesseSlim/polymetric](https://github.com/JesseSlim/polymetric/), 0 commits :octocat:
+9. [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd/), 0 commits :octocat:
+10. [conda-forge/qsimcirq-feedstock](https://github.com/conda-forge/qsimcirq-feedstock/), 0 commits :octocat:
+11. [conda-forge/conda-forge-pinning-feedstock](https://github.com/conda-forge/conda-forge-pinning-feedstock/), 0 commits :octocat:
+12. [robmarkcole/HASS-data-detective](https://github.com/robmarkcole/HASS-data-detective/), 0 commits :octocat:
+13. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 0 commits :octocat:
+14. [h5netcdf/h5netcdf](https://github.com/h5netcdf/h5netcdf/), 0 commits :octocat:
+15. [chelseybaker/iOSMessageExport](https://github.com/chelseybaker/iOSMessageExport/), 0 commits :octocat:
+16. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 0 commits :octocat:
+17. [python3statement/python3statement.github.io](https://github.com/python3statement/python3statement.github.io/), 0 commits :octocat:
+18. [hassio-addons/addon-jupyterlab](https://github.com/hassio-addons/addon-jupyterlab/), 0 commits :octocat:
+19. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 0 commits :octocat:
+20. [microsoft/azure-pipelines-agent](https://github.com/microsoft/azure-pipelines-agent/), 0 commits :octocat:
 
 </details>
 
