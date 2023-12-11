@@ -18,16 +18,16 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-12-10 12:08:06.844855.
+Last updated at 2023-12-11 12:09:03.909491.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1566 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1335 ⭐️s
-3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1084 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 973 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1337 ⭐️s
+3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1085 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 974 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 498 ⭐️s
 <details><summary>Click to expand!</summary>
 
@@ -38,7 +38,7 @@ Last updated at 2023-12-10 12:08:06.844855.
 10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 149 ⭐️s
 11. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 94 ⭐️s
 12. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 78 ⭐️s
-13. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 77 ⭐️s
+13. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 76 ⭐️s
 14. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 53 ⭐️s
 15. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 34 ⭐️s
 16. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 29 ⭐️s
@@ -54,27 +54,27 @@ Last updated at 2023-12-10 12:08:06.844855.
 ## number of commits :octocat:
 
 1. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
-2. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-3. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-4. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
-5. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 2 commits :octocat:
+2. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+3. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
+4. [eddy-ojb/holoviews-contrib](https://github.com/eddy-ojb/holoviews-contrib/), 0 commits :octocat:
+5. [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit/), 0 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [conda-forge/hpc05-feedstock](https://github.com/conda-forge/hpc05-feedstock/), 0 commits :octocat:
-7. [whiskerz007/proxmox_hassos_install](https://github.com/whiskerz007/proxmox_hassos_install/), 0 commits :octocat:
-8. [JesseSlim/polymetric](https://github.com/JesseSlim/polymetric/), 0 commits :octocat:
-9. [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd/), 0 commits :octocat:
-10. [conda-forge/qsimcirq-feedstock](https://github.com/conda-forge/qsimcirq-feedstock/), 0 commits :octocat:
-11. [conda-forge/conda-forge-pinning-feedstock](https://github.com/conda-forge/conda-forge-pinning-feedstock/), 0 commits :octocat:
-12. [robmarkcole/HASS-data-detective](https://github.com/robmarkcole/HASS-data-detective/), 0 commits :octocat:
-13. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 0 commits :octocat:
-14. [h5netcdf/h5netcdf](https://github.com/h5netcdf/h5netcdf/), 0 commits :octocat:
-15. [chelseybaker/iOSMessageExport](https://github.com/chelseybaker/iOSMessageExport/), 0 commits :octocat:
-16. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 0 commits :octocat:
-17. [python3statement/python3statement.github.io](https://github.com/python3statement/python3statement.github.io/), 0 commits :octocat:
-18. [hassio-addons/addon-jupyterlab](https://github.com/hassio-addons/addon-jupyterlab/), 0 commits :octocat:
-19. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 0 commits :octocat:
-20. [microsoft/azure-pipelines-agent](https://github.com/microsoft/azure-pipelines-agent/), 0 commits :octocat:
+6. [zigpy/zigpy](https://github.com/zigpy/zigpy/), 0 commits :octocat:
+7. [conda-forge/panel-feedstock](https://github.com/conda-forge/panel-feedstock/), 0 commits :octocat:
+8. [Electron-Cash/electrum-locale](https://github.com/Electron-Cash/electrum-locale/), 0 commits :octocat:
+9. [basnijholt/pipefunc](https://github.com/basnijholt/pipefunc/), 0 commits :octocat:
+10. [adshao/go-binance](https://github.com/adshao/go-binance/), 0 commits :octocat:
+11. [binder-project/binder-build-core](https://github.com/binder-project/binder-build-core/), 0 commits :octocat:
+12. [conda/conda](https://github.com/conda/conda/), 0 commits :octocat:
+13. [rougier/freetype-py](https://github.com/rougier/freetype-py/), 0 commits :octocat:
+14. [sammchardy/python-binance](https://github.com/sammchardy/python-binance/), 0 commits :octocat:
+15. [conda-forge/pcl-feedstock](https://github.com/conda-forge/pcl-feedstock/), 0 commits :octocat:
+16. [AndBM/sonnet-generator](https://github.com/AndBM/sonnet-generator/), 0 commits :octocat:
+17. [dotnet/docs](https://github.com/dotnet/docs/), 0 commits :octocat:
+18. [chelseybaker/iOSMessageExport](https://github.com/chelseybaker/iOSMessageExport/), 0 commits :octocat:
+19. [mikeboers/PyMemoize](https://github.com/mikeboers/PyMemoize/), 0 commits :octocat:
+20. [basnijholt/majorana-nanowire-conductance](https://github.com/basnijholt/majorana-nanowire-conductance/), 0 commits :octocat:
 
 </details>
 
