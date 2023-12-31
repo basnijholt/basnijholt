@@ -18,25 +18,25 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2023-12-30 12:08:04.021976.
+Last updated at 2023-12-31 12:08:01.660193.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1581 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1387 ⭐️s
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1584 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1390 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1086 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 989 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 511 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 990 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 513 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 430 ⭐️s
 7. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 361 ⭐️s
 8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 353 ⭐️s
 9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 257 ⭐️s
-10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 154 ⭐️s
-11. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 96 ⭐️s
+10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 155 ⭐️s
+11. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 98 ⭐️s
 12. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 94 ⭐️s
 13. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 80 ⭐️s
 14. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 76 ⭐️s
@@ -54,27 +54,27 @@ Last updated at 2023-12-30 12:08:04.021976.
 ## number of commits :octocat:
 
 1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1419 commits :octocat:
-2. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
-3. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
-4. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 83 commits :octocat:
-5. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+2. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
+3. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 83 commits :octocat:
+4. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
+5. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [jupyter/jupyter-sphinx](https://github.com/jupyter/jupyter-sphinx/), 16 commits :octocat:
-7. [mamba-org/micromamba-docker](https://github.com/mamba-org/micromamba-docker/), 4 commits :octocat:
-8. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
-9. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 2 commits :octocat:
-10. [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs/), 2 commits :octocat:
-11. [holoviz/panel](https://github.com/holoviz/panel/), 1 commits :octocat:
-12. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 0 commits :octocat:
-13. [CJ-Wright/cf-graph-countyfair](https://github.com/CJ-Wright/cf-graph-countyfair/), 0 commits :octocat:
-14. [conda-forge/pyvista-feedstock](https://github.com/conda-forge/pyvista-feedstock/), 0 commits :octocat:
-15. [conda-forge/fenics-feedstock](https://github.com/conda-forge/fenics-feedstock/), 0 commits :octocat:
-16. [basnijholt/conda-recipes](https://github.com/basnijholt/conda-recipes/), 0 commits :octocat:
-17. [mpi4py/mpi4py](https://github.com/mpi4py/mpi4py/), 0 commits :octocat:
-18. [ICB-DCM/pyABC](https://github.com/ICB-DCM/pyABC/), 0 commits :octocat:
-19. [astrojuanlu/fenics-recipes](https://github.com/astrojuanlu/fenics-recipes/), 0 commits :octocat:
-20. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 0 commits :octocat:
+6. [holoviz/panel](https://github.com/holoviz/panel/), 1 commits :octocat:
+7. [conda-forge/opencensus-feedstock](https://github.com/conda-forge/opencensus-feedstock/), 0 commits :octocat:
+8. [benfred/py-spy](https://github.com/benfred/py-spy/), 0 commits :octocat:
+9. [RMerl/asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin/), 0 commits :octocat:
+10. [pypa/hatch](https://github.com/pypa/hatch/), 0 commits :octocat:
+11. [ben8p/home-assistant-bunq-balance-sensors](https://github.com/ben8p/home-assistant-bunq-balance-sensors/), 0 commits :octocat:
+12. [fsspec/adlfs](https://github.com/fsspec/adlfs/), 0 commits :octocat:
+13. [conda/conda](https://github.com/conda/conda/), 0 commits :octocat:
+14. [basnijholt/wenfire](https://github.com/basnijholt/wenfire/), 0 commits :octocat:
+15. [conda-forge/hpc05-feedstock](https://github.com/conda-forge/hpc05-feedstock/), 0 commits :octocat:
+16. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/), 0 commits :octocat:
+17. [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy/), 0 commits :octocat:
+18. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 0 commits :octocat:
+19. [basnijholt/shortjunction](https://github.com/basnijholt/shortjunction/), 0 commits :octocat:
+20. [custom-cards/button-card](https://github.com/custom-cards/button-card/), 0 commits :octocat:
 
 </details>
 
