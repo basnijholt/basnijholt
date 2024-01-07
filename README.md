@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2024-01-06 12:08:27.771898.
+Last updated at 2024-01-07 12:08:00.931157.
 
 # GitHub statistics — my top 20
 
@@ -27,16 +27,16 @@ Last updated at 2024-01-06 12:08:27.771898.
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1589 ⭐️s
 2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1401 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1087 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 992 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 513 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 993 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 514 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 430 ⭐️s
+6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 431 ⭐️s
 7. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 360 ⭐️s
 8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 355 ⭐️s
 9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 258 ⭐️s
 10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 157 ⭐️s
-11. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 110 ⭐️s
+11. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 111 ⭐️s
 12. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 94 ⭐️s
 13. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 80 ⭐️s
 14. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 77 ⭐️s
@@ -57,24 +57,24 @@ Last updated at 2024-01-06 12:08:27.771898.
 2. [home-assistant/core](https://github.com/home-assistant/core/), 191 commits :octocat:
 3. [QCoDeS/Qcodes](https://github.com/QCoDeS/Qcodes/), 109 commits :octocat:
 4. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 33 commits :octocat:
-5. [custom-components/pyscript](https://github.com/custom-components/pyscript/), 5 commits :octocat:
+5. [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN/), 5 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints/), 1 commits :octocat:
-7. [actions/setup-python](https://github.com/actions/setup-python/), 1 commits :octocat:
-8. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 0 commits :octocat:
-9. [conda-forge/admin-requests](https://github.com/conda-forge/admin-requests/), 0 commits :octocat:
-10. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 0 commits :octocat:
-11. [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom/), 0 commits :octocat:
-12. [conda-forge/opencensus-context-feedstock](https://github.com/conda-forge/opencensus-context-feedstock/), 0 commits :octocat:
-13. [jwodder/versioningit](https://github.com/jwodder/versioningit/), 0 commits :octocat:
-14. [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon/), 0 commits :octocat:
-15. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 0 commits :octocat:
-16. [basnijholt/day-one-story-sender](https://github.com/basnijholt/day-one-story-sender/), 0 commits :octocat:
-17. [basnijholt/QPC-quantum-transport](https://github.com/basnijholt/QPC-quantum-transport/), 0 commits :octocat:
-18. [home-assistant/supervisor](https://github.com/home-assistant/supervisor/), 0 commits :octocat:
-19. [vallops99/Conda-autoactivate-env](https://github.com/vallops99/Conda-autoactivate-env/), 0 commits :octocat:
-20. [rotki/rotki](https://github.com/rotki/rotki/), 0 commits :octocat:
+6. [facebook/Ax](https://github.com/facebook/Ax/), 1 commits :octocat:
+7. [conda-forge/pfapack-feedstock](https://github.com/conda-forge/pfapack-feedstock/), 0 commits :octocat:
+8. [conda-forge/sphinx-autodoc-typehints-feedstock](https://github.com/conda-forge/sphinx-autodoc-typehints-feedstock/), 0 commits :octocat:
+9. [basnijholt/cluster-logger](https://github.com/basnijholt/cluster-logger/), 0 commits :octocat:
+10. [basnijholt/mumpy](https://github.com/basnijholt/mumpy/), 0 commits :octocat:
+11. [basnijholt/codestructure](https://github.com/basnijholt/codestructure/), 0 commits :octocat:
+12. [dask/dask-jobqueue](https://github.com/dask/dask-jobqueue/), 0 commits :octocat:
+13. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/), 0 commits :octocat:
+14. [uchicago-cs/deepdish](https://github.com/uchicago-cs/deepdish/), 0 commits :octocat:
+15. [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy/), 0 commits :octocat:
+16. [sdouglas/cadnano2](https://github.com/sdouglas/cadnano2/), 0 commits :octocat:
+17. [basnijholt/psychedelic-data-science](https://github.com/basnijholt/psychedelic-data-science/), 0 commits :octocat:
+18. [kwant-project/binder](https://github.com/kwant-project/binder/), 0 commits :octocat:
+19. [sigma-py/quadpy](https://github.com/sigma-py/quadpy/), 0 commits :octocat:
+20. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 0 commits :octocat:
 
 </details>
 
