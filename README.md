@@ -18,14 +18,14 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2024-01-10 12:08:37.448081.
+Last updated at 2024-01-11 12:06:08.823343.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1590 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1411 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1412 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1088 ⭐️s
 4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 996 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 514 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2024-01-10 12:08:37.448081.
 
 ## number of commits :octocat:
 
-1. [home-assistant/core](https://github.com/home-assistant/core/), 192 commits :octocat:
-2. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 34 commits :octocat:
-3. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
-4. [telegraphic/hickle](https://github.com/telegraphic/hickle/), 2 commits :octocat:
-5. [hacs/default](https://github.com/hacs/default/), 0 commits :octocat:
+1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1419 commits :octocat:
+2. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 279 commits :octocat:
+3. [home-assistant/core](https://github.com/home-assistant/core/), 192 commits :octocat:
+4. [microsoft/Qcodes](https://github.com/microsoft/Qcodes/), 109 commits :octocat:
+5. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 34 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/conda-recipes](https://github.com/basnijholt/conda-recipes/), 0 commits :octocat:
-7. [census-instrumentation/opencensus-python](https://github.com/census-instrumentation/opencensus-python/), 0 commits :octocat:
-8. [sammchardy/python-binance](https://github.com/sammchardy/python-binance/), 0 commits :octocat:
-9. [binder-project/binder](https://github.com/binder-project/binder/), 0 commits :octocat:
-10. [basnijholt/day-one-story-sender](https://github.com/basnijholt/day-one-story-sender/), 0 commits :octocat:
-11. [basnijholt/wenfire](https://github.com/basnijholt/wenfire/), 0 commits :octocat:
-12. [conda-forge/jupyter_cms-feedstock](https://github.com/conda-forge/jupyter_cms-feedstock/), 0 commits :octocat:
-13. [conda-forge/freecad-feedstock](https://github.com/conda-forge/freecad-feedstock/), 0 commits :octocat:
-14. [lkorth/jekyll-500px-embed](https://github.com/lkorth/jekyll-500px-embed/), 0 commits :octocat:
-15. [conda-forge/conda-forge-pinning-feedstock](https://github.com/conda-forge/conda-forge-pinning-feedstock/), 0 commits :octocat:
-16. [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player/), 0 commits :octocat:
-17. [basnijholt/molecular-dynamics-Python](https://github.com/basnijholt/molecular-dynamics-Python/), 0 commits :octocat:
-18. [conda-forge/adaptive-feedstock](https://github.com/conda-forge/adaptive-feedstock/), 0 commits :octocat:
-19. [basnijholt/Casimir-programming](https://github.com/basnijholt/Casimir-programming/), 0 commits :octocat:
-20. [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB/), 0 commits :octocat:
+6. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
+7. [robmarkcole/HASS-data-detective](https://github.com/robmarkcole/HASS-data-detective/), 0 commits :octocat:
+8. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 0 commits :octocat:
+9. [sobolevn/git-secret](https://github.com/sobolevn/git-secret/), 0 commits :octocat:
+10. [conda-forge/scipy-feedstock](https://github.com/conda-forge/scipy-feedstock/), 0 commits :octocat:
+11. [grantjenks/python-sortedcollections](https://github.com/grantjenks/python-sortedcollections/), 0 commits :octocat:
+12. [basnijholt/pyfeast](https://github.com/basnijholt/pyfeast/), 0 commits :octocat:
+13. [PaulAnnekov/tuyaha](https://github.com/PaulAnnekov/tuyaha/), 0 commits :octocat:
+14. [dramenti/symmetry](https://github.com/dramenti/symmetry/), 0 commits :octocat:
+15. [basnijholt/Schrodinger-time-evolution](https://github.com/basnijholt/Schrodinger-time-evolution/), 0 commits :octocat:
+16. [devcontainers/features](https://github.com/devcontainers/features/), 0 commits :octocat:
+17. [RobinUS2/golang-moving-average](https://github.com/RobinUS2/golang-moving-average/), 0 commits :octocat:
+18. [ethereum/EIPs](https://github.com/ethereum/EIPs/), 0 commits :octocat:
+19. [telegraphic/hickle](https://github.com/telegraphic/hickle/), 0 commits :octocat:
+20. [kwant-project/binder](https://github.com/kwant-project/binder/), 0 commits :octocat:
 
 </details>
 
