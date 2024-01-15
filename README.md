@@ -18,17 +18,17 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2024-01-14 12:11:12.126534.
+Last updated at 2024-01-15 12:08:34.898664.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1590 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1421 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1423 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1088 ⭐️s
 4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1002 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 517 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 518 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 432 ⭐️s
@@ -36,7 +36,7 @@ Last updated at 2024-01-14 12:11:12.126534.
 8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 359 ⭐️s
 9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 259 ⭐️s
 10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 158 ⭐️s
-11. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 120 ⭐️s
+11. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 121 ⭐️s
 12. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 94 ⭐️s
 13. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 80 ⭐️s
 14. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 77 ⭐️s
@@ -53,28 +53,28 @@ Last updated at 2024-01-14 12:11:12.126534.
 
 ## number of commits :octocat:
 
-1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1419 commits :octocat:
-2. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 279 commits :octocat:
-3. [home-assistant/core](https://github.com/home-assistant/core/), 192 commits :octocat:
-4. [microsoft/Qcodes](https://github.com/microsoft/Qcodes/), 109 commits :octocat:
-5. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 34 commits :octocat:
+1. [home-assistant/core](https://github.com/home-assistant/core/), 192 commits :octocat:
+2. [microsoft/Qcodes](https://github.com/microsoft/Qcodes/), 109 commits :octocat:
+3. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 34 commits :octocat:
+4. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 22 commits :octocat:
+5. [pymc-devs/pymc](https://github.com/pymc-devs/pymc/), 5 commits :octocat:
 <details><summary>Click to expand!</summary>
 
 6. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
-7. [NabuCasa/coronavirus](https://github.com/NabuCasa/coronavirus/), 0 commits :octocat:
-8. [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom/), 0 commits :octocat:
-9. [kwant-project/testing](https://github.com/kwant-project/testing/), 0 commits :octocat:
-10. [basnijholt/shortjunction](https://github.com/basnijholt/shortjunction/), 0 commits :octocat:
-11. [alex3305/home-assistant-addons](https://github.com/alex3305/home-assistant-addons/), 0 commits :octocat:
-12. [Electron-Cash/electrum-locale](https://github.com/Electron-Cash/electrum-locale/), 0 commits :octocat:
-13. [sdouglas/cadnano2](https://github.com/sdouglas/cadnano2/), 0 commits :octocat:
-14. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 0 commits :octocat:
-15. [madsbk/lrcloud](https://github.com/madsbk/lrcloud/), 0 commits :octocat:
-16. [danobot/entity-controller](https://github.com/danobot/entity-controller/), 0 commits :octocat:
-17. [23andMe/Yamale](https://github.com/23andMe/Yamale/), 0 commits :octocat:
-18. [dfm/emcee](https://github.com/dfm/emcee/), 0 commits :octocat:
-19. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 0 commits :octocat:
-20. [tvdsluijs/py-nsapi](https://github.com/tvdsluijs/py-nsapi/), 0 commits :octocat:
+7. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 2 commits :octocat:
+8. [home-assistant/frontend](https://github.com/home-assistant/frontend/), 0 commits :octocat:
+9. [dfm/emcee](https://github.com/dfm/emcee/), 0 commits :octocat:
+10. [basnijholt/discretizer](https://github.com/basnijholt/discretizer/), 0 commits :octocat:
+11. [conda-forge/fastcache-feedstock](https://github.com/conda-forge/fastcache-feedstock/), 0 commits :octocat:
+12. [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card/), 0 commits :octocat:
+13. [joblib/loky](https://github.com/joblib/loky/), 0 commits :octocat:
+14. [whiskerz007/proxmox_hassos_install](https://github.com/whiskerz007/proxmox_hassos_install/), 0 commits :octocat:
+15. [binance-exchange/binance-official-api-docs](https://github.com/binance-exchange/binance-official-api-docs/), 0 commits :octocat:
+16. [binder-project/binder-build-core](https://github.com/binder-project/binder-build-core/), 0 commits :octocat:
+17. [tvdsluijs/py-nsapi](https://github.com/tvdsluijs/py-nsapi/), 0 commits :octocat:
+18. [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon/), 0 commits :octocat:
+19. [basnijholt/ipynb_git_filters](https://github.com/basnijholt/ipynb_git_filters/), 0 commits :octocat:
+20. [NabuCasa/coronavirus](https://github.com/NabuCasa/coronavirus/), 0 commits :octocat:
 
 </details>
 
