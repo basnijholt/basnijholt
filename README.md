@@ -18,27 +18,27 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2024-01-18 12:05:45.934587.
+Last updated at 2024-01-19 12:08:27.927377.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1589 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1429 ⭐️s
-3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1088 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1005 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1431 ⭐️s
+3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1089 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1006 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 519 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 433 ⭐️s
-7. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 360 ⭐️s
-8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 359 ⭐️s
+7. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 361 ⭐️s
+8. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 359 ⭐️s
 9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 259 ⭐️s
 10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 158 ⭐️s
-11. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 124 ⭐️s
+11. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 125 ⭐️s
 12. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 94 ⭐️s
-13. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 80 ⭐️s
+13. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 81 ⭐️s
 14. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 77 ⭐️s
 15. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 55 ⭐️s
 16. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 34 ⭐️s
@@ -60,21 +60,21 @@ Last updated at 2024-01-18 12:05:45.934587.
 5. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [pypa/hatch](https://github.com/pypa/hatch/), 1 commits :octocat:
-7. [facebook/Ax](https://github.com/facebook/Ax/), 1 commits :octocat:
-8. [actions/setup-python](https://github.com/actions/setup-python/), 1 commits :octocat:
-9. [zigpy/zigpy](https://github.com/zigpy/zigpy/), 0 commits :octocat:
-10. [binder-project/binder-build-core](https://github.com/binder-project/binder-build-core/), 0 commits :octocat:
-11. [benfred/py-spy](https://github.com/benfred/py-spy/), 0 commits :octocat:
-12. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 0 commits :octocat:
-13. [rust-lang/rustlings](https://github.com/rust-lang/rustlings/), 0 commits :octocat:
-14. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 0 commits :octocat:
-15. [Python-Meetup-Rotterdam/meetup1](https://github.com/Python-Meetup-Rotterdam/meetup1/), 0 commits :octocat:
-16. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 0 commits :octocat:
-17. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 0 commits :octocat:
-18. [basnijholt/molecular-dynamics-FORTRAN](https://github.com/basnijholt/molecular-dynamics-FORTRAN/), 0 commits :octocat:
-19. [conda-forge/spylon-kernel-feedstock](https://github.com/conda-forge/spylon-kernel-feedstock/), 0 commits :octocat:
-20. [basnijholt/conda-recipes](https://github.com/basnijholt/conda-recipes/), 0 commits :octocat:
+6. [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd/), 1 commits :octocat:
+7. [ramonhagenaars/nptyping](https://github.com/ramonhagenaars/nptyping/), 0 commits :octocat:
+8. [basnijholt/qcodes-repr](https://github.com/basnijholt/qcodes-repr/), 0 commits :octocat:
+9. [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card/), 0 commits :octocat:
+10. [conda-forge/opencensus-context-feedstock](https://github.com/conda-forge/opencensus-context-feedstock/), 0 commits :octocat:
+11. [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19/), 0 commits :octocat:
+12. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 0 commits :octocat:
+13. [conda-forge/adaptive-scheduler-feedstock](https://github.com/conda-forge/adaptive-scheduler-feedstock/), 0 commits :octocat:
+14. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 0 commits :octocat:
+15. [binder-project/binder-build-core](https://github.com/binder-project/binder-build-core/), 0 commits :octocat:
+16. [ChristianKuehnel/btlewrap](https://github.com/ChristianKuehnel/btlewrap/), 0 commits :octocat:
+17. [conda-forge/conda-feedstock](https://github.com/conda-forge/conda-feedstock/), 0 commits :octocat:
+18. [dotnet/docs](https://github.com/dotnet/docs/), 0 commits :octocat:
+19. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 0 commits :octocat:
+20. [microsoft/qmt](https://github.com/microsoft/qmt/), 0 commits :octocat:
 
 </details>
 
