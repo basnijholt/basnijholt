@@ -18,16 +18,16 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2024-01-27 12:07:50.385318.
+Last updated at 2024-01-28 12:08:00.698338.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1593 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1450 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1452 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1087 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1009 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1012 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 524 ⭐️s
 <details><summary>Click to expand!</summary>
 
@@ -53,28 +53,28 @@ Last updated at 2024-01-27 12:07:50.385318.
 
 ## number of commits :octocat:
 
-1. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 279 commits :octocat:
-2. [home-assistant/core](https://github.com/home-assistant/core/), 192 commits :octocat:
-3. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 34 commits :octocat:
-4. [hacs/default](https://github.com/hacs/default/), 6 commits :octocat:
-5. [conda-forge/conda-forge-pinning-feedstock](https://github.com/conda-forge/conda-forge-pinning-feedstock/), 5 commits :octocat:
+1. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 742 commits :octocat:
+2. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 279 commits :octocat:
+3. [home-assistant/core](https://github.com/home-assistant/core/), 192 commits :octocat:
+4. [microsoft/Qcodes](https://github.com/microsoft/Qcodes/), 109 commits :octocat:
+5. [holoviz/holoviews](https://github.com/holoviz/holoviews/), 34 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
-7. [pypa/hatch](https://github.com/pypa/hatch/), 1 commits :octocat:
-8. [conda-forge/conda-forge-repodata-patches-feedstock](https://github.com/conda-forge/conda-forge-repodata-patches-feedstock/), 0 commits :octocat:
-9. [devcontainers/features](https://github.com/devcontainers/features/), 0 commits :octocat:
-10. [Azure/azure-cli](https://github.com/Azure/azure-cli/), 0 commits :octocat:
-11. [conda-forge/conda-forge.github.io](https://github.com/conda-forge/conda-forge.github.io/), 0 commits :octocat:
-12. [conda-forge/fenics-feedstock](https://github.com/conda-forge/fenics-feedstock/), 0 commits :octocat:
-13. [conda-forge/freecad-feedstock](https://github.com/conda-forge/freecad-feedstock/), 0 commits :octocat:
-14. [conda-forge/opencensus-feedstock](https://github.com/conda-forge/opencensus-feedstock/), 0 commits :octocat:
-15. [fsspec/adlfs](https://github.com/fsspec/adlfs/), 0 commits :octocat:
-16. [DenisCarriere/geocoder](https://github.com/DenisCarriere/geocoder/), 0 commits :octocat:
-17. [jbweston/miniver](https://github.com/jbweston/miniver/), 0 commits :octocat:
-18. [synesthesiam/hassio-addons](https://github.com/synesthesiam/hassio-addons/), 0 commits :octocat:
-19. [hassio-addons/addon-jupyterlab](https://github.com/hassio-addons/addon-jupyterlab/), 0 commits :octocat:
-20. [conda-forge/paraview-feedstock](https://github.com/conda-forge/paraview-feedstock/), 0 commits :octocat:
+6. [conda-forge/conda-forge-pinning-feedstock](https://github.com/conda-forge/conda-forge-pinning-feedstock/), 5 commits :octocat:
+7. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
+8. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 2 commits :octocat:
+9. [python3statement/python3statement.github.io](https://github.com/python3statement/python3statement.github.io/), 1 commits :octocat:
+10. [conda-forge/spylon-kernel-feedstock](https://github.com/conda-forge/spylon-kernel-feedstock/), 0 commits :octocat:
+11. [basnijholt/nanowire-qpc-spectrum](https://github.com/basnijholt/nanowire-qpc-spectrum/), 0 commits :octocat:
+12. [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect/), 0 commits :octocat:
+13. [synesthesiam/hassio-addons](https://github.com/synesthesiam/hassio-addons/), 0 commits :octocat:
+14. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 0 commits :octocat:
+15. [conda-forge/jupyter-sphinx-feedstock](https://github.com/conda-forge/jupyter-sphinx-feedstock/), 0 commits :octocat:
+16. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 0 commits :octocat:
+17. [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN/), 0 commits :octocat:
+18. [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder/), 0 commits :octocat:
+19. [uchicago-cs/deepdish](https://github.com/uchicago-cs/deepdish/), 0 commits :octocat:
+20. [basnijholt/test](https://github.com/basnijholt/test/), 0 commits :octocat:
 
 </details>
 
