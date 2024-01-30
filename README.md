@@ -18,7 +18,7 @@ I am Bas. Here I present some (automatically generated) statistics about my acti
 - 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
 - 📫 How to reach me: bas@nijho.lt
 
-Last updated at 2024-01-29 12:08:38.208369.
+Last updated at 2024-01-30 12:05:48.363087.
 
 # GitHub statistics — my top 20
 
@@ -27,16 +27,16 @@ Last updated at 2024-01-29 12:08:38.208369.
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1593 ⭐️s
 2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1456 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1087 ⭐️s
-4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1014 ⭐️s
+4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1015 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 524 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 433 ⭐️s
+6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 434 ⭐️s
 7. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 363 ⭐️s
 8. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 359 ⭐️s
 9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 259 ⭐️s
 10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 163 ⭐️s
-11. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 126 ⭐️s
+11. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 127 ⭐️s
 12. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 94 ⭐️s
 13. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 81 ⭐️s
 14. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 77 ⭐️s
@@ -61,20 +61,20 @@ Last updated at 2024-01-29 12:08:38.208369.
 <details><summary>Click to expand!</summary>
 
 6. [conda-forge/conda-forge-pinning-feedstock](https://github.com/conda-forge/conda-forge-pinning-feedstock/), 5 commits :octocat:
-7. [pymc-devs/pymc](https://github.com/pymc-devs/pymc/), 5 commits :octocat:
-8. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
-9. [facebook/Ax](https://github.com/facebook/Ax/), 1 commits :octocat:
-10. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 0 commits :octocat:
-11. [amccaugh/phidl](https://github.com/amccaugh/phidl/), 0 commits :octocat:
-12. [conda-forge/mumps-feedstock](https://github.com/conda-forge/mumps-feedstock/), 0 commits :octocat:
-13. [conda-forge/pytest-flakes-feedstock](https://github.com/conda-forge/pytest-flakes-feedstock/), 0 commits :octocat:
-14. [lkorth/jekyll-500px-embed](https://github.com/lkorth/jekyll-500px-embed/), 0 commits :octocat:
-15. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 0 commits :octocat:
-16. [basnijholt/pfapack](https://github.com/basnijholt/pfapack/), 0 commits :octocat:
-17. [conda-forge/azure-cosmos-feedstock](https://github.com/conda-forge/azure-cosmos-feedstock/), 0 commits :octocat:
-18. [SchedMD/slurm](https://github.com/SchedMD/slurm/), 0 commits :octocat:
-19. [conda-forge/hpc05-feedstock](https://github.com/conda-forge/hpc05-feedstock/), 0 commits :octocat:
-20. [jbweston/miniver](https://github.com/jbweston/miniver/), 0 commits :octocat:
+7. [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory/), 4 commits :octocat:
+8. [pyvista/pyvista](https://github.com/pyvista/pyvista/), 2 commits :octocat:
+9. [kedro-org/kedro](https://github.com/kedro-org/kedro/), 2 commits :octocat:
+10. [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints/), 1 commits :octocat:
+11. [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs/), 0 commits :octocat:
+12. [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect/), 0 commits :octocat:
+13. [conda-forge/qsimcirq-feedstock](https://github.com/conda-forge/qsimcirq-feedstock/), 0 commits :octocat:
+14. [basnijholt/orbitalfield](https://github.com/basnijholt/orbitalfield/), 0 commits :octocat:
+15. [conda-forge/scipy-feedstock](https://github.com/conda-forge/scipy-feedstock/), 0 commits :octocat:
+16. [binder-project/binder-build-core](https://github.com/binder-project/binder-build-core/), 0 commits :octocat:
+17. [conda-forge/scotch-feedstock](https://github.com/conda-forge/scotch-feedstock/), 0 commits :octocat:
+18. [grantjenks/python-sortedcollections](https://github.com/grantjenks/python-sortedcollections/), 0 commits :octocat:
+19. [quantumlib/qsim](https://github.com/quantumlib/qsim/), 0 commits :octocat:
+20. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 0 commits :octocat:
 
 </details>
 
