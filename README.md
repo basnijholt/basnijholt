@@ -12,16 +12,17 @@
 - 👷🏻‍♂️ Currently at IonQ, doing my bit in building a quantum computer.
 - 🌟 A deep dive into computational quantum mechanics earned me my PhD.
 - 🎨 I've crafted a few libraries for Home Assistant, making home automation a bit more fun.
-- ⚒️ Always tinkering with tools to speed up numerical simulations.
-- 🏅 Big on software quality, user experience, and smooth performance.
+- ⚒️ Made other tools speed up and massively parallelize numerical simulations.
+- 🏅 Passionate about open-source, software quality, user experience, and smooth performance.
 - 🐍 Python is my go-to language in most of my projects.
+- ❤️ Very passionate about open source and the community around it.
 - Some of my favorite creations:
   - 📈 **[python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/)**: Parallel active learning of mathematical functions? Check!
-  - 🧬 **[unidep](https://github.com/basnijholt/unidep/)**: Unifying pip and conda requirements, because who likes confusion?
-  - 💡 **[adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/)**: A custom component for Home Assistant to keep your lighting just right.
-  - 📝 **[markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/)**: Run code blocks right within your Markdown files – yes, it's as cool as it sounds!
+  - 🧬 **[unidep](https://github.com/basnijholt/unidep/)**: Unifying pip and conda requirements, single command to set up a full dev environment.
+  - 💡 **[adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/)**: A custom component for Home Assistant to keep your lighting in synn with the sun.
+  - 📝 **[markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/)**: Run (hidden) code blocks right within your Markdown files - keep simple `README.md`s in sync!
   - 🕒 **[rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/)**: Time Machine-style backups with rsync for the minimalists.
-  - 🏠 **[home-assistant-config](https://github.com/basnijholt/home-assistant-config/)**: Over 100 documented automations in my Home Assistant config, because automation is the future (and it's pretty neat!).
+  - 🏠 **[home-assistant-config](https://github.com/basnijholt/home-assistant-config/)**: Over 100 documented automations in my Home Assistant config
 
 Below are some (automatically generated) statistics about my activity on GitHub. For more info check out my website [www.nijho.lt](http://nijho.lt/).
 
