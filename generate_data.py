@@ -313,6 +313,32 @@ async def generate_data() -> dict[str, Any]:
     }
 
 
+def load_data() -> dict[str, Any]:
+    with open("data/repos.json", "r") as f:
+        repos = json.load(f)
+
+    with open("data/most_committed.json", "r") as f:
+        most_committed = json.load(f)
+
+    with open("data/stargazers.json", "r") as f:
+        stargazers = json.load(f)
+        for info in stargazers:
+            info["dates"] = [datetime.fromisoformat(date) for date in info["dates"]]
+
+    with open("data/all_commit_dates.json", "r") as f:
+        all_commit_dates = [datetime.fromisoformat(date) for date in json.load(f)]
+
+    day_hist, hour_hist = generate_day_hour_histograms(all_commit_dates)
+    return {
+        "repos": repos,
+        "most_committed": most_committed,
+        "stargazers": stargazers,
+        "all_commit_dates": all_commit_dates,
+        "day_hist": day_hist,
+        "hour_hist": hour_hist,
+    }
+
+
 def to_plotly_json() -> None:
     with open("data/stargazers.json") as f:
         stargazers = json.load(f)
