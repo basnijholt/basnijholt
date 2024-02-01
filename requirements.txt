@@ -1,8 +1,8 @@
 aiohttp
+gidgethub
 httpx
 jinja2
 matplotlib
 notebook
 tenacity
-https://github.com/basnijholt/gidgethub/archive/refs/heads/extra_headers.zip
 tqdm
