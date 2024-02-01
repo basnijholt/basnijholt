@@ -24,7 +24,8 @@
   - 🕒 **[rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/)**: Time Machine-style backups with rsync for the minimalists.
   - 🏠 **[home-assistant-config](https://github.com/basnijholt/home-assistant-config/)**: Over 100 documented automations in my Home Assistant config
 
-Below are some (automatically generated) statistics about my activity on GitHub. For more info check out my website [www.nijho.lt](http://nijho.lt/).
+Below are some (automatically generated) statistics about my activity on GitHub.
+For more info check out my website [www.nijho.lt](http://nijho.lt/) or talk to me on <a rel="me" href="https://fosstodon.org/@basnijholt">Mastodon</a>.
 
 ![](https://www.nijho.lt/authors/admin/avatar_hu9e60e4b9bc120dfb6a666009f2878da6_182107_250x250_fill_q90_lanczos_center.jpg)
 
@@ -91,6 +92,3 @@ Last updated at 2024-01-31 18:51:08.298433.
 ![](https://github.com/basnijholt/basnijholt/raw/main/commits_per_hour.png)
 
 ![](https://github.com/basnijholt/basnijholt/raw/main/commits_per_weekday.png)
-
-<a rel="me" href="https://fosstodon.org/@basnijholt">Mastodon</a>
-"""
