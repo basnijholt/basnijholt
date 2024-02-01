@@ -1,4 +1,4 @@
-### Welcome to my profile 👋
+### Bas Nijholt 👋
 
 <center>
   <table>
@@ -9,16 +9,25 @@
   </table>
 </center>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=basnijholt.visitor-badge)
+- 👷🏻‍♂️ Currently at IonQ, doing my bit in building a quantum computer.
+- 🌟 A deep dive into computational quantum mechanics earned me my PhD.
+- 🎨 I've crafted a few libraries for Home Assistant, making home automation a bit more fun.
+- ⚒️ Always tinkering with tools to speed up numerical simulations.
+- 🏅 Big on software quality, user experience, and smooth performance.
+- 🐍 Python is my go-to language in most of my projects.
+- Some of my favorite creations:
+  - 📈 **[python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/)**: Parallel active learning of mathematical functions? Check!
+  - 🧬 **[unidep](https://github.com/basnijholt/unidep/)**: Unifying pip and conda requirements, because who likes confusion?
+  - 💡 **[adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/)**: A custom component for Home Assistant to keep your lighting just right.
+  - 📝 **[markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/)**: Run code blocks right within your Markdown files – yes, it's as cool as it sounds!
+  - 🕒 **[rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/)**: Time Machine-style backups with rsync for the minimalists.
+  - 🏠 **[home-assistant-config](https://github.com/basnijholt/home-assistant-config/)**: Over 100 documented automations in my Home Assistant config, because automation is the future (and it's pretty neat!).
 
-I am Bas. Here I present some (automatically generated) statistics about my activity on GitHub. For more info check out my website [www.nijho.lt](http://nijho.lt/).
+Below are some (automatically generated) statistics about my activity on GitHub. For more info check out my website [www.nijho.lt](http://nijho.lt/).
 
 ![](https://www.nijho.lt/authors/admin/avatar_hu9e60e4b9bc120dfb6a666009f2878da6_182107_250x250_fill_q90_lanczos_center.jpg)
 
-- 💬 Ask me about Python, home-automation, landscape photography, and quantum physics
-- 📫 How to reach me: bas@nijho.lt
-
-Last updated at 2024-02-01 01:54:34.844282.
+Last updated at 2024-01-31 18:51:08.298433.
 
 # GitHub statistics — my top 20
 
@@ -56,25 +65,25 @@ Last updated at 2024-02-01 01:54:34.844282.
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1769 commits :octocat:
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1419 commits :octocat:
 3. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 742 commits :octocat:
-4. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 541 commits :octocat:
-5. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 452 commits :octocat:
+4. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 452 commits :octocat:
+5. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 416 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 416 commits :octocat:
-7. [basnijholt/zigzag-majoranas](https://github.com/basnijholt/zigzag-majoranas/), 413 commits :octocat:
-8. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 312 commits :octocat:
-9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 304 commits :octocat:
-10. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 288 commits :octocat:
-11. [basnijholt/supercurrent-majorana-nanowire](https://github.com/basnijholt/supercurrent-majorana-nanowire/), 282 commits :octocat:
-12. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 268 commits :octocat:
-13. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
-14. [home-assistant/core](https://github.com/home-assistant/core/), 192 commits :octocat:
-15. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
-16. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
-17. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
-18. [microsoft/Qcodes](https://github.com/microsoft/Qcodes/), 109 commits :octocat:
-19. [basnijholt/pipefunc](https://github.com/basnijholt/pipefunc/), 99 commits :octocat:
-20. [basnijholt/yaml2bib](https://github.com/basnijholt/yaml2bib/), 91 commits :octocat:
+6. [basnijholt/zigzag-majoranas](https://github.com/basnijholt/zigzag-majoranas/), 413 commits :octocat:
+7. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 312 commits :octocat:
+8. [basnijholt/supercurrent-majorana-nanowire](https://github.com/basnijholt/supercurrent-majorana-nanowire/), 282 commits :octocat:
+9. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 279 commits :octocat:
+10. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 268 commits :octocat:
+11. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 228 commits :octocat:
+12. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
+13. [home-assistant/core](https://github.com/home-assistant/core/), 192 commits :octocat:
+14. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
+15. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
+16. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 160 commits :octocat:
+17. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
+18. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
+19. [microsoft/Qcodes](https://github.com/microsoft/Qcodes/), 109 commits :octocat:
+20. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 97 commits :octocat:
 
 </details>
 
@@ -82,3 +91,5 @@ Last updated at 2024-02-01 01:54:34.844282.
 
 ![](https://github.com/basnijholt/basnijholt/raw/main/commits_per_weekday.png)
 
+<a rel="me" href="https://fosstodon.org/@basnijholt">Mastodon</a>
+"""
