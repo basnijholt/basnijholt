@@ -3,6 +3,7 @@ gidgethub
 httpx
 jinja2
 matplotlib
+mplcyberpunk
 notebook
 tenacity
 tqdm
