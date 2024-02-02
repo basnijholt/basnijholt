@@ -37,7 +37,7 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 [terminal productivity tools](https://www.nijho.lt/post/terminal-ninja/)
 
-Last updated at 2024-02-01 22:51:41.160085.
+Last updated at 2024-02-02 06:57:35.674654.
 
 # GitHub statistics — my top 20
 
@@ -73,28 +73,28 @@ Last updated at 2024-02-01 22:51:41.160085.
 
 ## number of commits :octocat:
 
-1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1419 commits :octocat:
-2. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 742 commits :octocat:
-3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 541 commits :octocat:
-4. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 452 commits :octocat:
-5. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 312 commits :octocat:
+1. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 742 commits :octocat:
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 541 commits :octocat:
+3. [basnijholt/basnijholt](https://github.com/basnijholt/basnijholt/), 84 commits :octocat:
+4. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 80 commits :octocat:
+5. [basnijholt/adaptive-tools](https://github.com/basnijholt/adaptive-tools/), 34 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 304 commits :octocat:
-7. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 288 commits :octocat:
-8. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 279 commits :octocat:
-9. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
-10. [home-assistant/core](https://github.com/home-assistant/core/), 192 commits :octocat:
-11. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
-12. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
-13. [microsoft/Qcodes](https://github.com/microsoft/Qcodes/), 109 commits :octocat:
-14. [basnijholt/yaml2bib](https://github.com/basnijholt/yaml2bib/), 91 commits :octocat:
-15. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 80 commits :octocat:
-16. [basnijholt/basnijholt](https://github.com/basnijholt/basnijholt/), 79 commits :octocat:
-17. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 65 commits :octocat:
-18. [conda-forge/kwant-feedstock](https://github.com/conda-forge/kwant-feedstock/), 65 commits :octocat:
-19. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 59 commits :octocat:
-20. [basnijholt/codestructure](https://github.com/basnijholt/codestructure/), 52 commits :octocat:
+6. [basnijholt/backups](https://github.com/basnijholt/backups/), 15 commits :octocat:
+7. [basnijholt/azure-agent-jupyter-minimal-notebook](https://github.com/basnijholt/azure-agent-jupyter-minimal-notebook/), 10 commits :octocat:
+8. [basnijholt/adaptive-talk](https://github.com/basnijholt/adaptive-talk/), 10 commits :octocat:
+9. [conda-forge/deepdish-feedstock](https://github.com/conda-forge/deepdish-feedstock/), 8 commits :octocat:
+10. [robmarkcole/HASS-data-detective](https://github.com/robmarkcole/HASS-data-detective/), 7 commits :octocat:
+11. [conda/conda-lock](https://github.com/conda/conda-lock/), 5 commits :octocat:
+12. [basnijholt/Casimir-programming](https://github.com/basnijholt/Casimir-programming/), 4 commits :octocat:
+13. [hacs/documentation](https://github.com/hacs/documentation/), 4 commits :octocat:
+14. [kraih/kefctl](https://github.com/kraih/kefctl/), 2 commits :octocat:
+15. [conda-forge/param-feedstock](https://github.com/conda-forge/param-feedstock/), 1 commits :octocat:
+16. [conda-forge/broadbean-feedstock](https://github.com/conda-forge/broadbean-feedstock/), 1 commits :octocat:
+17. [cornelk/hashmap](https://github.com/cornelk/hashmap/), 1 commits :octocat:
+18. [tox-dev/azure-pipelines-template](https://github.com/tox-dev/azure-pipelines-template/), 1 commits :octocat:
+19. [binder-project/binder-build-core](https://github.com/binder-project/binder-build-core/), 1 commits :octocat:
+20. [synesthesiam/hassio-addons](https://github.com/synesthesiam/hassio-addons/), 0 commits :octocat:
 
 </details>
 
