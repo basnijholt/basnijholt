@@ -15,7 +15,9 @@ import gidgethub.httpx
 import httpx
 import tenacity
 
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(
+    level=logging.INFO, format="%(asctime)s %(levelname)s:%(name)s:%(message)s"
+)
 log = logging.getLogger(__name__)
 ME = "basnijholt"
 orgs = (ME, "python-adaptive", "topocm", "python-kasa", "kwant-project")
@@ -82,6 +84,7 @@ async def getitem(
     url: str,
     n_tries: int = 5,
     extra_headers: dict[str, str] | None = None,
+    sleep_time: int = 60,
 ) -> Any:
     for _ in range(n_tries):
         status_response = await gh.getstatus(url)
@@ -90,14 +93,14 @@ async def getitem(
             return await gh.getitem(url, extra_headers=extra_headers)
         elif status_response == 202:
             # Data is not ready yet, wait and then retry
-            await asyncio.sleep(20)
+            await asyncio.sleep(sleep_time)
         else:
             # Handle other HTTP response statuses appropriately
             msg = f"Received unexpected status code: {status_response.status_code}"
             raise Exception(
                 msg,
             )
-    return None
+    raise Exception(f"Failed to retrieve data from {url} after {n_tries} attempts.")
 
 
 @tenacity.retry(**RETRY_KW)
