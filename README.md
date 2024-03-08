@@ -37,7 +37,7 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 [terminal productivity tools](https://www.nijho.lt/post/terminal-ninja/)
 
-Last updated at 2024-03-07 12:09:25.794734.
+Last updated at 2024-03-08 12:13:11.164177.
 
 # GitHub statistics — my top 20
 
@@ -54,14 +54,14 @@ Last updated at 2024-03-07 12:09:25.794734.
 7. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 364 ⭐️s
 8. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 359 ⭐️s
 9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 263 ⭐️s
-10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 187 ⭐️s
+10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 189 ⭐️s
 11. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 172 ⭐️s
 12. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 94 ⭐️s
 13. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 81 ⭐️s
 14. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 78 ⭐️s
 15. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 61 ⭐️s
 16. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 36 ⭐️s
-17. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 31 ⭐️s
+17. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 32 ⭐️s
 18. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 25 ⭐️s
 19. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 20 ⭐️s
 20. [kwant-project/kwant-tutorial-2016](https://github.com/kwant-project/kwant-tutorial-2016/), 18 ⭐️s
@@ -73,28 +73,28 @@ Last updated at 2024-03-07 12:09:25.794734.
 
 ## number of commits :octocat:
 
-1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1425 commits :octocat:
-2. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 745 commits :octocat:
-3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 545 commits :octocat:
-4. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 288 commits :octocat:
-5. [basnijholt/basnijholt](https://github.com/basnijholt/basnijholt/), 85 commits :octocat:
+1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1769 commits :octocat:
+2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1425 commits :octocat:
+3. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 429 commits :octocat:
+4. [basnijholt/zigzag-majoranas](https://github.com/basnijholt/zigzag-majoranas/), 413 commits :octocat:
+5. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 282 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 59 commits :octocat:
-7. [basnijholt/codestructure](https://github.com/basnijholt/codestructure/), 52 commits :octocat:
-8. [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon/), 52 commits :octocat:
-9. [basnijholt/conda-recipes](https://github.com/basnijholt/conda-recipes/), 48 commits :octocat:
-10. [basnijholt/cluster-logger](https://github.com/basnijholt/cluster-logger/), 45 commits :octocat:
-11. [conda-forge/adaptive-scheduler-feedstock](https://github.com/conda-forge/adaptive-scheduler-feedstock/), 41 commits :octocat:
-12. [basnijholt/fileup](https://github.com/basnijholt/fileup/), 35 commits :octocat:
-13. [basnijholt/adaptive-tools](https://github.com/basnijholt/adaptive-tools/), 34 commits :octocat:
-14. [conda-forge/adaptive-feedstock](https://github.com/conda-forge/adaptive-feedstock/), 34 commits :octocat:
-15. [basnijholt/day-one-story-sender](https://github.com/basnijholt/day-one-story-sender/), 25 commits :octocat:
-16. [basnijholt/calendar-of-life](https://github.com/basnijholt/calendar-of-life/), 20 commits :octocat:
-17. [basnijholt/backups](https://github.com/basnijholt/backups/), 15 commits :octocat:
-18. [basnijholt/arxiv-feed-mailer](https://github.com/basnijholt/arxiv-feed-mailer/), 15 commits :octocat:
-19. [basnijholt/azure-singularity-agent](https://github.com/basnijholt/azure-singularity-agent/), 10 commits :octocat:
-20. [basnijholt/azure-agent-jupyter-minimal-notebook](https://github.com/basnijholt/azure-agent-jupyter-minimal-notebook/), 10 commits :octocat:
+6. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 279 commits :octocat:
+7. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 228 commits :octocat:
+8. [home-assistant/core](https://github.com/home-assistant/core/), 192 commits :octocat:
+9. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
+10. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
+11. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 160 commits :octocat:
+12. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
+13. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
+14. [microsoft/Qcodes](https://github.com/microsoft/Qcodes/), 109 commits :octocat:
+15. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 97 commits :octocat:
+16. [basnijholt/yaml2bib](https://github.com/basnijholt/yaml2bib/), 91 commits :octocat:
+17. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 87 commits :octocat:
+18. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 80 commits :octocat:
+19. [basnijholt/pfapack](https://github.com/basnijholt/pfapack/), 67 commits :octocat:
+20. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 65 commits :octocat:
 
 </details>
 
