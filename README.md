@@ -37,14 +37,14 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 [terminal productivity tools](https://www.nijho.lt/post/terminal-ninja/)
 
-Last updated at 2024-03-20 12:07:19.751766.
+Last updated at 2024-03-21 12:10:05.034036.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1626 ⭐️s
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1540 ⭐️s
+2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1541 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1095 ⭐️s
 4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1065 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 541 ⭐️s
@@ -76,23 +76,25 @@ Last updated at 2024-03-20 12:07:19.751766.
 1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1425 commits :octocat:
 2. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 750 commits :octocat:
 3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 545 commits :octocat:
-4. [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon/), 52 commits :octocat:
-5. [conda-forge/adaptive-scheduler-feedstock](https://github.com/conda-forge/adaptive-scheduler-feedstock/), 44 commits :octocat:
+4. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 288 commits :octocat:
+5. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 59 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/adaptive-tools](https://github.com/basnijholt/adaptive-tools/), 34 commits :octocat:
-7. [conda-forge/adaptive-feedstock](https://github.com/conda-forge/adaptive-feedstock/), 34 commits :octocat:
-8. [basnijholt/arxiv-feed-mailer](https://github.com/basnijholt/arxiv-feed-mailer/), 15 commits :octocat:
-9. [basnijholt/azure-agent-jupyter-minimal-notebook](https://github.com/basnijholt/azure-agent-jupyter-minimal-notebook/), 10 commits :octocat:
-10. [microsoft/aiida-dynamic-workflows](https://github.com/microsoft/aiida-dynamic-workflows/), 3 commits :octocat:
-11. [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs/), 2 commits :octocat:
-12. [fsspec/adlfs](https://github.com/fsspec/adlfs/), 2 commits :octocat:
-13. [Azure/azhpc-images](https://github.com/Azure/azhpc-images/), 1 commits :octocat:
-14. [pahaz/sshtunnel](https://github.com/pahaz/sshtunnel/), 1 commits :octocat:
-15. [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs/), 0 commits :octocat:
-16. [hassio-addons/addon-jupyterlab](https://github.com/hassio-addons/addon-jupyterlab/), 0 commits :octocat:
-17. [hassio-addons/addon-vscode](https://github.com/hassio-addons/addon-vscode/), 0 commits :octocat:
-18. [RMerl/asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin/), 0 commits :octocat:
+6. [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon/), 52 commits :octocat:
+7. [basnijholt/codestructure](https://github.com/basnijholt/codestructure/), 52 commits :octocat:
+8. [basnijholt/conda-recipes](https://github.com/basnijholt/conda-recipes/), 48 commits :octocat:
+9. [basnijholt/cluster-logger](https://github.com/basnijholt/cluster-logger/), 45 commits :octocat:
+10. [conda-forge/adaptive-scheduler-feedstock](https://github.com/conda-forge/adaptive-scheduler-feedstock/), 44 commits :octocat:
+11. [basnijholt/fileup](https://github.com/basnijholt/fileup/), 35 commits :octocat:
+12. [basnijholt/adaptive-tools](https://github.com/basnijholt/adaptive-tools/), 34 commits :octocat:
+13. [conda-forge/adaptive-feedstock](https://github.com/conda-forge/adaptive-feedstock/), 34 commits :octocat:
+14. [basnijholt/day-one-story-sender](https://github.com/basnijholt/day-one-story-sender/), 25 commits :octocat:
+15. [basnijholt/calendar-of-life](https://github.com/basnijholt/calendar-of-life/), 20 commits :octocat:
+16. [basnijholt/arxiv-feed-mailer](https://github.com/basnijholt/arxiv-feed-mailer/), 15 commits :octocat:
+17. [basnijholt/backups](https://github.com/basnijholt/backups/), 15 commits :octocat:
+18. [basnijholt/azure-singularity-agent](https://github.com/basnijholt/azure-singularity-agent/), 10 commits :octocat:
+19. [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks/), 10 commits :octocat:
+20. [basnijholt/adaptive-talk](https://github.com/basnijholt/adaptive-talk/), 10 commits :octocat:
 
 </details>
 
