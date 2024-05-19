@@ -37,20 +37,20 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 [terminal productivity tools](https://www.nijho.lt/post/terminal-ninja/)
 
-Last updated at 2024-05-18 12:10:34.843085.
+Last updated at 2024-05-19 12:07:42.732333.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1662 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1664 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1648 ⭐️s
 3. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1115 ⭐️s
 4. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1105 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 572 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 444 ⭐️s
+6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 445 ⭐️s
 7. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 368 ⭐️s
 8. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 361 ⭐️s
 9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 267 ⭐️s
@@ -83,18 +83,18 @@ Last updated at 2024-05-18 12:10:34.843085.
 6. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 59 commits :octocat:
 7. [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon/), 52 commits :octocat:
 8. [basnijholt/codestructure](https://github.com/basnijholt/codestructure/), 52 commits :octocat:
-9. [basnijholt/conda-recipes](https://github.com/basnijholt/conda-recipes/), 48 commits :octocat:
-10. [conda-forge/adaptive-scheduler-feedstock](https://github.com/conda-forge/adaptive-scheduler-feedstock/), 48 commits :octocat:
-11. [basnijholt/cluster-logger](https://github.com/basnijholt/cluster-logger/), 45 commits :octocat:
-12. [conda-forge/adaptive-feedstock](https://github.com/conda-forge/adaptive-feedstock/), 38 commits :octocat:
-13. [basnijholt/fileup](https://github.com/basnijholt/fileup/), 35 commits :octocat:
-14. [basnijholt/adaptive-tools](https://github.com/basnijholt/adaptive-tools/), 34 commits :octocat:
-15. [basnijholt/day-one-story-sender](https://github.com/basnijholt/day-one-story-sender/), 25 commits :octocat:
-16. [basnijholt/calendar-of-life](https://github.com/basnijholt/calendar-of-life/), 20 commits :octocat:
+9. [conda-forge/adaptive-scheduler-feedstock](https://github.com/conda-forge/adaptive-scheduler-feedstock/), 48 commits :octocat:
+10. [basnijholt/cluster-logger](https://github.com/basnijholt/cluster-logger/), 45 commits :octocat:
+11. [conda-forge/adaptive-feedstock](https://github.com/conda-forge/adaptive-feedstock/), 38 commits :octocat:
+12. [basnijholt/fileup](https://github.com/basnijholt/fileup/), 35 commits :octocat:
+13. [basnijholt/adaptive-tools](https://github.com/basnijholt/adaptive-tools/), 34 commits :octocat:
+14. [basnijholt/day-one-story-sender](https://github.com/basnijholt/day-one-story-sender/), 25 commits :octocat:
+15. [basnijholt/calendar-of-life](https://github.com/basnijholt/calendar-of-life/), 20 commits :octocat:
+16. [basnijholt/backups](https://github.com/basnijholt/backups/), 15 commits :octocat:
 17. [basnijholt/arxiv-feed-mailer](https://github.com/basnijholt/arxiv-feed-mailer/), 15 commits :octocat:
-18. [basnijholt/backups](https://github.com/basnijholt/backups/), 15 commits :octocat:
-19. [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks/), 10 commits :octocat:
-20. [basnijholt/adaptive-talk](https://github.com/basnijholt/adaptive-talk/), 10 commits :octocat:
+18. [basnijholt/adaptive-talk](https://github.com/basnijholt/adaptive-talk/), 10 commits :octocat:
+19. [basnijholt/azure-agent-jupyter-minimal-notebook](https://github.com/basnijholt/azure-agent-jupyter-minimal-notebook/), 10 commits :octocat:
+20. [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks/), 10 commits :octocat:
 
 </details>
 
