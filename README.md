@@ -37,15 +37,15 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 [terminal productivity tools](https://www.nijho.lt/post/terminal-ninja/)
 
-Last updated at 2024-06-28 12:13:29.869818.
+Last updated at 2024-06-29 12:09:55.540323.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1698 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1699 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1667 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1138 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1139 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1122 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 588 ⭐️s
 <details><summary>Click to expand!</summary>
@@ -55,11 +55,11 @@ Last updated at 2024-06-28 12:13:29.869818.
 8. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 362 ⭐️s
 9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 270 ⭐️s
 10. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 215 ⭐️s
-11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 210 ⭐️s
+11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 212 ⭐️s
 12. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 93 ⭐️s
 13. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 85 ⭐️s
 14. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 83 ⭐️s
-15. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 66 ⭐️s
+15. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 67 ⭐️s
 16. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 37 ⭐️s
 17. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 34 ⭐️s
 18. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 26 ⭐️s
@@ -74,27 +74,27 @@ Last updated at 2024-06-28 12:13:29.869818.
 ## number of commits :octocat:
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1769 commits :octocat:
-2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1430 commits :octocat:
-3. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 760 commits :octocat:
-4. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 452 commits :octocat:
-5. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 443 commits :octocat:
+2. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 760 commits :octocat:
+3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 558 commits :octocat:
+4. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 316 commits :octocat:
+5. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 288 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 316 commits :octocat:
-7. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 286 commits :octocat:
-8. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 279 commits :octocat:
-9. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 228 commits :octocat:
-10. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
-11. [home-assistant/core](https://github.com/home-assistant/core/), 192 commits :octocat:
-12. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
-13. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 161 commits :octocat:
-14. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 157 commits :octocat:
-15. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
-16. [microsoft/Qcodes](https://github.com/microsoft/Qcodes/), 109 commits :octocat:
-17. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 97 commits :octocat:
-18. [basnijholt/yaml2bib](https://github.com/basnijholt/yaml2bib/), 91 commits :octocat:
-19. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 87 commits :octocat:
-20. [basnijholt/pfapack](https://github.com/basnijholt/pfapack/), 67 commits :octocat:
+6. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
+7. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 157 commits :octocat:
+8. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
+9. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
+10. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 97 commits :octocat:
+11. [basnijholt/basnijholt](https://github.com/basnijholt/basnijholt/), 86 commits :octocat:
+12. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 80 commits :octocat:
+13. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 80 commits :octocat:
+14. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 69 commits :octocat:
+15. [basnijholt/lovelace-ios-light-mode-theme](https://github.com/basnijholt/lovelace-ios-light-mode-theme/), 65 commits :octocat:
+16. [conda-forge/kwant-feedstock](https://github.com/conda-forge/kwant-feedstock/), 65 commits :octocat:
+17. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 59 commits :octocat:
+18. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 57 commits :octocat:
+19. [conda-forge/metis-feedstock](https://github.com/conda-forge/metis-feedstock/), 53 commits :octocat:
+20. [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon/), 52 commits :octocat:
 
 </details>
 
