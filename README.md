@@ -37,7 +37,7 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 [terminal productivity tools](https://www.nijho.lt/post/terminal-ninja/)
 
-Last updated at 2024-07-05 12:08:28.740183.
+Last updated at 2024-07-06 12:08:00.002234.
 
 # GitHub statistics — my top 20
 
@@ -83,8 +83,8 @@ Last updated at 2024-07-05 12:08:28.740183.
 6. [basnijholt/addon-otmonitor](https://github.com/basnijholt/addon-otmonitor/), 59 commits :octocat:
 7. [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon/), 52 commits :octocat:
 8. [basnijholt/codestructure](https://github.com/basnijholt/codestructure/), 52 commits :octocat:
-9. [basnijholt/conda-recipes](https://github.com/basnijholt/conda-recipes/), 48 commits :octocat:
-10. [conda-forge/adaptive-scheduler-feedstock](https://github.com/conda-forge/adaptive-scheduler-feedstock/), 48 commits :octocat:
+9. [conda-forge/adaptive-scheduler-feedstock](https://github.com/conda-forge/adaptive-scheduler-feedstock/), 48 commits :octocat:
+10. [basnijholt/conda-recipes](https://github.com/basnijholt/conda-recipes/), 48 commits :octocat:
 11. [basnijholt/cluster-logger](https://github.com/basnijholt/cluster-logger/), 45 commits :octocat:
 12. [conda-forge/adaptive-feedstock](https://github.com/conda-forge/adaptive-feedstock/), 40 commits :octocat:
 13. [basnijholt/fileup](https://github.com/basnijholt/fileup/), 35 commits :octocat:
@@ -94,7 +94,7 @@ Last updated at 2024-07-05 12:08:28.740183.
 17. [basnijholt/clip-files](https://github.com/basnijholt/clip-files/), 18 commits :octocat:
 18. [basnijholt/arxiv-feed-mailer](https://github.com/basnijholt/arxiv-feed-mailer/), 15 commits :octocat:
 19. [basnijholt/backups](https://github.com/basnijholt/backups/), 15 commits :octocat:
-20. [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks/), 10 commits :octocat:
+20. [basnijholt/adaptive-talk](https://github.com/basnijholt/adaptive-talk/), 10 commits :octocat:
 
 </details>
 
