@@ -18,6 +18,7 @@
 - Some of my favorite creations:
   - 📈 **[python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/)**: Parallel active learning of mathematical functions? Check!
   - 🧬 **[unidep](https://github.com/basnijholt/unidep/)**: Unifying pip and conda requirements, single command to set up a full dev environment.
+  - 🕸️ **[pipefunc](https://github.com/pipefunc/pipefunc/)**: Lightweight function pipeline (DAG) creation in pure Python for scientific (HPC) workflows.
   - 💡 **[adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/)**: A custom component for Home Assistant to keep your lighting in synn with the sun.
   - 📝 **[markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/)**: Run (hidden) code blocks right within your Markdown files - keep simple `README.md`s in sync!
   - 🕒 **[rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/)**: Time Machine-style backups with rsync for the minimalists.
