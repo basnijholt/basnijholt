@@ -37,15 +37,15 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 [terminal productivity tools](https://www.nijho.lt/post/terminal-ninja/)
 
-Last updated at 2024-08-16 12:10:13.057375.
+Last updated at 2024-08-17 12:09:57.216408.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1756 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1759 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1688 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1176 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1178 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1127 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 619 ⭐️s
 <details><summary>Click to expand!</summary>
@@ -54,7 +54,7 @@ Last updated at 2024-08-16 12:10:13.057375.
 7. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 372 ⭐️s
 8. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 363 ⭐️s
 9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 272 ⭐️s
-10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 220 ⭐️s
+10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 222 ⭐️s
 11. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 218 ⭐️s
 12. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 93 ⭐️s
 13. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 89 ⭐️s
@@ -73,28 +73,28 @@ Last updated at 2024-08-16 12:10:13.057375.
 
 ## number of commits :octocat:
 
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1769 commits :octocat:
-2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1430 commits :octocat:
-3. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 764 commits :octocat:
-4. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 558 commits :octocat:
-5. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 452 commits :octocat:
+1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1430 commits :octocat:
+2. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 764 commits :octocat:
+3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 558 commits :octocat:
+4. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 288 commits :octocat:
+5. [basnijholt/basnijholt](https://github.com/basnijholt/basnijholt/), 88 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 447 commits :octocat:
-7. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 320 commits :octocat:
-8. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 293 commits :octocat:
-9. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 288 commits :octocat:
-10. [basnijholt/supercurrent-majorana-nanowire](https://github.com/basnijholt/supercurrent-majorana-nanowire/), 282 commits :octocat:
-11. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 228 commits :octocat:
-12. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
-13. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
-14. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 161 commits :octocat:
-15. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 157 commits :octocat:
-16. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
-17. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
-18. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 97 commits :octocat:
-19. [basnijholt/basnijholt](https://github.com/basnijholt/basnijholt/), 88 commits :octocat:
-20. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 88 commits :octocat:
+6. [conda-forge/adaptive-scheduler-feedstock](https://github.com/conda-forge/adaptive-scheduler-feedstock/), 50 commits :octocat:
+7. [conda-forge/adaptive-feedstock](https://github.com/conda-forge/adaptive-feedstock/), 40 commits :octocat:
+8. [basnijholt/adaptive-tools](https://github.com/basnijholt/adaptive-tools/), 34 commits :octocat:
+9. [basnijholt/calendar-of-life](https://github.com/basnijholt/calendar-of-life/), 20 commits :octocat:
+10. [basnijholt/arxiv-feed-mailer](https://github.com/basnijholt/arxiv-feed-mailer/), 15 commits :octocat:
+11. [basnijholt/azure-singularity-agent](https://github.com/basnijholt/azure-singularity-agent/), 10 commits :octocat:
+12. [basnijholt/azure-agent-jupyter-minimal-notebook](https://github.com/basnijholt/azure-agent-jupyter-minimal-notebook/), 10 commits :octocat:
+13. [basnijholt/Casimir-programming](https://github.com/basnijholt/Casimir-programming/), 4 commits :octocat:
+14. [basnijholt/Casimir-programming-2019](https://github.com/basnijholt/Casimir-programming-2019/), 4 commits :octocat:
+15. [microsoft/aiida-dynamic-workflows](https://github.com/microsoft/aiida-dynamic-workflows/), 3 commits :octocat:
+16. [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs/), 2 commits :octocat:
+17. [conda-forge/azure-cosmos-feedstock](https://github.com/conda-forge/azure-cosmos-feedstock/), 2 commits :octocat:
+18. [fsspec/adlfs](https://github.com/fsspec/adlfs/), 2 commits :octocat:
+19. [tox-dev/azure-pipelines-template](https://github.com/tox-dev/azure-pipelines-template/), 1 commits :octocat:
+20. [Azure/azhpc-images](https://github.com/Azure/azhpc-images/), 1 commits :octocat:
 
 </details>
 
