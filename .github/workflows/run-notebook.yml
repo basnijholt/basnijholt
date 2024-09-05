@@ -32,8 +32,8 @@ jobs:
           jupyter-nbconvert --execute --inplace --ExecutePreprocessor.timeout=3200 update-readme.ipynb
       - name: Commit files
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "bas@nijho.lt"
+          git config --local user.name "Bas Nijholt"
           git commit -m "Add changes [skip ci]" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
