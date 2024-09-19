@@ -38,17 +38,17 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 [terminal productivity tools](https://www.nijho.lt/post/terminal-ninja/)
 
-Last updated at 2024-09-18 12:12:27.668636.
+Last updated at 2024-09-19 12:14:02.538339.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1816 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1819 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1706 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1196 ⭐️s
-4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1134 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 635 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1197 ⭐️s
+4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1135 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 636 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 455 ⭐️s
@@ -75,10 +75,10 @@ Last updated at 2024-09-18 12:12:27.668636.
 ## number of commits :octocat:
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1769 commits :octocat:
-2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1430 commits :octocat:
+2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1431 commits :octocat:
 3. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 766 commits :octocat:
 4. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 560 commits :octocat:
-5. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 460 commits :octocat:
+5. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 465 commits :octocat:
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 452 commits :octocat:
@@ -93,9 +93,9 @@ Last updated at 2024-09-18 12:12:27.668636.
 15. [home-assistant/core](https://github.com/home-assistant/core/), 192 commits :octocat:
 16. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
 17. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
-18. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 166 commits :octocat:
-19. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 157 commits :octocat:
-20. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
+18. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 157 commits :octocat:
+19. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
+20. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
 
 </details>
 
