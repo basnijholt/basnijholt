@@ -20,7 +20,7 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 ME = "basnijholt"
-orgs = (ME, "python-adaptive", "topocm", "python-kasa", "kwant-project")
+orgs = (ME, "python-adaptive", "topocm", "python-kasa", "kwant-project", "pipefunc")
 RepoDict: TypeAlias = dict[str, Any]
 OrgRepoDict: TypeAlias = dict[str, Any]
 CommitDict: TypeAlias = dict[str, Any]
