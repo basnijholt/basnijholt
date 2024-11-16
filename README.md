@@ -38,14 +38,14 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 [terminal productivity tools](https://www.nijho.lt/post/terminal-ninja/)
 
-Last updated at 2024-11-15 12:11:40.229403.
+Last updated at 2024-11-16 12:08:56.567442.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1942 ⭐️s
-2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1735 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1943 ⭐️s
+2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1737 ⭐️s
 3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1233 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1164 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 649 ⭐️s
@@ -57,7 +57,7 @@ Last updated at 2024-11-15 12:11:40.229403.
 9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 282 ⭐️s
 10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 247 ⭐️s
 11. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 222 ⭐️s
-12. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 213 ⭐️s
+12. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 214 ⭐️s
 13. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 97 ⭐️s
 14. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 93 ⭐️s
 15. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 89 ⭐️s
@@ -93,8 +93,8 @@ Last updated at 2024-11-15 12:11:40.229403.
 15. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 228 commits :octocat:
 16. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
 17. [home-assistant/core](https://github.com/home-assistant/core/), 192 commits :octocat:
-18. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
-19. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
+18. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
+19. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
 20. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 166 commits :octocat:
 
 </details>
