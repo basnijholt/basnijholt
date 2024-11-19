@@ -38,23 +38,23 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 [terminal productivity tools](https://www.nijho.lt/post/terminal-ninja/)
 
-Last updated at 2024-11-18 12:11:41.101061.
+Last updated at 2024-11-19 12:11:31.389160.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1951 ⭐️s
-2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1739 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1956 ⭐️s
+2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1740 ⭐️s
 3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1238 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1164 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 649 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 651 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 458 ⭐️s
-7. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 379 ⭐️s
+6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 459 ⭐️s
+7. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 380 ⭐️s
 8. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 366 ⭐️s
-9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 282 ⭐️s
+9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 283 ⭐️s
 10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 247 ⭐️s
 11. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 222 ⭐️s
 12. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 215 ⭐️s
@@ -93,9 +93,9 @@ Last updated at 2024-11-18 12:11:41.101061.
 15. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 228 commits :octocat:
 16. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
 17. [home-assistant/core](https://github.com/home-assistant/core/), 192 commits :octocat:
-18. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
-19. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 166 commits :octocat:
-20. [basnijholt/basnijholt](https://github.com/basnijholt/basnijholt/), 161 commits :octocat:
+18. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
+19. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
+20. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 166 commits :octocat:
 
 </details>
 
