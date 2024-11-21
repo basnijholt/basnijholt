@@ -38,15 +38,15 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 [terminal productivity tools](https://www.nijho.lt/post/terminal-ninja/)
 
-Last updated at 2024-11-20 12:10:39.062217.
+Last updated at 2024-11-21 12:11:38.169786.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1960 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1964 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1739 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1239 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1241 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1164 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 650 ⭐️s
 <details><summary>Click to expand!</summary>
@@ -93,8 +93,8 @@ Last updated at 2024-11-20 12:10:39.062217.
 15. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 228 commits :octocat:
 16. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
 17. [home-assistant/core](https://github.com/home-assistant/core/), 192 commits :octocat:
-18. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
-19. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
+18. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
+19. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
 20. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 166 commits :octocat:
 
 </details>
