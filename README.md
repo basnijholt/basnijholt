@@ -38,15 +38,15 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 [terminal productivity tools](https://www.nijho.lt/post/terminal-ninja/)
 
-Last updated at 2024-12-04 12:12:02.949866.
+Last updated at 2024-12-05 12:11:43.156905.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1992 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 1993 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1747 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1253 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1254 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1165 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 657 ⭐️s
 <details><summary>Click to expand!</summary>
@@ -55,8 +55,8 @@ Last updated at 2024-12-04 12:12:02.949866.
 7. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 381 ⭐️s
 8. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 367 ⭐️s
 9. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 283 ⭐️s
-10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 251 ⭐️s
-11. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 223 ⭐️s
+10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 252 ⭐️s
+11. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 224 ⭐️s
 12. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 221 ⭐️s
 13. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 97 ⭐️s
 14. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 93 ⭐️s
@@ -65,7 +65,7 @@ Last updated at 2024-12-04 12:12:02.949866.
 17. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 38 ⭐️s
 18. [basnijholt/thesis-cover](https://github.com/basnijholt/thesis-cover/), 36 ⭐️s
 19. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 26 ⭐️s
-20. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 21 ⭐️s
+20. [basnijholt/opennb](https://github.com/basnijholt/opennb/), 22 ⭐️s
 
 </details>
 
@@ -95,7 +95,7 @@ Last updated at 2024-12-04 12:12:02.949866.
 17. [home-assistant/core](https://github.com/home-assistant/core/), 192 commits :octocat:
 18. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
 19. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
-20. [basnijholt/basnijholt](https://github.com/basnijholt/basnijholt/), 177 commits :octocat:
+20. [basnijholt/basnijholt](https://github.com/basnijholt/basnijholt/), 178 commits :octocat:
 
 </details>
 
