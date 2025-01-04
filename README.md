@@ -38,15 +38,15 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 [terminal productivity tools](https://www.nijho.lt/post/terminal-ninja/)
 
-Last updated at 2025-01-03 12:11:13.791364.
+Last updated at 2025-01-04 12:10:41.360199.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 2075 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 2078 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1766 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1281 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1282 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1172 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 673 ⭐️s
 <details><summary>Click to expand!</summary>
@@ -88,14 +88,14 @@ Last updated at 2025-01-03 12:11:13.791364.
 10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 334 commits :octocat:
 11. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 304 commits :octocat:
 12. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 289 commits :octocat:
-13. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 288 commits :octocat:
-14. [basnijholt/supercurrent-majorana-nanowire](https://github.com/basnijholt/supercurrent-majorana-nanowire/), 282 commits :octocat:
-15. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 228 commits :octocat:
-16. [basnijholt/basnijholt](https://github.com/basnijholt/basnijholt/), 207 commits :octocat:
-17. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
-18. [home-assistant/core](https://github.com/home-assistant/core/), 192 commits :octocat:
-19. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
-20. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
+13. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 228 commits :octocat:
+14. [basnijholt/basnijholt](https://github.com/basnijholt/basnijholt/), 208 commits :octocat:
+15. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
+16. [home-assistant/core](https://github.com/home-assistant/core/), 192 commits :octocat:
+17. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
+18. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
+19. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 166 commits :octocat:
+20. [basnijholt/pfapack](https://github.com/basnijholt/pfapack/), 160 commits :octocat:
 
 </details>
 
