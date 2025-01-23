@@ -39,13 +39,13 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 [terminal productivity tools](https://www.nijho.lt/post/terminal-ninja/)
 
-Last updated at 2025-01-22 12:11:02.933924.
+Last updated at 2025-01-23 12:11:51.805922.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 2124 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 2128 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1770 ⭐️s
 3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1306 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1178 ⭐️s
@@ -53,12 +53,12 @@ Last updated at 2025-01-22 12:11:02.933924.
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 461 ⭐️s
-7. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 455 ⭐️s
+7. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 456 ⭐️s
 8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 383 ⭐️s
 9. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 371 ⭐️s
-10. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 318 ⭐️s
-11. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 286 ⭐️s
-12. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 275 ⭐️s
+10. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 320 ⭐️s
+11. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 287 ⭐️s
+12. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 276 ⭐️s
 13. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 223 ⭐️s
 14. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 102 ⭐️s
 15. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 94 ⭐️s
@@ -77,26 +77,26 @@ Last updated at 2025-01-22 12:11:02.933924.
 
 1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1797 commits :octocat:
 2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1431 commits :octocat:
-3. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 784 commits :octocat:
-4. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 572 commits :octocat:
-5. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 563 commits :octocat:
+3. [basnijholt/zigzag-majoranas](https://github.com/basnijholt/zigzag-majoranas/), 413 commits :octocat:
+4. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 334 commits :octocat:
+5. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 289 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 480 commits :octocat:
-7. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 452 commits :octocat:
-8. [basnijholt/zigzag-majoranas](https://github.com/basnijholt/zigzag-majoranas/), 413 commits :octocat:
-9. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 381 commits :octocat:
-10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 334 commits :octocat:
-11. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 304 commits :octocat:
-12. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 289 commits :octocat:
-13. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 288 commits :octocat:
-14. [basnijholt/supercurrent-majorana-nanowire](https://github.com/basnijholt/supercurrent-majorana-nanowire/), 282 commits :octocat:
-15. [basnijholt/basnijholt](https://github.com/basnijholt/basnijholt/), 230 commits :octocat:
-16. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 228 commits :octocat:
-17. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 207 commits :octocat:
-18. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
-19. [home-assistant/core](https://github.com/home-assistant/core/), 192 commits :octocat:
-20. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
+6. [basnijholt/supercurrent-majorana-nanowire](https://github.com/basnijholt/supercurrent-majorana-nanowire/), 282 commits :octocat:
+7. [basnijholt/basnijholt](https://github.com/basnijholt/basnijholt/), 231 commits :octocat:
+8. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 228 commits :octocat:
+9. [home-assistant/core](https://github.com/home-assistant/core/), 192 commits :octocat:
+10. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
+11. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
+12. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 166 commits :octocat:
+13. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 157 commits :octocat:
+14. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
+15. [microsoft/Qcodes](https://github.com/microsoft/Qcodes/), 109 commits :octocat:
+16. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 98 commits :octocat:
+17. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 80 commits :octocat:
+18. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 80 commits :octocat:
+19. [basnijholt/wenfire](https://github.com/basnijholt/wenfire/), 76 commits :octocat:
+20. [conda-forge/kwant-feedstock](https://github.com/conda-forge/kwant-feedstock/), 65 commits :octocat:
 
 </details>
 
