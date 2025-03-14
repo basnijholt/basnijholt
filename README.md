@@ -39,15 +39,15 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 [terminal productivity tools](https://www.nijho.lt/post/terminal-ninja/)
 
-Last updated at 2025-03-13 12:11:38.865111.
+Last updated at 2025-03-14 12:11:21.883426.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 2232 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 2234 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1787 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1348 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1350 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1183 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 722 ⭐️s
 <details><summary>Click to expand!</summary>
@@ -56,7 +56,7 @@ Last updated at 2025-03-13 12:11:38.865111.
 7. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 465 ⭐️s
 8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 384 ⭐️s
 9. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 374 ⭐️s
-10. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 337 ⭐️s
+10. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 339 ⭐️s
 11. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 292 ⭐️s
 12. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 285 ⭐️s
 13. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 228 ⭐️s
@@ -87,15 +87,15 @@ Last updated at 2025-03-13 12:11:38.865111.
 8. [basnijholt/zigzag-majoranas](https://github.com/basnijholt/zigzag-majoranas/), 413 commits :octocat:
 9. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 405 commits :octocat:
 10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 334 commits :octocat:
-11. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 304 commits :octocat:
-12. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 289 commits :octocat:
-13. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 288 commits :octocat:
-14. [basnijholt/supercurrent-majorana-nanowire](https://github.com/basnijholt/supercurrent-majorana-nanowire/), 282 commits :octocat:
-15. [basnijholt/basnijholt](https://github.com/basnijholt/basnijholt/), 280 commits :octocat:
-16. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 228 commits :octocat:
-17. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 219 commits :octocat:
-18. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
-19. [home-assistant/core](https://github.com/home-assistant/core/), 192 commits :octocat:
+11. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 289 commits :octocat:
+12. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 288 commits :octocat:
+13. [basnijholt/supercurrent-majorana-nanowire](https://github.com/basnijholt/supercurrent-majorana-nanowire/), 282 commits :octocat:
+14. [basnijholt/basnijholt](https://github.com/basnijholt/basnijholt/), 281 commits :octocat:
+15. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 228 commits :octocat:
+16. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 219 commits :octocat:
+17. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
+18. [home-assistant/core](https://github.com/home-assistant/core/), 192 commits :octocat:
+19. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
 20. [ohld/igbot](https://github.com/ohld/igbot/), 191 commits :octocat:
 
 </details>
