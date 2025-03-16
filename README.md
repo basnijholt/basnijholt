@@ -39,26 +39,26 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 [terminal productivity tools](https://www.nijho.lt/post/terminal-ninja/)
 
-Last updated at 2025-03-15 12:10:36.537498.
+Last updated at 2025-03-16 12:11:04.507827.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 2234 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 2235 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1786 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1350 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1351 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1184 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 722 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 723 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 482 ⭐️s
+6. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 483 ⭐️s
 7. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 465 ⭐️s
 8. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 384 ⭐️s
 9. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 374 ⭐️s
 10. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 342 ⭐️s
 11. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 293 ⭐️s
-12. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 285 ⭐️s
+12. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 286 ⭐️s
 13. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 228 ⭐️s
 14. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 104 ⭐️s
 15. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 94 ⭐️s
@@ -76,27 +76,27 @@ Last updated at 2025-03-15 12:10:36.537498.
 ## number of commits :octocat:
 
 1. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1433 commits :octocat:
-2. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 572 commits :octocat:
-3. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 452 commits :octocat:
-4. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 405 commits :octocat:
-5. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 304 commits :octocat:
+2. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 788 commits :octocat:
+3. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 572 commits :octocat:
+4. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 492 commits :octocat:
+5. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 452 commits :octocat:
 <details><summary>Click to expand!</summary>
 
-6. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 289 commits :octocat:
-7. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 288 commits :octocat:
-8. [basnijholt/basnijholt](https://github.com/basnijholt/basnijholt/), 282 commits :octocat:
-9. [basnijholt/net-worth-tracker](https://github.com/basnijholt/net-worth-tracker/), 228 commits :octocat:
-10. [home-assistant/core](https://github.com/home-assistant/core/), 192 commits :octocat:
-11. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
-12. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 166 commits :octocat:
-13. [basnijholt/pfapack](https://github.com/basnijholt/pfapack/), 160 commits :octocat:
-14. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 157 commits :octocat:
-15. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 150 commits :octocat:
-16. [basnijholt/instacron](https://github.com/basnijholt/instacron/), 115 commits :octocat:
-17. [microsoft/Qcodes](https://github.com/microsoft/Qcodes/), 109 commits :octocat:
-18. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 98 commits :octocat:
-19. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 80 commits :octocat:
-20. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 69 commits :octocat:
+6. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 334 commits :octocat:
+7. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 304 commits :octocat:
+8. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 289 commits :octocat:
+9. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 288 commits :octocat:
+10. [basnijholt/basnijholt](https://github.com/basnijholt/basnijholt/), 283 commits :octocat:
+11. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 219 commits :octocat:
+12. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 214 commits :octocat:
+13. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
+14. [home-assistant/core](https://github.com/home-assistant/core/), 192 commits :octocat:
+15. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
+16. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 166 commits :octocat:
+17. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 157 commits :octocat:
+18. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
+19. [microsoft/Qcodes](https://github.com/microsoft/Qcodes/), 109 commits :octocat:
+20. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 98 commits :octocat:
 
 </details>
 
