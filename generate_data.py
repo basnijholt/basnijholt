@@ -330,8 +330,10 @@ async def generate_data() -> Data:
     os.makedirs("data", exist_ok=True)
     async with gh_client(TOKEN) as gh:
         repos = await generate_repos_data(gh)
-        most_committed = await generate_most_committed_data(repos, gh)
-        stargazers = await generate_stargazers_data(repos, gh)
+        most_committed, stargazers = await asyncio.gather(
+            generate_most_committed_data(repos, gh),
+            generate_stargazers_data(repos, gh),
+        )
         all_commit_dates = await generate_commit_dates_data(most_committed, gh)
     day_hist, hour_hist = generate_day_hour_histograms(all_commit_dates)
     return Data(
