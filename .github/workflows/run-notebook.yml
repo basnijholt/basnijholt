@@ -15,21 +15,21 @@ jobs:
     env:
       TOKEN: ${{ secrets.TOKEN }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           persist-credentials: false
           fetch-depth: 0
-      - uses: actions/setup-python@v4
+      - uses: actions/setup-python@v6
         with:
-          python-version: 3.12
+          python-version: 3.14
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@v7
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip setuptools
-          pip install -r requirements.txt
+        run: uv sync
       - name: Run notebook
         run: |
-          python ipynb_filter.py
-          jupyter-nbconvert --execute --inplace --ExecutePreprocessor.timeout=3200 update-readme.ipynb
+          uv run python ipynb_filter.py
+          uv run jupyter-nbconvert --execute --inplace --ExecutePreprocessor.timeout=3200 update-readme.ipynb
       - name: Commit files
         run: |
           git config --local user.email "bas@nijho.lt"
