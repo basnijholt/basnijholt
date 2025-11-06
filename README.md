@@ -19,13 +19,14 @@
   - 📈 **[python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/)**: Parallel active learning of mathematical functions? Check!
   - 🧬 **[unidep](https://github.com/basnijholt/unidep/)**: Unifying pip and conda requirements, single command to set up a full dev environment.
   - 🕸️ **[pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/)**: Lightweight function pipeline (DAG) creation in pure Python for scientific (HPC) workflows.
-  - 💡 **[adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/)**: A custom component for Home Assistant to keep your lighting in synn with the sun.
+  - 💡 **[adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/)**: A custom component for Home Assistant to keep your lighting in sync with the sun.
+  - 🤖 **[agent-cli](https://github.com/basnijholt/agent-cli/)**: A voice and local first set of AI tools including OS-level hotkey integration for transcription right to clipboard.
   - 📝 **[markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/)**: Run (hidden) code blocks right within your Markdown files - keep simple `README.md`s in sync!
   - 🕒 **[rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/)**: Time Machine-style backups with rsync for the minimalists.
   - 🏠 **[home-assistant-config](https://github.com/basnijholt/home-assistant-config/)**: Over 100 documented automations in my Home Assistant config
   - 📚 **[tuitorial](https://github.com/basnijholt/tuitorial/)**: Create beautiful terminal-based code tutorials / presentations
-  - 🧰 **[dotbins](https://github.com/basnijholt/dotbins/)**: Manage binary CLI tools right in a version-controlled Git repo that works on all systems and architechtures
-  - 🔑 **[dotfiles](https://github.com/basnijholt/dotfiles/)**: My dotfiles in a well-documented Git repo that works on all systems and architechtures (personally used for >10 of my systems)
+  - 🧰 **[dotbins](https://github.com/basnijholt/dotbins/)**: Manage binary CLI tools right in a version-controlled Git repo that works on all systems and architectures
+  - 🔑 **[dotfiles](https://github.com/basnijholt/dotfiles/)**: My dotfiles in a well-documented Git repo that works on all systems and architectures (personally used for >10 of my systems)
 
 Below are some (automatically generated) statistics about my activity on GitHub.
 For more info check out my website [www.nijho.lt](http://nijho.lt/) or talk to me on <a rel="me" href="https://fosstodon.org/@basnijholt">Mastodon</a>.
@@ -41,29 +42,29 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 terminal productivity tools ([[1]](https://www.nijho.lt/post/terminal-ninja/), [[2]](https://github.com/basnijholt/dotbins), [[3]](https://www.nijho.lt/post/dotbins/), [[4]](https://www.nijho.lt/post/dotfiles/), [[5]](https://github.com/basnijholt/dotfiles))
 
-Last updated at 2025-11-04 18:46:46.566168.
+Last updated at 2025-11-06 18:58:58.889321.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 2603 ⭐️s
-2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1849 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1515 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 2605 ⭐️s
+2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1850 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1519 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1204 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 811 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 814 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 516 ⭐️s
 7. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 477 ⭐️s
 8. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 427 ⭐️s
-9. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 401 ⭐️s
-10. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 374 ⭐️s
+9. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 400 ⭐️s
+10. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 373 ⭐️s
 11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 320 ⭐️s
 12. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 312 ⭐️s
 13. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 238 ⭐️s
-14. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 207 ⭐️s
-15. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 114 ⭐️s
+14. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 208 ⭐️s
+15. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 115 ⭐️s
 16. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 101 ⭐️s
 17. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 94 ⭐️s
 18. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 94 ⭐️s
@@ -74,37 +75,5 @@ Last updated at 2025-11-04 18:46:46.566168.
 
 ![](https://github.com/basnijholt/basnijholt/raw/main/stars_over_time.png)
 ![](https://github.com/basnijholt/basnijholt/raw/main/stars_over_time_per_repo.png)
-
-## number of commits :octocat:
-
-1. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1806 commits :octocat:
-2. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1442 commits :octocat:
-3. [basnijholt/adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler/), 812 commits :octocat:
-4. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 799 commits :octocat:
-5. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 504 commits :octocat:
-<details><summary>Click to expand!</summary>
-
-6. [basnijholt/nijho.lt](https://github.com/basnijholt/nijho.lt/), 481 commits :octocat:
-7. [basnijholt/thesis](https://github.com/basnijholt/thesis/), 452 commits :octocat:
-8. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 343 commits :octocat:
-9. [basnijholt/basnijholt](https://github.com/basnijholt/basnijholt/), 326 commits :octocat:
-10. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 304 commits :octocat:
-11. [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes/), 289 commits :octocat:
-12. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 288 commits :octocat:
-13. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 221 commits :octocat:
-14. [python-adaptive/paper](https://github.com/python-adaptive/paper/), 198 commits :octocat:
-15. [basnijholt/spin-orbit-nanowires](https://github.com/basnijholt/spin-orbit-nanowires/), 191 commits :octocat:
-16. [basnijholt/pfapack](https://github.com/basnijholt/pfapack/), 160 commits :octocat:
-17. [basnijholt/media_player.kef](https://github.com/basnijholt/media_player.kef/), 157 commits :octocat:
-18. [basnijholt/hpc05](https://github.com/basnijholt/hpc05/), 152 commits :octocat:
-19. [basnijholt/assistant-ui-anywidget](https://github.com/basnijholt/assistant-ui-anywidget/), 137 commits :octocat:
-20. [basnijholt/wenfire](https://github.com/basnijholt/wenfire/), 133 commits :octocat:
-
-</details>
-
-![](https://github.com/basnijholt/basnijholt/raw/main/commits_per_hour.png)
-
-![](https://github.com/basnijholt/basnijholt/raw/main/commits_per_weekday.png)
-
 
 These plots and stats are generated by this [Jupyter notebook](./update-readme.ipynb) using this [GitHub Action](.github/workflows/run-notebook.yml).
