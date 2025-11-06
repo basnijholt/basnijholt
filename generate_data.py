@@ -2,11 +2,11 @@
 from __future__ import annotations
 
 import asyncio
-import json
-from collections.abc import Iterable
 import logging
 import os
-from collections import Counter, defaultdict
+import json
+from collections import defaultdict
+from collections.abc import Iterable
 from contextlib import asynccontextmanager
 from datetime import datetime
 from typing import Any, TypeAlias, TypedDict, NamedTuple
@@ -23,7 +23,6 @@ ME = "basnijholt"
 orgs = (ME, "python-adaptive", "topocm", "python-kasa", "kwant-project", "pipefunc")
 RepoDict: TypeAlias = dict[str, Any]
 OrgRepoDict: TypeAlias = dict[str, Any]
-CommitDict: TypeAlias = dict[str, Any]
 
 
 def load_token() -> str:
@@ -40,6 +39,23 @@ RETRY_KW = {
     "wait": tenacity.wait_fixed(180),
     "before": tenacity.before_log(log, logging.DEBUG),
 }
+
+GRAPHQL_URL = "https://api.github.com/graphql"
+STARGAZER_QUERY = """
+query ($owner: String!, $name: String!, $after: String) {
+  repository(owner: $owner, name: $name) {
+    stargazers(first: 100, after: $after) {
+      edges {
+        starredAt
+      }
+      pageInfo {
+        hasNextPage
+        endCursor
+      }
+    }
+  }
+}
+"""
 
 
 @asynccontextmanager
@@ -66,150 +82,69 @@ async def get_all_repos_in_orgs(
     return sum(all_repos, [])
 
 
-@tenacity.retry(**RETRY_KW)
-async def get_repo(full_repo_name: str, gh: gidgethub.httpx.GitHubAPI) -> RepoDict:
-    owner, name = full_repo_name.split("/")
-    return await getitem(gh, f"/repos/{owner}/{name}")
-
-
-async def get_repos(
-    full_repo_names: list[str], gh: gidgethub.httpx.GitHubAPI
-) -> list[RepoDict]:
-    tasks = [get_repo(full_repo_name, gh) for full_repo_name in full_repo_names]
-    return await asyncio.gather(*tasks)
-
-
-async def getitem(
-    gh: gidgethub.httpx.GitHubAPI,
-    url: str,
-    n_tries: int = 5,
-    extra_headers: dict[str, str] | None = None,
-    sleep_time: int = 60,
-) -> Any:
-    for _ in range(n_tries):
-        status_response = await gh.getstatus(url)
-        if status_response == 200:
-            # Data is ready, retrieve it
-            return await gh.getitem(url, extra_headers=extra_headers)
-        elif status_response == 202:
-            # Data is not ready yet, wait and then retry
-            await asyncio.sleep(sleep_time)
-        else:
-            # Handle other HTTP response statuses appropriately
-            msg = f"Received unexpected status code: {status_response.status_code}"
-            raise Exception(
-                msg,
-            )
-    raise Exception(f"Failed to retrieve data from {url} after {n_tries} attempts.")
-
-
-@tenacity.retry(**RETRY_KW)
-async def get_n_commits(
-    full_repo_name: str,
-    gh: gidgethub.httpx.GitHubAPI,
-    user: str = ME,
-) -> tuple[str, int] | None:
-    owner, name = full_repo_name.split("/")
-    try:
-        stats_contributors = await getitem(
-            gh,
-            f"/repos/{owner}/{name}/stats/contributors",
-        )
-    except Exception:
-        return None
-
-    if stats_contributors is None:
-        return None
-
-    total_commits = next(
-        (s["total"] for s in stats_contributors if s["author"]["login"] == user),
-        0,
-    )
-    return full_repo_name, total_commits
-
-
-@tenacity.retry(**RETRY_KW)
-async def get_stargazers_page_with_dates(
-    gh: gidgethub.httpx.GitHubAPI,
-    owner: str,
-    name: str,
-    page: int,
-    extra_headers: dict[str, str],
-) -> list[datetime]:
-    stats_contributors = await getitem(
-        gh,
-        f"/repos/{owner}/{name}/stargazers?per_page=100&page={page}",
-        extra_headers=extra_headers,
-    )
-    return [
-        datetime.strptime(s["starred_at"], "%Y-%m-%dT%H:%M:%SZ")
-        for s in stats_contributors
-    ]
-
-
-@tenacity.retry(**RETRY_KW)
-async def get_stargazers_with_dates(
-    full_repo_name: str,
-    gh: gidgethub.httpx.GitHubAPI,
-) -> list[datetime]:
-    headers = {"Accept": "application/vnd.github.v3.star+json"}
-    starred = []
-    owner, name = full_repo_name.split("/")
-    page = 1
-    while True:
-        starred_at = await get_stargazers_page_with_dates(
-            gh,
-            owner,
-            name,
-            page,
-            headers,
-        )
-        if not starred_at:
-            break
-        starred.extend(starred_at)
-        page += 1
-    return starred
-
-
-@tenacity.retry(**RETRY_KW)
-async def get_commits(
-    full_repo_name: str,
-    gh: gidgethub.httpx.GitHubAPI,
-    author: str = ME,
-) -> list[CommitDict]:
-    owner, name = full_repo_name.split("/")
-    commits = []
-    async for commit in gh.getiter(
-        f"/repos/{owner}/{name}/commits?author={author}&per_page=100",
-    ):
-        commits.append(commit)
-    return commits
-
-
-def split(x: list, at_index: int = 5) -> tuple[list, list]:
-    return x[:at_index], x[at_index:]
-
-
-weekdays = [
-    "Monday",
-    "Tuesday",
-    "Wednesday",
-    "Thursday",
-    "Friday",
-    "Saturday",
-    "Sunday",
-]
-
-
 async def generate_repos_data(gh: gidgethub.httpx.GitHubAPI) -> list[RepoDict]:
     org_repos = await get_all_repos_in_orgs(orgs, gh)
-    full_repo_names = [repo["full_name"] for repo in org_repos]
-    repos = await get_repos(full_repo_names, gh)
+    deduped: dict[str, RepoDict] = {}
+    for repo in org_repos:
+        full_name = repo["full_name"]
+        if full_name not in deduped:
+            deduped[full_name] = repo
+    repos = list(deduped.values())
 
     with open("data/repos.json", "w") as f:
         json.dump(list(repos), f, indent=2)
 
     return repos
+
+
+async def graphql_request(
+    client: httpx.AsyncClient,
+    query: str,
+    variables: dict[str, Any],
+) -> dict[str, Any]:
+    response = await client.post(
+        GRAPHQL_URL,
+        json={"query": query, "variables": variables},
+    )
+    response.raise_for_status()
+    payload = response.json()
+    if "errors" in payload:
+        raise RuntimeError(payload["errors"])
+    return payload["data"]
+
+
+async def fetch_new_stargazer_dates(
+    client: httpx.AsyncClient,
+    owner: str,
+    name: str,
+    latest_known: str | None,
+) -> list[str]:
+    after: str | None = None
+    collected: list[str] = []
+    while True:
+        data = await graphql_request(
+            client,
+            STARGAZER_QUERY,
+            {"owner": owner, "name": name, "after": after},
+        )
+        repository = data.get("repository")
+        if not repository:
+            break
+        stargazers = repository["stargazers"]
+        edges = stargazers["edges"]
+        if not edges:
+            break
+        stop = False
+        for edge in edges:
+            starred_at = edge["starredAt"]
+            if latest_known and starred_at <= latest_known:
+                stop = True
+                break
+            collected.append(starred_at)
+        if stop or not stargazers["pageInfo"]["hasNextPage"]:
+            break
+        after = stargazers["pageInfo"]["endCursor"]
+    return collected
 
 
 def generate_most_stars_data(repos: list[RepoDict]) -> list[dict[str, str | int]]:
@@ -229,100 +164,67 @@ def generate_most_stars_data(repos: list[RepoDict]) -> list[dict[str, str | int]
     ]
 
 
-async def generate_most_committed_data(
-    repos: list[RepoDict],
-    gh: gidgethub.httpx.GitHubAPI,
-) -> list[tuple[str, int]]:
-    to_check = []
-    for repo in repos:
-        full_name = (
-            repo["full_name"] if not repo["fork"] else repo["source"]["full_name"]
-        )
-        if full_name in (
-            "regro/cf-graph-countyfair",
-            "volumio/Volumio2",
-            "CJ-Wright/cf-graph-countyfair",
-        ):
-            continue
-        to_check.append(full_name)
-
-    commits = await asyncio.gather(
-        *[get_n_commits(full_name, gh) for full_name in to_check],
-    )
-    commits = [c for c in commits if c is not None]
-    most_committed = sorted(set(commits), key=lambda x: x[1], reverse=True)
-
-    with open("data/most_committed.json", "w") as f:
-        json.dump(list(most_committed), f, indent=2)
-
-    return most_committed
+def split(x: list, at_index: int = 5) -> tuple[list, list]:
+    return x[:at_index], x[at_index:]
 
 
 class StargazersDict(TypedDict):
     full_name: str
     dates: list[str]
     stargazer_count: int
+    stargazers_count: int
 
 
 async def generate_stargazers_data(
-    repos: list[RepoDict], gh: gidgethub.httpx.GitHubAPI
+    repos: list[RepoDict],
 ) -> list[StargazersDict]:
-    most_stars = generate_most_stars_data(repos)
-    stargazers = await asyncio.gather(
-        *[get_stargazers_with_dates(r["full_name"], gh) for r in most_stars[:20]],
-    )
-    stargazers = [
-        {**r, "dates": [date.isoformat() for date in date_list]}
-        for r, date_list in zip(most_stars, stargazers)
-    ]
+    most_stars = generate_most_stars_data(repos)[:20]
+
+    existing: dict[str, list[str]] = {}
+    try:
+        with open("data/stargazers.json", "r") as f:
+            for entry in json.load(f):
+                existing[entry["full_name"]] = entry["dates"]
+    except FileNotFoundError:
+        pass
+
+    async with httpx.AsyncClient(
+        headers={
+            "Authorization": f"Bearer {TOKEN}",
+            "Accept": "application/json",
+        },
+        timeout=60,
+    ) as client:
+        results = []
+        for repo in most_stars:
+            full_name = repo["full_name"]
+            owner, name = full_name.split("/", 1)
+            known_dates = sorted(set(existing.get(full_name, [])))
+            latest_known = known_dates[-1] if known_dates else None
+            new_dates = await fetch_new_stargazer_dates(
+                client, owner, name, latest_known
+            )
+            if new_dates:
+                known_dates = sorted(set(known_dates + new_dates))
+            results.append(
+                {
+                    "full_name": full_name,
+                    "dates": known_dates,
+                    "stargazer_count": len(known_dates),
+                    "stargazers_count": len(known_dates),
+                }
+            )
+
+    stargazers = results
     with open("data/stargazers.json", "w") as f:
         json.dump(stargazers, f, indent=2)
 
     return stargazers
 
 
-async def generate_commit_dates_data(
-    most_committed: list[tuple[str, int]],
-    gh: gidgethub.httpx.GitHubAPI,
-) -> list[datetime]:
-    all_commits = await asyncio.gather(
-        *[get_commits(full_name, gh) for full_name, _ in most_committed[:5]],
-    )
-    all_commits = sum(all_commits, [])
-    all_commit_dates = [
-        datetime.strptime(c["commit"]["author"]["date"], "%Y-%m-%dT%H:%M:%SZ")
-        for c in all_commits
-    ]
-
-    with open("data/all_commit_dates.json", "w") as f:
-        json.dump([str(date) for date in all_commit_dates], f, indent=2)
-
-    return all_commit_dates
-
-
-def generate_day_hour_histograms(
-    all_commit_dates: list[datetime],
-) -> tuple[list[tuple[str, int]], list[tuple[str, int]]]:
-    day_hist = [
-        (weekdays[i], n)
-        for i, n in sorted(Counter([d.weekday() for d in all_commit_dates]).items())
-    ]
-
-    hour_hist = [
-        (f"{i:02d}", n)
-        for i, n in sorted(Counter([d.hour for d in all_commit_dates]).items())
-    ]
-
-    return day_hist, hour_hist
-
-
 class Data(NamedTuple):
     repos: list[RepoDict]
-    most_committed: list[tuple[str, int]]
     stargazers: list[StargazersDict]
-    all_commit_dates: list[datetime]
-    day_hist: list[tuple[str, int]]
-    hour_hist: list[tuple[str, int]]
 
 
 async def generate_data() -> Data:
@@ -330,19 +232,10 @@ async def generate_data() -> Data:
     os.makedirs("data", exist_ok=True)
     async with gh_client(TOKEN) as gh:
         repos = await generate_repos_data(gh)
-        most_committed, stargazers = await asyncio.gather(
-            generate_most_committed_data(repos, gh),
-            generate_stargazers_data(repos, gh),
-        )
-        all_commit_dates = await generate_commit_dates_data(most_committed, gh)
-    day_hist, hour_hist = generate_day_hour_histograms(all_commit_dates)
+        stargazers = await generate_stargazers_data(repos)
     return Data(
         repos=repos,
-        most_committed=most_committed,
         stargazers=stargazers,
-        all_commit_dates=all_commit_dates,
-        day_hist=day_hist,
-        hour_hist=hour_hist,
     )
 
 
@@ -350,25 +243,20 @@ def load_data() -> Data:
     with open("data/repos.json", "r") as f:
         repos = json.load(f)
 
-    with open("data/most_committed.json", "r") as f:
-        most_committed = json.load(f)
-
     with open("data/stargazers.json", "r") as f:
         stargazers = json.load(f)
         for info in stargazers:
             info["dates"] = [datetime.fromisoformat(date) for date in info["dates"]]
+            if "stargazers_count" not in info:
+                info["stargazers_count"] = info.get(
+                    "stargazer_count", len(info["dates"])
+                )
+            if "stargazer_count" not in info:
+                info["stargazer_count"] = len(info["dates"])
 
-    with open("data/all_commit_dates.json", "r") as f:
-        all_commit_dates = [datetime.fromisoformat(date) for date in json.load(f)]
-
-    day_hist, hour_hist = generate_day_hour_histograms(all_commit_dates)
     return Data(
         repos=repos,
-        most_committed=most_committed,
         stargazers=stargazers,
-        all_commit_dates=all_commit_dates,
-        day_hist=day_hist,
-        hour_hist=hour_hist,
     )
 
 
