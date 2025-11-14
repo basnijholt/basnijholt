@@ -42,28 +42,28 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 terminal productivity tools ([[1]](https://www.nijho.lt/post/terminal-ninja/), [[2]](https://github.com/basnijholt/dotbins), [[3]](https://www.nijho.lt/post/dotbins/), [[4]](https://www.nijho.lt/post/dotfiles/), [[5]](https://github.com/basnijholt/dotfiles))
 
-Last updated at 2025-11-13 12:07:28.222391.
+Last updated at 2025-11-14 12:07:08.551009.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
 1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 2620 ⭐️s
-2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1851 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1527 ⭐️s
+2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1852 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1529 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1204 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 814 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 515 ⭐️s
 7. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 477 ⭐️s
-8. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 429 ⭐️s
+8. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 430 ⭐️s
 9. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 400 ⭐️s
 10. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 373 ⭐️s
 11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 321 ⭐️s
 12. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 313 ⭐️s
 13. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 238 ⭐️s
-14. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 212 ⭐️s
+14. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 213 ⭐️s
 15. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 116 ⭐️s
 16. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 101 ⭐️s
 17. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 95 ⭐️s
