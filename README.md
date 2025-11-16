@@ -42,15 +42,15 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 terminal productivity tools ([[1]](https://www.nijho.lt/post/terminal-ninja/), [[2]](https://github.com/basnijholt/dotbins), [[3]](https://www.nijho.lt/post/dotbins/), [[4]](https://www.nijho.lt/post/dotfiles/), [[5]](https://github.com/basnijholt/dotfiles))
 
-Last updated at 2025-11-15 12:06:29.397024.
+Last updated at 2025-11-16 12:06:31.650971.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 2622 ⭐️s
-2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1852 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1530 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 2625 ⭐️s
+2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1853 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1531 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1204 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 815 ⭐️s
 <details><summary>Click to expand!</summary>
@@ -68,7 +68,7 @@ Last updated at 2025-11-15 12:06:29.397024.
 16. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 101 ⭐️s
 17. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 95 ⭐️s
 18. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 94 ⭐️s
-19. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 50 ⭐️s
+19. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 51 ⭐️s
 20. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 40 ⭐️s
 
 </details>
