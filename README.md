@@ -42,13 +42,13 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 terminal productivity tools ([[1]](https://www.nijho.lt/post/terminal-ninja/), [[2]](https://github.com/basnijholt/dotbins), [[3]](https://www.nijho.lt/post/dotbins/), [[4]](https://www.nijho.lt/post/dotfiles/), [[5]](https://github.com/basnijholt/dotfiles))
 
-Last updated at 2025-11-28 12:07:17.466679.
+Last updated at 2025-11-29 12:06:38.285709.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 2650 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 2655 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1860 ⭐️s
 3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1544 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1206 ⭐️s
@@ -63,12 +63,12 @@ Last updated at 2025-11-28 12:07:17.466679.
 11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 322 ⭐️s
 12. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 312 ⭐️s
 13. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 240 ⭐️s
-14. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 219 ⭐️s
+14. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 220 ⭐️s
 15. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 117 ⭐️s
 16. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 101 ⭐️s
 17. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 96 ⭐️s
 18. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 94 ⭐️s
-19. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 54 ⭐️s
+19. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 56 ⭐️s
 20. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 40 ⭐️s
 
 </details>
