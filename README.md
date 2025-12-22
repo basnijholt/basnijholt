@@ -27,6 +27,7 @@
   - 📚 **[tuitorial](https://github.com/basnijholt/tuitorial/)**: Create beautiful terminal-based code tutorials / presentations
   - 🧰 **[dotbins](https://github.com/basnijholt/dotbins/)**: Manage binary CLI tools right in a version-controlled Git repo that works on all systems and architectures
   - 🔑 **[dotfiles](https://github.com/basnijholt/dotfiles/)**: My dotfiles in a well-documented Git repo that works on all systems and architectures (personally used for >10 of my systems)
+  - 🌾 **[compose-farm](https://github.com/basnijholt/compose-farm/)**: Manage Docker Compose stacks across multiple hosts via SSH - simpler than Kubernetes, works with existing compose files.
 
 Below are some (automatically generated) statistics about my activity on GitHub.
 For more info check out my website [www.nijho.lt](http://nijho.lt/) or talk to me on <a rel="me" href="https://fosstodon.org/@basnijholt">Mastodon</a>.
@@ -42,31 +43,31 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 terminal productivity tools ([[1]](https://www.nijho.lt/post/terminal-ninja/), [[2]](https://github.com/basnijholt/dotbins), [[3]](https://www.nijho.lt/post/dotbins/), [[4]](https://www.nijho.lt/post/dotfiles/), [[5]](https://github.com/basnijholt/dotfiles))
 
-Last updated at 2025-12-22 12:07:40.150014.
+Last updated at 2025-12-22 16:06:04.192846.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 2909 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 2910 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1868 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1560 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1559 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1209 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 825 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 519 ⭐️s
-7. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 477 ⭐️s
+7. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 478 ⭐️s
 8. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 436 ⭐️s
 9. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 401 ⭐️s
-10. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 373 ⭐️s
-11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 336 ⭐️s
+10. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 374 ⭐️s
+11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 337 ⭐️s
 12. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 313 ⭐️s
 13. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 240 ⭐️s
-14. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 229 ⭐️s
+14. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 230 ⭐️s
 15. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 118 ⭐️s
 16. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 102 ⭐️s
-17. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 96 ⭐️s
+17. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 97 ⭐️s
 18. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 93 ⭐️s
 19. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 67 ⭐️s
 20. [basnijholt/aiokef](https://github.com/basnijholt/aiokef/), 40 ⭐️s
