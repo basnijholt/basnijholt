@@ -42,25 +42,25 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 terminal productivity tools ([[1]](https://www.nijho.lt/post/terminal-ninja/), [[2]](https://github.com/basnijholt/dotbins), [[3]](https://www.nijho.lt/post/dotbins/), [[4]](https://www.nijho.lt/post/dotfiles/), [[5]](https://github.com/basnijholt/dotfiles))
 
-Last updated at 2025-12-21 12:06:47.601029.
+Last updated at 2025-12-22 12:07:40.150014.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 2906 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 2909 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1868 ⭐️s
 3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1560 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1209 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 824 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 825 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 518 ⭐️s
+6. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 519 ⭐️s
 7. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 477 ⭐️s
 8. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 436 ⭐️s
 9. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 401 ⭐️s
 10. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 373 ⭐️s
-11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 335 ⭐️s
+11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 336 ⭐️s
 12. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 313 ⭐️s
 13. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 240 ⭐️s
 14. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 229 ⭐️s
