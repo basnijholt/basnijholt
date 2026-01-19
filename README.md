@@ -34,15 +34,15 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 terminal productivity tools ([[1]](https://www.nijho.lt/post/terminal-ninja/), [[2]](https://github.com/basnijholt/dotbins), [[3]](https://www.nijho.lt/post/dotbins/), [[4]](https://www.nijho.lt/post/dotfiles/), [[5]](https://github.com/basnijholt/dotfiles))
 
-Last updated at 2026-01-18 12:07:39.535302.
+Last updated at 2026-01-19 12:08:30.725823.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
 1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3041 ⭐️s
-2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1887 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1580 ⭐️s
+2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1888 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1582 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1213 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 838 ⭐️s
 <details><summary>Click to expand!</summary>
@@ -53,8 +53,8 @@ Last updated at 2026-01-18 12:07:39.535302.
 9. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 402 ⭐️s
 10. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 374 ⭐️s
 11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 346 ⭐️s
-12. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 318 ⭐️s
-13. [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm/), 257 ⭐️s
+12. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 317 ⭐️s
+13. [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm/), 259 ⭐️s
 14. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 241 ⭐️s
 15. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 239 ⭐️s
 16. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 121 ⭐️s
