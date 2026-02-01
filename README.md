@@ -34,13 +34,13 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 terminal productivity tools ([[1]](https://www.nijho.lt/post/terminal-ninja/), [[2]](https://github.com/basnijholt/dotbins), [[3]](https://www.nijho.lt/post/dotbins/), [[4]](https://www.nijho.lt/post/dotfiles/), [[5]](https://github.com/basnijholt/dotfiles))
 
-Last updated at 2026-01-31 12:07:47.069460.
+Last updated at 2026-02-01 12:08:41.446176.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3080 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3085 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1907 ⭐️s
 3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1589 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1213 ⭐️s
@@ -49,12 +49,12 @@ Last updated at 2026-01-31 12:07:47.069460.
 
 6. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 520 ⭐️s
 7. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 480 ⭐️s
-8. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 442 ⭐️s
+8. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 443 ⭐️s
 9. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 404 ⭐️s
 10. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 374 ⭐️s
-11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 349 ⭐️s
+11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 350 ⭐️s
 12. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 317 ⭐️s
-13. [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm/), 274 ⭐️s
+13. [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm/), 276 ⭐️s
 14. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 243 ⭐️s
 15. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 241 ⭐️s
 16. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 123 ⭐️s
