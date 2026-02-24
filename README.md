@@ -34,17 +34,17 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 terminal productivity tools ([[1]](https://www.nijho.lt/post/terminal-ninja/), [[2]](https://github.com/basnijholt/dotbins), [[3]](https://www.nijho.lt/post/dotbins/), [[4]](https://www.nijho.lt/post/dotfiles/), [[5]](https://github.com/basnijholt/dotfiles))
 
-Last updated at 2026-02-23 12:13:52.356076.
+Last updated at 2026-02-24 12:14:48.938121.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3139 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3141 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1926 ⭐️s
 3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1611 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1216 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 846 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 848 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 523 ⭐️s
@@ -53,12 +53,12 @@ Last updated at 2026-02-23 12:13:52.356076.
 9. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 404 ⭐️s
 10. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 374 ⭐️s
 11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 352 ⭐️s
-12. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 318 ⭐️s
-13. [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm/), 292 ⭐️s
+12. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 320 ⭐️s
+13. [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm/), 293 ⭐️s
 14. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 251 ⭐️s
 15. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 242 ⭐️s
 16. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 123 ⭐️s
-17. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 118 ⭐️s
+17. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 119 ⭐️s
 18. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 105 ⭐️s
 19. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 102 ⭐️s
 20. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 93 ⭐️s
