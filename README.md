@@ -34,14 +34,14 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 terminal productivity tools ([[1]](https://www.nijho.lt/post/terminal-ninja/), [[2]](https://github.com/basnijholt/dotbins), [[3]](https://www.nijho.lt/post/dotbins/), [[4]](https://www.nijho.lt/post/dotfiles/), [[5]](https://github.com/basnijholt/dotfiles))
 
-Last updated at 2026-03-07 12:07:45.620598.
+Last updated at 2026-03-08 12:07:48.771246.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3159 ⭐️s
-2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1929 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3162 ⭐️s
+2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1930 ⭐️s
 3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1619 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1216 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 848 ⭐️s
@@ -49,7 +49,7 @@ Last updated at 2026-03-07 12:07:45.620598.
 
 6. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 523 ⭐️s
 7. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 481 ⭐️s
-8. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 455 ⭐️s
+8. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 456 ⭐️s
 9. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 405 ⭐️s
 10. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 374 ⭐️s
 11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 355 ⭐️s
