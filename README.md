@@ -34,7 +34,7 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 terminal productivity tools ([[1]](https://www.nijho.lt/post/terminal-ninja/), [[2]](https://github.com/basnijholt/dotbins), [[3]](https://www.nijho.lt/post/dotbins/), [[4]](https://www.nijho.lt/post/dotfiles/), [[5]](https://github.com/basnijholt/dotfiles))
 
-Last updated at 2026-03-22 12:08:24.215355.
+Last updated at 2026-03-23 12:16:33.145927.
 
 # GitHub statistics — my top 20
 
@@ -52,7 +52,7 @@ Last updated at 2026-03-22 12:08:24.215355.
 8. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 458 ⭐️s
 9. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 405 ⭐️s
 10. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 375 ⭐️s
-11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 356 ⭐️s
+11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 357 ⭐️s
 12. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 321 ⭐️s
 13. [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm/), 297 ⭐️s
 14. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 254 ⭐️s
