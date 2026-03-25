@@ -34,7 +34,7 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 terminal productivity tools ([[1]](https://www.nijho.lt/post/terminal-ninja/), [[2]](https://github.com/basnijholt/dotbins), [[3]](https://www.nijho.lt/post/dotbins/), [[4]](https://www.nijho.lt/post/dotfiles/), [[5]](https://github.com/basnijholt/dotfiles))
 
-Last updated at 2026-03-24 12:17:10.329012.
+Last updated at 2026-03-25 12:16:14.350088.
 
 # GitHub statistics — my top 20
 
@@ -54,10 +54,10 @@ Last updated at 2026-03-24 12:17:10.329012.
 10. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 375 ⭐️s
 11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 357 ⭐️s
 12. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 321 ⭐️s
-13. [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm/), 297 ⭐️s
+13. [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm/), 298 ⭐️s
 14. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 254 ⭐️s
 15. [basnijholt/unidep](https://github.com/basnijholt/unidep/), 241 ⭐️s
-16. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 164 ⭐️s
+16. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 165 ⭐️s
 17. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 126 ⭐️s
 18. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 106 ⭐️s
 19. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 104 ⭐️s
