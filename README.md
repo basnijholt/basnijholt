@@ -34,26 +34,26 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 terminal productivity tools ([[1]](https://www.nijho.lt/post/terminal-ninja/), [[2]](https://github.com/basnijholt/dotbins), [[3]](https://www.nijho.lt/post/dotbins/), [[4]](https://www.nijho.lt/post/dotfiles/), [[5]](https://github.com/basnijholt/dotfiles))
 
-Last updated at 2026-05-14 12:37:24.922770.
+Last updated at 2026-05-15 12:37:54.971216.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3287 ⭐️s
-2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1941 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3289 ⭐️s
+2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1940 ⭐️s
 3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1674 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1219 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 863 ⭐️s
 <details><summary>Click to expand!</summary>
 
-6. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 526 ⭐️s
+6. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 528 ⭐️s
 7. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 483 ⭐️s
 8. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 463 ⭐️s
 9. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 408 ⭐️s
 10. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 375 ⭐️s
 11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 363 ⭐️s
-12. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 325 ⭐️s
+12. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 324 ⭐️s
 13. [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm/), 300 ⭐️s
 14. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 260 ⭐️s
 15. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 197 ⭐️s
