@@ -34,17 +34,17 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 terminal productivity tools ([[1]](https://www.nijho.lt/post/terminal-ninja/), [[2]](https://github.com/basnijholt/dotbins), [[3]](https://www.nijho.lt/post/dotbins/), [[4]](https://www.nijho.lt/post/dotfiles/), [[5]](https://github.com/basnijholt/dotfiles))
 
-Last updated at 2026-06-02 13:16:36.971676.
+Last updated at 2026-06-03 13:36:59.757132.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3313 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3314 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1949 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1687 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1688 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1220 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 864 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 865 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 529 ⭐️s
@@ -56,7 +56,7 @@ Last updated at 2026-06-02 13:16:36.971676.
 12. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 326 ⭐️s
 13. [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm/), 301 ⭐️s
 14. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 261 ⭐️s
-15. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 206 ⭐️s
+15. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 208 ⭐️s
 16. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 132 ⭐️s
 17. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 110 ⭐️s
 18. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 106 ⭐️s
