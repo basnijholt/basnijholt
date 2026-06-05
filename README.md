@@ -34,7 +34,7 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 terminal productivity tools ([[1]](https://www.nijho.lt/post/terminal-ninja/), [[2]](https://github.com/basnijholt/dotbins), [[3]](https://www.nijho.lt/post/dotbins/), [[4]](https://www.nijho.lt/post/dotfiles/), [[5]](https://github.com/basnijholt/dotfiles))
 
-Last updated at 2026-06-04 13:04:16.082683.
+Last updated at 2026-06-05 13:01:02.135113.
 
 # GitHub statistics — my top 20
 
@@ -42,14 +42,14 @@ Last updated at 2026-06-04 13:04:16.082683.
 
 1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3313 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1949 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1689 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1690 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1220 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 865 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 866 ⭐️s
 <details><summary>Click to expand!</summary>
 
 6. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 529 ⭐️s
 7. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 483 ⭐️s
-8. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 466 ⭐️s
+8. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 467 ⭐️s
 9. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 409 ⭐️s
 10. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 375 ⭐️s
 11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 365 ⭐️s
