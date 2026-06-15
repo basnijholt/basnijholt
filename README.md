@@ -34,15 +34,15 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 terminal productivity tools ([[1]](https://www.nijho.lt/post/terminal-ninja/), [[2]](https://github.com/basnijholt/dotbins), [[3]](https://www.nijho.lt/post/dotbins/), [[4]](https://www.nijho.lt/post/dotfiles/), [[5]](https://github.com/basnijholt/dotfiles))
 
-Last updated at 2026-06-14 12:39:51.619228.
+Last updated at 2026-06-15 14:07:32.289916.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3321 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3324 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1951 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1694 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1696 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1221 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 868 ⭐️s
 <details><summary>Click to expand!</summary>
@@ -52,7 +52,7 @@ Last updated at 2026-06-14 12:39:51.619228.
 8. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 467 ⭐️s
 9. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 409 ⭐️s
 10. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 375 ⭐️s
-11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 367 ⭐️s
+11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 368 ⭐️s
 12. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 327 ⭐️s
 13. [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm/), 303 ⭐️s
 14. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 262 ⭐️s
