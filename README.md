@@ -34,13 +34,13 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 terminal productivity tools ([[1]](https://www.nijho.lt/post/terminal-ninja/), [[2]](https://github.com/basnijholt/dotbins), [[3]](https://www.nijho.lt/post/dotbins/), [[4]](https://www.nijho.lt/post/dotfiles/), [[5]](https://github.com/basnijholt/dotfiles))
 
-Last updated at 2026-07-04 13:13:07.205121.
+Last updated at 2026-07-05 13:20:54.516941.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3355 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3357 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1954 ⭐️s
 3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1708 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1223 ⭐️s
@@ -49,7 +49,7 @@ Last updated at 2026-07-04 13:13:07.205121.
 
 6. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 529 ⭐️s
 7. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 488 ⭐️s
-8. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 471 ⭐️s
+8. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 472 ⭐️s
 9. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 409 ⭐️s
 10. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 375 ⭐️s
 11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 372 ⭐️s
@@ -58,7 +58,7 @@ Last updated at 2026-07-04 13:13:07.205121.
 14. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 265 ⭐️s
 15. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 221 ⭐️s
 16. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 132 ⭐️s
-17. [basnijholt/dotfiles](https://github.com/basnijholt/dotfiles/), 129 ⭐️s
+17. [basnijholt/dotfiles](https://github.com/basnijholt/dotfiles/), 130 ⭐️s
 18. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 110 ⭐️s
 19. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 106 ⭐️s
 20. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 94 ⭐️s
