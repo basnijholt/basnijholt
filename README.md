@@ -34,7 +34,7 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 terminal productivity tools ([[1]](https://www.nijho.lt/post/terminal-ninja/), [[2]](https://github.com/basnijholt/dotbins), [[3]](https://www.nijho.lt/post/dotbins/), [[4]](https://www.nijho.lt/post/dotfiles/), [[5]](https://github.com/basnijholt/dotfiles))
 
-Last updated at 2026-07-09 14:46:19.334774.
+Last updated at 2026-07-10 14:10:33.963844.
 
 # GitHub statistics — my top 20
 
@@ -59,7 +59,7 @@ Last updated at 2026-07-09 14:46:19.334774.
 15. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 222 ⭐️s
 16. [basnijholt/dotfiles](https://github.com/basnijholt/dotfiles/), 133 ⭐️s
 17. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 133 ⭐️s
-18. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 111 ⭐️s
+18. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 112 ⭐️s
 19. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 107 ⭐️s
 20. [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar/), 94 ⭐️s
 
