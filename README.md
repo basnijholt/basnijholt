@@ -34,16 +34,16 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 terminal productivity tools ([[1]](https://www.nijho.lt/post/terminal-ninja/), [[2]](https://github.com/basnijholt/dotbins), [[3]](https://www.nijho.lt/post/dotbins/), [[4]](https://www.nijho.lt/post/dotfiles/), [[5]](https://github.com/basnijholt/dotfiles))
 
-Last updated at 2026-08-12 12:56:57.461917.
+Last updated at 2026-08-13 12:58:17.926751.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3417 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3419 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1961 ⭐️s
 3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1721 ⭐️s
-4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1226 ⭐️s
+4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1225 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 878 ⭐️s
 <details><summary>Click to expand!</summary>
 
@@ -55,7 +55,7 @@ Last updated at 2026-08-12 12:56:57.461917.
 11. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 375 ⭐️s
 12. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 331 ⭐️s
 13. [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm/), 305 ⭐️s
-14. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 268 ⭐️s
+14. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 270 ⭐️s
 15. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 226 ⭐️s
 16. [basnijholt/dotfiles](https://github.com/basnijholt/dotfiles/), 145 ⭐️s
 17. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 135 ⭐️s
