@@ -34,7 +34,7 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 terminal productivity tools ([[1]](https://www.nijho.lt/post/terminal-ninja/), [[2]](https://github.com/basnijholt/dotbins), [[3]](https://www.nijho.lt/post/dotbins/), [[4]](https://www.nijho.lt/post/dotfiles/), [[5]](https://github.com/basnijholt/dotfiles))
 
-Last updated at 2026-08-26 12:41:05.812888.
+Last updated at 2026-08-27 21:40:00.541067.
 
 # GitHub statistics — my top 20
 
@@ -42,7 +42,7 @@ Last updated at 2026-08-26 12:41:05.812888.
 
 1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3432 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1963 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1737 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1738 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1227 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 878 ⭐️s
 <details><summary>Click to expand!</summary>
@@ -56,7 +56,7 @@ Last updated at 2026-08-26 12:41:05.812888.
 12. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 333 ⭐️s
 13. [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm/), 305 ⭐️s
 14. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 271 ⭐️s
-15. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 226 ⭐️s
+15. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 227 ⭐️s
 16. [basnijholt/dotfiles](https://github.com/basnijholt/dotfiles/), 149 ⭐️s
 17. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 135 ⭐️s
 18. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 0 ⭐️s
