@@ -34,13 +34,13 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 terminal productivity tools ([[1]](https://www.nijho.lt/post/terminal-ninja/), [[2]](https://github.com/basnijholt/dotbins), [[3]](https://www.nijho.lt/post/dotbins/), [[4]](https://www.nijho.lt/post/dotfiles/), [[5]](https://github.com/basnijholt/dotfiles))
 
-Last updated at 2026-09-08 15:52:15.719681.
+Last updated at 2026-09-09 15:47:59.799840.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3458 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3459 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1963 ⭐️s
 3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1745 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1228 ⭐️s
@@ -54,10 +54,10 @@ Last updated at 2026-09-08 15:52:15.719681.
 10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 381 ⭐️s
 11. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 376 ⭐️s
 12. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 334 ⭐️s
-13. [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm/), 306 ⭐️s
+13. [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm/), 307 ⭐️s
 14. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 271 ⭐️s
 15. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 231 ⭐️s
-16. [basnijholt/dotfiles](https://github.com/basnijholt/dotfiles/), 153 ⭐️s
+16. [basnijholt/dotfiles](https://github.com/basnijholt/dotfiles/), 154 ⭐️s
 17. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 135 ⭐️s
 18. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 0 ⭐️s
 19. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 110 ⭐️s
