@@ -34,15 +34,15 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 terminal productivity tools ([[1]](https://www.nijho.lt/post/terminal-ninja/), [[2]](https://github.com/basnijholt/dotbins), [[3]](https://www.nijho.lt/post/dotbins/), [[4]](https://www.nijho.lt/post/dotfiles/), [[5]](https://github.com/basnijholt/dotfiles))
 
-Last updated at 2026-09-11 15:44:38.401172.
+Last updated at 2026-09-12 14:52:51.308142.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3460 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3462 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1964 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1745 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1744 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1228 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 879 ⭐️s
 <details><summary>Click to expand!</summary>
@@ -54,7 +54,7 @@ Last updated at 2026-09-11 15:44:38.401172.
 10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 381 ⭐️s
 11. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 376 ⭐️s
 12. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 334 ⭐️s
-13. [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm/), 307 ⭐️s
+13. [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm/), 308 ⭐️s
 14. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 271 ⭐️s
 15. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 231 ⭐️s
 16. [basnijholt/dotfiles](https://github.com/basnijholt/dotfiles/), 155 ⭐️s
