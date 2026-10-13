@@ -34,15 +34,15 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 terminal productivity tools ([[1]](https://www.nijho.lt/post/terminal-ninja/), [[2]](https://github.com/basnijholt/dotbins), [[3]](https://www.nijho.lt/post/dotbins/), [[4]](https://www.nijho.lt/post/dotfiles/), [[5]](https://github.com/basnijholt/dotfiles))
 
-Last updated at 2026-10-12 20:47:49.727114.
+Last updated at 2026-10-13 18:47:17.181187.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3505 ⭐️s
-2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1966 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1762 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3506 ⭐️s
+2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1967 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1763 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1230 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 881 ⭐️s
 <details><summary>Click to expand!</summary>
@@ -54,9 +54,9 @@ Last updated at 2026-10-12 20:47:49.727114.
 10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 385 ⭐️s
 11. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 376 ⭐️s
 12. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 334 ⭐️s
-13. [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm/), 317 ⭐️s
+13. [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm/), 318 ⭐️s
 14. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 272 ⭐️s
-15. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 234 ⭐️s
+15. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 235 ⭐️s
 16. [basnijholt/dotfiles](https://github.com/basnijholt/dotfiles/), 162 ⭐️s
 17. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 137 ⭐️s
 18. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 0 ⭐️s
