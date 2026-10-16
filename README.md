@@ -34,13 +34,13 @@ Ask me about:
 - 🧠 quantum computing,
 - 💻 terminal productivity tools ([[1]](https://www.nijho.lt/post/terminal-ninja/), [[2]](https://github.com/basnijholt/dotbins), [[3]](https://www.nijho.lt/post/dotbins/), [[4]](https://www.nijho.lt/post/dotfiles/), [[5]](https://github.com/basnijholt/dotfiles))
 
-Last updated at 2026-10-15 16:10:27.480378.
+Last updated at 2026-10-16 15:57:49.783001.
 
 # GitHub statistics — my top 20
 
 ## number of GitHub stars ⭐️
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3511 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3514 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1968 ⭐️s
 3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1765 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1230 ⭐️s
