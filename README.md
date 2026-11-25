@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./hero_dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./hero_light.svg" />
-    <img alt="Bas Nijholt: Physicist turned builder" src="./hero_light.svg" width="100%" />
+    <img alt="Bas Nijholt: ~/dotfiles/bas.nix" src="./hero_light.svg" width="100%" />
   </picture>
 </p>
 
@@ -14,10 +14,66 @@
   <a href="https://scholar.google.com/citations?user=nIO4EK4AAAAJ&hl">Google Scholar</a>
 </p>
 
-I have a hard time not building things, and coding with AI agents has poured fuel on that fire. Almost everything on this GitHub started to scratch my own itch: syncing home lights with the sun, switching macOS apps in under 30 ms, running **15+ NixOS machines and ~150 containers** out of plain text files in git (zero Kubernetes), or orchestrating coding agents from a Matrix chatroom. Quite a few of those side quests ended up useful to other people too.
+I started out doing a [PhD in computational quantum mechanics](https://github.com/basnijholt/thesis) at TU Delft, built quantum software at [Microsoft Quantum](https://quantum.microsoft.com/) and [IonQ](https://ionq.com/), and am now co-founder at a stealth AI company working on [MindRoom](https://github.com/mindroom-ai/mindroom). Most of what you see here exists because I wanted a tool for myself and could not stop tinkering once AI made shipping ten times faster.
 
-> [!TIP]
-> **Currently obsessed with [MindRoom](https://github.com/mindroom-ai/mindroom):** AI agents that know you and your work, living as real users in Matrix rooms. Open source, any model, self-hosted or hosted.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+
+**Declarative over clickable**<br>
+<sub>15+ NixOS machines, nix-darwin Macs, every config in git. If I cannot diff it and rebuild it, I do not trust it.</sub>
+
+    </td>
+    <td width="33%" valign="top">
+
+**Roll your own, fork the rest**<br>
+<sub>Depend on battle-tested foundations; write a thin tool when a library only solves the easy part.</sub>
+
+    </td>
+    <td width="34%" valign="top">
+
+**Build for yourself first**<br>
+<sub>Lights, backups, HPC pipelines, multi-agent chat. The best open-source tools start as daily drivers.</sub>
+
+    </td>
+  </tr>
+</table>
+
+## GitHub Stars
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./stars_dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="./stars_light.png" />
+    <img alt="GitHub stars over time" src="./stars_light.png" width="100%" />
+  </picture>
+</p>
+
+<details>
+<summary>Top 20 repositories by stars</summary>
+
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3,598 ⭐️s
+2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1,980 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1,799 ⭐️s
+4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1,233 ⭐️s
+5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 890 ⭐️s
+6. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 529 ⭐️s
+7. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 493 ⭐️s
+8. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 481 ⭐️s
+9. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 410 ⭐️s
+10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 384 ⭐️s
+11. [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom/), 382 ⭐️s
+12. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 374 ⭐️s
+13. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 335 ⭐️s
+14. [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm/), 318 ⭐️s
+15. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 272 ⭐️s
+16. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 239 ⭐️s
+17. [basnijholt/dotfiles](https://github.com/basnijholt/dotfiles/), 166 ⭐️s
+18. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 137 ⭐️s
+19. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 113 ⭐️s
+20. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 111 ⭐️s
+
+</details>
 
 ## Selected Projects
 
@@ -68,42 +124,6 @@ I have a hard time not building things, and coding with AI agents has poured fue
     </td>
   </tr>
 </table>
-
-## GitHub Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./stars_dark.png" />
-    <source media="(prefers-color-scheme: light)" srcset="./stars_light.png" />
-    <img alt="GitHub stars over time" src="./stars_light.png" width="100%" />
-  </picture>
-</p>
-
-<details>
-<summary>Top 20 repositories by stars</summary>
-
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3,598 ⭐️s
-2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1,980 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1,799 ⭐️s
-4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1,233 ⭐️s
-5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 890 ⭐️s
-6. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 529 ⭐️s
-7. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 493 ⭐️s
-8. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 481 ⭐️s
-9. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 410 ⭐️s
-10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 384 ⭐️s
-11. [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom/), 382 ⭐️s
-12. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 374 ⭐️s
-13. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 335 ⭐️s
-14. [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm/), 318 ⭐️s
-15. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 272 ⭐️s
-16. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 239 ⭐️s
-17. [basnijholt/dotfiles](https://github.com/basnijholt/dotfiles/), 166 ⭐️s
-18. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 137 ⭐️s
-19. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 113 ⭐️s
-20. [basnijholt/home-assistant-streamdeck-yaml-addon](https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon/), 111 ⭐️s
-
-</details>
 
 ## Latest Blog Posts
 
