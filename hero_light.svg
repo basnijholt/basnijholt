@@ -1,0 +1,37 @@
+<svg viewBox="0 0 900 250" width="900" height="250" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="899" height="249" rx="10" fill="#f6f8fa" stroke="#d0d7de" />
+  <rect x="1" y="1" width="898" height="34" rx="10" fill="#ffffff" />
+  <rect x="1" y="20" width="898" height="15" fill="#ffffff" />
+  <line x1="1" y1="35" x2="899" y2="35" stroke="#d0d7de" />
+  <circle cx="22" cy="18" r="5" fill="#ff5f56" />
+  <circle cx="38" cy="18" r="5" fill="#ffbd2e" />
+  <circle cx="54" cy="18" r="5" fill="#27c93f" />
+  <text x="74" y="22" fill="#656d76" font-size="12" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace">~/dotfiles/bas.nix</text>
+  <text x="876" y="22" fill="#1a7f37" font-size="11.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace">● flake clean · 14,126 ★</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13.5" xml:space="preserve">
+    <text x="26" y="64" fill="#656d76">1</text>
+    <text x="52" y="64" fill="#1f2328">{ <tspan fill="#6e7781"># Dutch physicist turned builder, living near Seattle</tspan></text>
+
+    <text x="26" y="88" fill="#656d76">2</text>
+    <text x="68" y="88"><tspan fill="#8250df">now</tspan><tspan fill="#1f2328">       = </tspan><tspan fill="#0a3069">"co-founder @ stealth AI (building MindRoom)"</tspan><tspan fill="#1f2328">;</tspan></text>
+
+    <text x="26" y="112" fill="#656d76">3</text>
+    <text x="68" y="112"><tspan fill="#8250df">before</tspan><tspan fill="#1f2328">    = [ </tspan><tspan fill="#0a3069">"IonQ"</tspan><tspan fill="#1f2328"> </tspan><tspan fill="#0a3069">"Microsoft Quantum"</tspan><tspan fill="#1f2328"> </tspan><tspan fill="#0a3069">"TU Delft (PhD)"</tspan><tspan fill="#1f2328"> ];</tspan></text>
+
+    <text x="26" y="136" fill="#656d76">4</text>
+    <text x="68" y="136"><tspan fill="#8250df">homelab</tspan><tspan fill="#1f2328">   = { </tspan><tspan fill="#8250df">os</tspan><tspan fill="#1f2328"> = </tspan><tspan fill="#0a3069">"NixOS"</tspan><tspan fill="#1f2328">; </tspan><tspan fill="#8250df">hosts</tspan><tspan fill="#1f2328"> = </tspan><tspan fill="#0550ae">16</tspan><tspan fill="#1f2328">; </tspan><tspan fill="#8250df">containers</tspan><tspan fill="#1f2328"> = </tspan><tspan fill="#0550ae">150</tspan><tspan fill="#1f2328">; </tspan><tspan fill="#8250df">kubernetes</tspan><tspan fill="#1f2328"> = </tspan><tspan fill="#cf222e">false</tspan><tspan fill="#1f2328">; };</tspan></text>
+
+    <text x="26" y="160" fill="#656d76">5</text>
+    <text x="68" y="160"><tspan fill="#8250df">rules</tspan><tspan fill="#1f2328">     = [ </tspan><tspan fill="#0a3069">"plain text in git"</tspan><tspan fill="#1f2328"> </tspan><tspan fill="#0a3069">"roll your own, fork the rest"</tspan><tspan fill="#1f2328"> ];</tspan></text>
+
+    <text x="26" y="184" fill="#656d76">6</text>
+    <text x="68" y="184"><tspan fill="#8250df">languages</tspan><tspan fill="#1f2328"> = [ </tspan><tspan fill="#0a3069">"Python"</tspan><tspan fill="#1f2328"> </tspan><tspan fill="#0a3069">"TypeScript"</tspan><tspan fill="#1f2328"> </tspan><tspan fill="#0a3069">"Nix"</tspan><tspan fill="#1f2328"> ];</tspan></text>
+
+    <text x="26" y="208" fill="#656d76">7</text>
+    <text x="68" y="208"><tspan fill="#8250df">stars</tspan><tspan fill="#1f2328">     = </tspan><tspan fill="#0550ae">14126</tspan><tspan fill="#1f2328">; </tspan><tspan fill="#6e7781"># +2,880 in the last 12 months · updated daily</tspan></text>
+
+    <text x="26" y="232" fill="#656d76">8</text>
+    <text x="52" y="232" fill="#1f2328">}</text>
+  </g>
+</svg>
