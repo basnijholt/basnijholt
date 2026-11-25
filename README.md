@@ -1,51 +1,84 @@
-# Bas Nijholt 👋
+# Bas Nijholt
 
-- 👷🏻‍♂️ Currently at [IonQ](https://ionq.com/), doing my bit in building a quantum computer, before that I was at [Microsoft Quantum](https://quantum.microsoft.com/).
-- 🌟 A deep dive into computational topological quantum mechanics earned me [my PhD](https://github.com/basnijholt/thesis).
-- 🎨 I've crafted [a](https://github.com/basnijholt/adaptive-lighting) [few](https://github.com/basnijholt/aiokef) [libraries](https://github.com/basnijholt/miflora) for Home Assistant, making home automation a bit more fun.
-- ⚒️ Made other tools [speed up](https://github.com/python-adaptive/adaptive) and [massively parallelize](https://github.com/basnijholt/adaptive-scheduler) numerical simulations.
-- 🏅 Very passionate about open-source, software quality, user experience, and smooth performance.
-- 🐍 Python is my go-to language in most of my projects.
-- Some of my favorite creations:
-  - 📈 **[python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/)**: Parallel active learning of mathematical functions? Check!
-  - 🧬 **[unidep](https://github.com/basnijholt/unidep/)**: Unifying pip and conda requirements, single command to set up a full dev environment.
-  - 🕸️ **[pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/)**: Lightweight function pipeline (DAG) creation in pure Python for scientific (HPC) workflows.
-  - 💡 **[adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/)**: A custom component for Home Assistant to keep your lighting in sync with the sun.
-  - 🤖 **[agent-cli](https://github.com/basnijholt/agent-cli/)**: A voice and local first set of AI tools including OS-level hotkey integration for transcription right to clipboard.
-  - 📝 **[markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/)**: Run (hidden) code blocks right within your Markdown files - keep simple `README.md`s in sync!
-  - 🕒 **[rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/)**: Time Machine-style backups with rsync for the minimalists.
-  - 🏠 **[home-assistant-config](https://github.com/basnijholt/home-assistant-config/)**: Over 100 documented automations in my Home Assistant config
-  - 📚 **[tuitorial](https://github.com/basnijholt/tuitorial/)**: Create beautiful terminal-based code tutorials / presentations
-  - 🧰 **[dotbins](https://github.com/basnijholt/dotbins/)**: Manage binary CLI tools right in a version-controlled Git repo that works on all systems and architectures
-  - 🔑 **[dotfiles](https://github.com/basnijholt/dotfiles/)**: My dotfiles in a well-documented Git repo that works on all systems and architectures (personally used for >10 of my systems)
-  - 🌾 **[compose-farm](https://github.com/basnijholt/compose-farm/)**: Manage Docker Compose stacks across multiple hosts via SSH - simpler than Kubernetes, works with existing compose files.
+**Co-founder at a stealth AI company, working on [MindRoom](https://github.com/mindroom-ai/mindroom)** · Previously [IonQ](https://ionq.com/) & [Microsoft Quantum](https://quantum.microsoft.com/) · [PhD in computational quantum mechanics](https://github.com/basnijholt/thesis)
 
-Below are some (automatically generated) statistics about my activity on GitHub.
-For more info check out my website [www.nijho.lt](http://nijho.lt/) or talk to me on <a rel="me" href="https://fosstodon.org/@basnijholt">Mastodon</a>.
+<p>
+  <a href="https://www.nijho.lt/"><img src="https://img.shields.io/badge/Website-nijho.lt-1f6feb?style=flat-square&labelColor=24292f" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/basnijholt"><img src="https://img.shields.io/badge/LinkedIn-basnijholt-1f6feb?style=flat-square&labelColor=24292f" alt="LinkedIn" /></a>
+  <a rel="me" href="https://fosstodon.org/@basnijholt"><img src="https://img.shields.io/badge/Mastodon-%40basnijholt-1f6feb?style=flat-square&labelColor=24292f" alt="Mastodon" /></a>
+  <a href="https://matrix.to/#/@basnijholt:mindroom.chat"><img src="https://img.shields.io/badge/Matrix-%40basnijholt%3Amindroom.chat-1f6feb?style=flat-square&labelColor=24292f" alt="Matrix" /></a>
+  <a href="https://scholar.google.com/citations?user=nIO4EK4AAAAJ&hl"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-1f6feb?style=flat-square&labelColor=24292f" alt="Google Scholar" /></a>
+  <a href="https://www.instagram.com/bnijholt"><img src="https://img.shields.io/badge/Photography-Instagram-1f6feb?style=flat-square&labelColor=24292f" alt="Photography" /></a>
+</p>
 
-Ask me about:
+Dutch physicist turned software engineer, based near Seattle. I build open-source software in Python (plus TypeScript and Nix) across AI agents, scientific computing, home automation, and developer tooling. I care about clean abstractions, smooth UX, and tools that stay out of your way.
 
-- 🏡 [home automation](https://github.com/basnijholt/home-assistant-config/),
-- 🎹 split ortholinear ergonomic keyboards,
-- 📷 [landscape photography](https://www.instagram.com/bnijholt),
-- 📦 package managers ([[1]](https://github.com/basnijholt/unidep), [[2]](https://github.com/basnijholt/dotbins)),
-- 🖥️ [home servers](https://www.nijho.lt/post/homelab),
-- 🔥 [fire](https://wenfire.nijho.lt/),
-- 🧠 quantum computing,
-- 💻 terminal productivity tools ([[1]](https://www.nijho.lt/post/terminal-ninja/), [[2]](https://github.com/basnijholt/dotbins), [[3]](https://www.nijho.lt/post/dotbins/), [[4]](https://www.nijho.lt/post/dotfiles/), [[5]](https://github.com/basnijholt/dotfiles))
+## Selected Projects
 
-Last updated at 2026-11-24 21:51:45.791287.
+### AI & Agents
 
-# GitHub statistics — my top 20
+| Project | Description | Stars |
+|---|---|---|
+| **[mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom)** | AI agents that know you and your work, living in Matrix rooms. Open source, any model, self-host or hosted. | [![Stars](https://img.shields.io/github/stars/mindroom-ai/mindroom?style=flat-square&label=%E2%98%85&labelColor=24292f&color=30363d)](https://github.com/mindroom-ai/mindroom) |
+| **[agent-cli](https://github.com/basnijholt/agent-cli)** | Local-first AI toolkit: voice transcription, TTS/STT servers, coding worktree management, RAG/memory proxies, and macOS app. | [![Stars](https://img.shields.io/github/stars/basnijholt/agent-cli?style=flat-square&label=%E2%98%85&labelColor=24292f&color=30363d)](https://github.com/basnijholt/agent-cli) |
 
-## number of GitHub stars ⭐️
+### Scientific Computing & Python
+
+| Project | Description | Stars |
+|---|---|---|
+| **[python-adaptive/adaptive](https://github.com/python-adaptive/adaptive)** | Parallel active learning of mathematical functions. | [![Stars](https://img.shields.io/github/stars/python-adaptive/adaptive?style=flat-square&label=%E2%98%85&labelColor=24292f&color=30363d)](https://github.com/python-adaptive/adaptive) |
+| **[pipefunc/pipefunc](https://github.com/pipefunc/pipefunc)** | Lightweight function pipelines (DAGs) in pure Python for scientific and HPC workflows. | [![Stars](https://img.shields.io/github/stars/pipefunc/pipefunc?style=flat-square&label=%E2%98%85&labelColor=24292f&color=30363d)](https://github.com/pipefunc/pipefunc) |
+| **[unidep](https://github.com/basnijholt/unidep)** | Unifies `pip` and `conda` dependencies into a single command to set up a full dev environment. | [![Stars](https://img.shields.io/github/stars/basnijholt/unidep?style=flat-square&label=%E2%98%85&labelColor=24292f&color=30363d)](https://github.com/basnijholt/unidep) |
+| **[adaptive-scheduler](https://github.com/basnijholt/adaptive-scheduler)** | Massively parallel function execution (>10k-100k cores) across HPC clusters. | [![Stars](https://img.shields.io/github/stars/basnijholt/adaptive-scheduler?style=flat-square&label=%E2%98%85&labelColor=24292f&color=30363d)](https://github.com/basnijholt/adaptive-scheduler) |
+
+### Home Automation
+
+| Project | Description | Stars |
+|---|---|---|
+| **[adaptive-lighting](https://github.com/basnijholt/adaptive-lighting)** | Home Assistant custom integration that keeps your lighting in sync with the sun. | [![Stars](https://img.shields.io/github/stars/basnijholt/adaptive-lighting?style=flat-square&label=%E2%98%85&labelColor=24292f&color=30363d)](https://github.com/basnijholt/adaptive-lighting) |
+| **[home-assistant-config](https://github.com/basnijholt/home-assistant-config)** | Over 100 documented automations in my Home Assistant configuration. | [![Stars](https://img.shields.io/github/stars/basnijholt/home-assistant-config?style=flat-square&label=%E2%98%85&labelColor=24292f&color=30363d)](https://github.com/basnijholt/home-assistant-config) |
+| **[home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml)** | Control Home Assistant from a Stream Deck via YAML on any OS. | [![Stars](https://img.shields.io/github/stars/basnijholt/home-assistant-streamdeck-yaml?style=flat-square&label=%E2%98%85&labelColor=24292f&color=30363d)](https://github.com/basnijholt/home-assistant-streamdeck-yaml) |
+
+<sub>Also built and contributed to <a href="https://github.com/python-kasa/python-kasa">python-kasa</a>, <a href="https://github.com/basnijholt/aiokef">aiokef</a>, and <a href="https://github.com/basnijholt/miflora">miflora</a>.</sub>
+
+### Developer Tools & Homelab
+
+| Project | Description | Stars |
+|---|---|---|
+| **[compose-farm](https://github.com/basnijholt/compose-farm)** | Agentless multi-host Docker Compose management over SSH using plain compose files. | [![Stars](https://img.shields.io/github/stars/basnijholt/compose-farm?style=flat-square&label=%E2%98%85&labelColor=24292f&color=30363d)](https://github.com/basnijholt/compose-farm) |
+| **[tuitorial](https://github.com/basnijholt/tuitorial)** | Interactive terminal-based code tutorials and presentations. | [![Stars](https://img.shields.io/github/stars/basnijholt/tuitorial?style=flat-square&label=%E2%98%85&labelColor=24292f&color=30363d)](https://github.com/basnijholt/tuitorial) |
+| **[rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py)** | Minimalist Time Machine-style backups powered by `rsync`. | [![Stars](https://img.shields.io/github/stars/basnijholt/rsync-time-machine.py?style=flat-square&label=%E2%98%85&labelColor=24292f&color=30363d)](https://github.com/basnijholt/rsync-time-machine.py) |
+| **[dotbins](https://github.com/basnijholt/dotbins)** | Version-controlled CLI binaries across operating systems and architectures. | [![Stars](https://img.shields.io/github/stars/basnijholt/dotbins?style=flat-square&label=%E2%98%85&labelColor=24292f&color=30363d)](https://github.com/basnijholt/dotbins) |
+| **[dotfiles](https://github.com/basnijholt/dotfiles)** | Cross-platform macOS & Linux setup (NixOS, nix-darwin, zsh) powering >10 machines. | [![Stars](https://img.shields.io/github/stars/basnijholt/dotfiles?style=flat-square&label=%E2%98%85&labelColor=24292f&color=30363d)](https://github.com/basnijholt/dotfiles) |
+| **[markdown-code-runner](https://github.com/basnijholt/markdown-code-runner)** | Execute hidden code blocks in-place to keep Markdown docs in sync. | [![Stars](https://img.shields.io/github/stars/basnijholt/markdown-code-runner?style=flat-square&label=%E2%98%85&labelColor=24292f&color=30363d)](https://github.com/basnijholt/markdown-code-runner) |
+
+## Topics & Writing
+
+| Area | Links |
+|---|---|
+| **AI & Agents** | [MindRoom](https://github.com/mindroom-ai/mindroom) · [Orchestrating orchestrators](https://www.nijho.lt/post/orchestrating-orchestrators/) |
+| **Homelab & Smart Home** | [Homelab guide](https://www.nijho.lt/post/homelab/) · [Home Assistant config](https://github.com/basnijholt/home-assistant-config) · NixOS & nix-darwin |
+| **Terminal & Tooling** | [Terminal Ninja](https://www.nijho.lt/post/terminal-ninja/) · [dotfiles](https://www.nijho.lt/post/dotfiles/) · [dotbins](https://www.nijho.lt/post/dotbins/) · [unidep](https://github.com/basnijholt/unidep) |
+| **Hardware & Photography** | [Glove80 split keyboard](https://www.nijho.lt/post/glove80-split-ergonomic-keyboard/) · [Landscape photography](https://www.instagram.com/bnijholt) |
+| **Physics & Finance** | [Quantum computing PhD](https://github.com/basnijholt/thesis) · [FIRE calculator](https://wenfire.nijho.lt/) |
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github.com/basnijholt/basnijholt/raw/main/stars_over_time.png" alt="Total GitHub stars over time" width="49%" />
+  <img src="https://github.com/basnijholt/basnijholt/raw/main/stars_over_time_per_repo.png" alt="GitHub stars over time per repository" width="49%" />
+</p>
+
+### Top 20 Repositories by Stars
 
 1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3597 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1980 ⭐️s
 3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1799 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1232 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 890 ⭐️s
-<details><summary>Click to expand!</summary>
+
+<details>
+<summary>Show repositories #6–#20</summary>
 
 6. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 528 ⭐️s
 7. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 493 ⭐️s
@@ -65,7 +98,6 @@ Last updated at 2026-11-24 21:51:45.791287.
 
 </details>
 
-![](https://github.com/basnijholt/basnijholt/raw/main/stars_over_time.png)
-![](https://github.com/basnijholt/basnijholt/raw/main/stars_over_time_per_repo.png)
+---
 
-These plots and stats are generated by this [Jupyter notebook](./update-readme.ipynb) using this [GitHub Action](.github/workflows/run-notebook.yml).
+<sub>Last updated 2026-11-24 · Generated automatically by <a href="./update-readme.ipynb">update-readme.ipynb</a> via <a href=".github/workflows/run-notebook.yml">GitHub Actions</a>.</sub>
