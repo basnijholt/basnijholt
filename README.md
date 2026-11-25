@@ -131,6 +131,7 @@ I started out doing a [PhD in computational quantum mechanics](https://github.co
 - `2026-09-22` · [Removing the guardrails and letting my coding agents loose](https://www.nijho.lt/post/removing-guardrails/)
 - `2026-07-23` · [The last btrfs machine: migrating my PC to ZFS](https://www.nijho.lt/post/btrfs-to-zfs/)
 - `2026-06-28` · [Migrating from TrueNAS to NixOS without losing data after the build-system rug pull](https://www.nijho.lt/post/truenas-to-nixos/)
+
 <sub>All 46 posts at <a href="https://www.nijho.lt/post/">nijho.lt/post</a> · Updated automatically from <a href="https://www.nijho.lt/post/index.xml">RSS</a>.</sub>
 
 ---
