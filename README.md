@@ -46,7 +46,7 @@ I started out doing a [PhD in computational quantum mechanics](https://github.co
 <details>
 <summary>Top 20 repositories by stars</summary>
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3,598 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3,599 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1,980 ⭐️s
 3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1,799 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1,233 ⭐️s
@@ -55,9 +55,9 @@ I started out doing a [PhD in computational quantum mechanics](https://github.co
 7. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 493 ⭐️s
 8. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 481 ⭐️s
 9. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 410 ⭐️s
-10. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 384 ⭐️s
-11. [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom/), 384 ⭐️s
-12. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 374 ⭐️s
+10. [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom/), 387 ⭐️s
+11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 384 ⭐️s
+12. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 373 ⭐️s
 13. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 335 ⭐️s
 14. [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm/), 318 ⭐️s
 15. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 272 ⭐️s
@@ -76,7 +76,7 @@ I started out doing a [PhD in computational quantum mechanics](https://github.co
 <td width="50%" valign="top">
 <strong>AI &amp; Agents</strong>
 <ul>
-<li><a href="https://github.com/mindroom-ai/mindroom"><strong>mindroom-ai/mindroom</strong></a> <code>★ 384</code><br><sub>AI agents that live in Matrix rooms and know your work. Open source, any model.</sub></li>
+<li><a href="https://github.com/mindroom-ai/mindroom"><strong>mindroom-ai/mindroom</strong></a> <code>★ 387</code><br><sub>AI agents that live in Matrix rooms and know your work. Open source, any model.</sub></li>
 <li><a href="https://github.com/basnijholt/agent-cli"><strong>agent-cli</strong></a> <code>★ 239</code><br><sub>Local voice dictation, TTS/STT servers, coding worktrees, and macOS app.</sub></li>
 </ul>
 </td>
@@ -132,8 +132,9 @@ I started out doing a [PhD in computational quantum mechanics](https://github.co
 - `2026-07-23` · [The last btrfs machine: migrating my PC to ZFS](https://www.nijho.lt/post/btrfs-to-zfs/)
 - `2026-06-28` · [Migrating from TrueNAS to NixOS without losing data after the build-system rug pull](https://www.nijho.lt/post/truenas-to-nixos/)
 
+
 <sub>All 46 posts at <a href="https://www.nijho.lt/post/">nijho.lt/post</a> · Updated automatically from <a href="https://www.nijho.lt/post/index.xml">RSS</a>.</sub>
 
 ---
 
-<sub>Last updated 2026-11-24 · Generated automatically by <a href="./update-readme.ipynb">update-readme.ipynb</a> via <a href=".github/workflows/run-notebook.yml">GitHub Actions</a>.</sub>
+<sub>Last updated 2026-11-25 · Generated automatically by <a href="./update-readme.ipynb">update-readme.ipynb</a> via <a href=".github/workflows/run-notebook.yml">GitHub Actions</a>.</sub>
