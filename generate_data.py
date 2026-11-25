@@ -30,6 +30,7 @@ orgs = (
     "kwant-project",
     "pipefunc",
 )
+EXTRA_REPOS = ("conda-incubator/unidep",)
 BLOG_FEED_URL = "https://www.nijho.lt/post/index.xml"
 RepoDict: TypeAlias = dict[str, Any]
 OrgRepoDict: TypeAlias = dict[str, Any]
@@ -94,6 +95,13 @@ async def get_all_repos_in_orgs(
 
 async def generate_repos_data(gh: gidgethub.httpx.GitHubAPI) -> list[RepoDict]:
     org_repos = await get_all_repos_in_orgs(orgs, gh)
+    for full_name in EXTRA_REPOS:
+        try:
+            repo = await gh.getitem(f"/repos/{full_name}")
+            if not repo.get("private", False):
+                org_repos.append(repo)
+        except Exception:
+            log.warning("Failed to fetch extra repo %s", full_name)
     deduped: dict[str, RepoDict] = {}
     for repo in org_repos:
         full_name = repo["full_name"]
@@ -174,6 +182,31 @@ def generate_most_stars_data(repos: list[RepoDict]) -> list[dict[str, str | int]
     ]
 
 
+def fmt_stars(n: int) -> str:
+    if n >= 1000:
+        return f"{n / 1000:.1f}k"
+    return f"{n:,}"
+
+
+def repo_stars_map(repos: list[RepoDict]) -> dict[str, str]:
+    return {
+        str(repo["full_name"]): fmt_stars(int(repo.get("stargazers_count", 0)))
+        for repo in repos
+    }
+
+
+def stars_summary(stargazers: list[StargazersDict]) -> tuple[int, int]:
+    from datetime import timedelta
+
+    all_dates = sorted(date for info in stargazers for date in info["dates"])
+    total = len(all_dates)
+    if not all_dates:
+        return 0, 0
+    cutoff = all_dates[-1] - timedelta(days=365)
+    last_year = sum(1 for d in all_dates if d >= cutoff)
+    return total, last_year
+
+
 def split(x: list, at_index: int = 5) -> tuple[list, list]:
     return x[:at_index], x[at_index:]
 
@@ -242,7 +275,7 @@ async def generate_stargazers_data(
 async def fetch_latest_blog_posts(
     feed_url: str = BLOG_FEED_URL,
     limit: int = 15,
-) -> list[BlogPostDict]:
+) -> tuple[list[BlogPostDict], int]:
     async with httpx.AsyncClient(timeout=30, follow_redirects=True) as client:
         response = await client.get(feed_url)
         response.raise_for_status()
@@ -269,22 +302,24 @@ async def fetch_latest_blog_posts(
 
     posts.sort(key=lambda pair: pair[0], reverse=True)
     latest = [post for _, post in posts[:limit]]
+    total = len(posts)
     with open("data/blog_posts.json", "w") as f:
-        json.dump(latest, f, indent=2)
-    return latest
+        json.dump({"total": total, "posts": latest}, f, indent=2)
+    return latest, total
 
 
 class Data(NamedTuple):
     repos: list[RepoDict]
     stargazers: list[StargazersDict]
     blog_posts: list[BlogPostDict]
+    total_blog_posts: int
 
 
 async def generate_data() -> Data:
     os.makedirs("data", exist_ok=True)
     token = load_token()
     async with gh_client(token) as gh:
-        repos, blog_posts = await asyncio.gather(
+        repos, (blog_posts, total_blog_posts) = await asyncio.gather(
             generate_repos_data(gh),
             fetch_latest_blog_posts(),
         )
@@ -293,6 +328,7 @@ async def generate_data() -> Data:
         repos=repos,
         stargazers=stargazers,
         blog_posts=blog_posts,
+        total_blog_posts=total_blog_posts,
     )
 
 
@@ -313,12 +349,20 @@ def load_data() -> Data:
 
     try:
         with open("data/blog_posts.json", "r") as f:
-            blog_posts = json.load(f)
+            blog_payload = json.load(f)
+        if isinstance(blog_payload, dict):
+            blog_posts = blog_payload.get("posts", [])
+            total_blog_posts = int(blog_payload.get("total", len(blog_posts)))
+        else:
+            blog_posts = blog_payload
+            total_blog_posts = len(blog_posts)
     except FileNotFoundError:
         blog_posts = []
+        total_blog_posts = 0
 
     return Data(
         repos=repos,
         stargazers=stargazers,
         blog_posts=blog_posts,
+        total_blog_posts=total_blog_posts,
     )
