@@ -10,7 +10,7 @@
   <a href="https://scholar.google.com/citations?user=nIO4EK4AAAAJ&hl"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-1f6feb?style=flat-square&labelColor=24292f" alt="Google Scholar" /></a>
 </p>
 
-Dutch physicist turned software engineer, living near Seattle. I am unapologetically addicted to building things, and AI has only accelerated that habit. Almost everything here started as a tool I built for myself: syncing home lights with the sun, running a multi-machine homelab out of plain text files in git, parallelizing scientific workflows, or orchestrating AI agents from Matrix. Fortunately, quite a few of those ended up being useful to other people too.
+Dutch physicist turned software engineer, living near Seattle. I'm addicted to building things, and AI has only accelerated that. Almost everything here started as a tool I built for myself: syncing home lights with the sun, running a multi-machine homelab out of plain text files in git, parallelizing scientific workflows, or orchestrating AI agents from Matrix. Fortunately, quite a few of those ended up being useful to other people too.
 
 I love reproducibility, determinism, and keeping machinery minimal. Every server in my house runs [NixOS](https://www.nijho.lt/post/homelab-explained/), my Macs run nix-darwin, and I would rather write a small declarative tool than click through a web UI or babysit a heavy stack. Most of my code is in Python (with a growing share of TypeScript and Nix), and I write about all of it on [nijho.lt](https://www.nijho.lt/).
 
