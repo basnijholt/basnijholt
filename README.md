@@ -48,14 +48,14 @@ I started out doing a [PhD in computational quantum mechanics](https://github.co
 
 1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3,599 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1,980 ⭐️s
-3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1,799 ⭐️s
+3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1,800 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1,233 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 890 ⭐️s
 6. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 529 ⭐️s
 7. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 493 ⭐️s
 8. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 481 ⭐️s
 9. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 410 ⭐️s
-10. [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom/), 387 ⭐️s
+10. [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom/), 390 ⭐️s
 11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 384 ⭐️s
 12. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 373 ⭐️s
 13. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 335 ⭐️s
@@ -76,7 +76,7 @@ I started out doing a [PhD in computational quantum mechanics](https://github.co
 <td width="50%" valign="top">
 <strong>AI &amp; Agents</strong>
 <ul>
-<li><a href="https://github.com/mindroom-ai/mindroom"><strong>mindroom-ai/mindroom</strong></a> <code>★ 387</code><br><sub>AI agents that live in Matrix rooms and know your work. Open source, any model.</sub></li>
+<li><a href="https://github.com/mindroom-ai/mindroom"><strong>mindroom-ai/mindroom</strong></a> <code>★ 390</code><br><sub>AI agents that live in Matrix rooms and know your work. Open source, any model.</sub></li>
 <li><a href="https://github.com/basnijholt/agent-cli"><strong>agent-cli</strong></a> <code>★ 239</code><br><sub>Local voice dictation, TTS/STT servers, coding worktrees, and macOS app.</sub></li>
 </ul>
 </td>
