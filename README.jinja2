@@ -8,7 +8,6 @@
   <a rel="me" href="https://fosstodon.org/@basnijholt"><img src="https://img.shields.io/badge/Mastodon-%40basnijholt-1f6feb?style=flat-square&labelColor=24292f" alt="Mastodon" /></a>
   <a href="https://matrix.to/#/@basnijholt:mindroom.chat"><img src="https://img.shields.io/badge/Matrix-%40basnijholt%3Amindroom.chat-1f6feb?style=flat-square&labelColor=24292f" alt="Matrix" /></a>
   <a href="https://scholar.google.com/citations?user=nIO4EK4AAAAJ&hl"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-1f6feb?style=flat-square&labelColor=24292f" alt="Google Scholar" /></a>
-  <a href="https://www.instagram.com/bnijholt"><img src="https://img.shields.io/badge/Photography-Instagram-1f6feb?style=flat-square&labelColor=24292f" alt="Photography" /></a>
 </p>
 
 Dutch physicist turned software engineer, based near Seattle. I build open-source software in Python (plus TypeScript and Nix) across AI agents, scientific computing, home automation, and developer tooling. I care about clean abstractions, smooth UX, and tools that stay out of your way.
@@ -52,21 +51,22 @@ Dutch physicist turned software engineer, based near Seattle. I build open-sourc
 | **[dotfiles](https://github.com/basnijholt/dotfiles)** | Cross-platform macOS & Linux setup (NixOS, nix-darwin, zsh) powering >10 machines. | [![Stars](https://img.shields.io/github/stars/basnijholt/dotfiles?style=flat-square&label=%E2%98%85&labelColor=24292f&color=30363d)](https://github.com/basnijholt/dotfiles) |
 | **[markdown-code-runner](https://github.com/basnijholt/markdown-code-runner)** | Execute hidden code blocks in-place to keep Markdown docs in sync. | [![Stars](https://img.shields.io/github/stars/basnijholt/markdown-code-runner?style=flat-square&label=%E2%98%85&labelColor=24292f&color=30363d)](https://github.com/basnijholt/markdown-code-runner) |
 
-## Topics & Writing
+## Latest Blog Posts
 
-| Area | Links |
-|---|---|
-| **AI & Agents** | [MindRoom](https://github.com/mindroom-ai/mindroom) · [Orchestrating orchestrators](https://www.nijho.lt/post/orchestrating-orchestrators/) |
-| **Homelab & Smart Home** | [Homelab guide](https://www.nijho.lt/post/homelab/) · [Home Assistant config](https://github.com/basnijholt/home-assistant-config) · NixOS & nix-darwin |
-| **Terminal & Tooling** | [Terminal Ninja](https://www.nijho.lt/post/terminal-ninja/) · [dotfiles](https://www.nijho.lt/post/dotfiles/) · [dotbins](https://www.nijho.lt/post/dotbins/) · [unidep](https://github.com/basnijholt/unidep) |
-| **Hardware & Photography** | [Glove80 split keyboard](https://www.nijho.lt/post/glove80-split-ergonomic-keyboard/) · [Landscape photography](https://www.instagram.com/bnijholt) |
-| **Physics & Finance** | [Quantum computing PhD](https://github.com/basnijholt/thesis) · [FIRE calculator](https://wenfire.nijho.lt/) |
+{% for post in blog_posts -%}
+- `{{ post.date }}` · [{{ post.title }}]({{ post.url }})
+{% endfor -%}
+
+<sub>All posts at <a href="https://www.nijho.lt/post/">nijho.lt/post</a> · Updated automatically from <a href="https://www.nijho.lt/post/index.xml">RSS</a>.</sub>
 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github.com/basnijholt/basnijholt/raw/main/stars_over_time.png" alt="Total GitHub stars over time" width="49%" />
-  <img src="https://github.com/basnijholt/basnijholt/raw/main/stars_over_time_per_repo.png" alt="GitHub stars over time per repository" width="49%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./stars_dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="./stars_light.png" />
+    <img alt="GitHub stars over time" src="./stars_light.png" width="100%" />
+  </picture>
 </p>
 
 ### Top 20 Repositories by Stars
