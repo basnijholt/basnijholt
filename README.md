@@ -14,7 +14,7 @@
   <a href="https://scholar.google.com/citations?user=nIO4EK4AAAAJ&hl">Google Scholar</a>
 </p>
 
-I started out doing a [PhD in computational quantum mechanics](https://github.com/basnijholt/thesis) at TU Delft, built quantum software at [Microsoft Quantum](https://quantum.microsoft.com/) and [IonQ](https://ionq.com/), and am now co-founder at a stealth AI company working on [MindRoom](https://github.com/mindroom-ai/mindroom). Most of what you see here exists because I wanted a tool for myself and could not stop tinkering once AI made shipping ten times faster.
+I started out doing a [PhD in computational quantum mechanics](https://github.com/basnijholt/thesis) at TU Delft, built quantum software at [Microsoft Quantum](https://quantum.microsoft.com/) and [IonQ](https://ionq.com/), and am now co-founder at a stealth AI company working on [MindRoom](https://github.com/mindroom-ai/mindroom). Most of what you see here started because I wanted a tool for myself and couldn't stop tinkering. That was already a problem before AI; AI just multiplied the output.
 
 <table>
 <tr>
