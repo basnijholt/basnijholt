@@ -46,7 +46,7 @@ I started out doing a [PhD in computational quantum mechanics](https://github.co
 <details>
 <summary>Top 20 repositories by stars</summary>
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3,599 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3,601 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1,980 ⭐️s
 3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1,800 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1,233 ⭐️s
@@ -55,13 +55,13 @@ I started out doing a [PhD in computational quantum mechanics](https://github.co
 7. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 493 ⭐️s
 8. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 481 ⭐️s
 9. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 410 ⭐️s
-10. [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom/), 390 ⭐️s
+10. [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom/), 403 ⭐️s
 11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 384 ⭐️s
 12. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 373 ⭐️s
 13. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 335 ⭐️s
 14. [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm/), 318 ⭐️s
 15. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 272 ⭐️s
-16. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 239 ⭐️s
+16. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 240 ⭐️s
 17. [basnijholt/dotfiles](https://github.com/basnijholt/dotfiles/), 166 ⭐️s
 18. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 137 ⭐️s
 19. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 113 ⭐️s
@@ -76,8 +76,8 @@ I started out doing a [PhD in computational quantum mechanics](https://github.co
 <td width="50%" valign="top">
 <strong>AI &amp; Agents</strong>
 <ul>
-<li><a href="https://github.com/mindroom-ai/mindroom"><strong>mindroom-ai/mindroom</strong></a> <code>★ 390</code><br><sub>AI agents that live in Matrix rooms and know your work. Open source, any model.</sub></li>
-<li><a href="https://github.com/basnijholt/agent-cli"><strong>agent-cli</strong></a> <code>★ 239</code><br><sub>Local voice dictation, TTS/STT servers, coding worktrees, and macOS app.</sub></li>
+<li><a href="https://github.com/mindroom-ai/mindroom"><strong>mindroom-ai/mindroom</strong></a> <code>★ 403</code><br><sub>AI agents that live in Matrix rooms and know your work. Open source, any model.</sub></li>
+<li><a href="https://github.com/basnijholt/agent-cli"><strong>agent-cli</strong></a> <code>★ 240</code><br><sub>Local voice dictation, TTS/STT servers, coding worktrees, and macOS app.</sub></li>
 </ul>
 </td>
 <td width="50%" valign="top">
@@ -137,4 +137,4 @@ I started out doing a [PhD in computational quantum mechanics](https://github.co
 
 ---
 
-<sub>Last updated 2026-11-25 · Generated automatically by <a href="./update-readme.ipynb">update-readme.ipynb</a> via <a href=".github/workflows/run-notebook.yml">GitHub Actions</a>.</sub>
+<sub>Last updated 2026-11-26 · Generated automatically by <a href="./update-readme.ipynb">update-readme.ipynb</a> via <a href=".github/workflows/run-notebook.yml">GitHub Actions</a>.</sub>
