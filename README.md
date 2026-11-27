@@ -46,22 +46,22 @@ I started out doing a [PhD in computational quantum mechanics](https://github.co
 <details>
 <summary>Top 20 repositories by stars</summary>
 
-1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3,601 ⭐️s
+1. [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting/), 3,604 ⭐️s
 2. [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config/), 1,980 ⭐️s
 3. [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa/), 1,800 ⭐️s
 4. [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive/), 1,233 ⭐️s
 5. [basnijholt/lovelace-ios-themes](https://github.com/basnijholt/lovelace-ios-themes/), 890 ⭐️s
 6. [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial/), 529 ⭐️s
 7. [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme/), 493 ⭐️s
-8. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 481 ⭐️s
+8. [pipefunc/pipefunc](https://github.com/pipefunc/pipefunc/), 482 ⭐️s
 9. [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py/), 410 ⭐️s
-10. [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom/), 403 ⭐️s
+10. [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom/), 409 ⭐️s
 11. [basnijholt/home-assistant-streamdeck-yaml](https://github.com/basnijholt/home-assistant-streamdeck-yaml/), 384 ⭐️s
 12. [basnijholt/miflora](https://github.com/basnijholt/miflora/), 373 ⭐️s
 13. [topocm/topocm_content](https://github.com/topocm/topocm_content/), 335 ⭐️s
 14. [basnijholt/compose-farm](https://github.com/basnijholt/compose-farm/), 318 ⭐️s
-15. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 272 ⭐️s
-16. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 240 ⭐️s
+15. [basnijholt/dotbins](https://github.com/basnijholt/dotbins/), 273 ⭐️s
+16. [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli/), 241 ⭐️s
 17. [basnijholt/dotfiles](https://github.com/basnijholt/dotfiles/), 166 ⭐️s
 18. [basnijholt/markdown-code-runner](https://github.com/basnijholt/markdown-code-runner/), 137 ⭐️s
 19. [kwant-project/kwant](https://github.com/kwant-project/kwant/), 113 ⭐️s
@@ -76,15 +76,15 @@ I started out doing a [PhD in computational quantum mechanics](https://github.co
 <td width="50%" valign="top">
 <strong>AI &amp; Agents</strong>
 <ul>
-<li><a href="https://github.com/mindroom-ai/mindroom"><strong>mindroom-ai/mindroom</strong></a> <code>★ 403</code><br><sub>AI agents that live in Matrix rooms and know your work. Open source, any model.</sub></li>
-<li><a href="https://github.com/basnijholt/agent-cli"><strong>agent-cli</strong></a> <code>★ 240</code><br><sub>Local voice dictation, TTS/STT servers, coding worktrees, and macOS app.</sub></li>
+<li><a href="https://github.com/mindroom-ai/mindroom"><strong>mindroom-ai/mindroom</strong></a> <code>★ 409</code><br><sub>AI agents that live in Matrix rooms and know your work. Open source, any model.</sub></li>
+<li><a href="https://github.com/basnijholt/agent-cli"><strong>agent-cli</strong></a> <code>★ 241</code><br><sub>Local voice dictation, TTS/STT servers, coding worktrees, and macOS app.</sub></li>
 </ul>
 </td>
 <td width="50%" valign="top">
 <strong>Scientific Python</strong>
 <ul>
 <li><a href="https://github.com/python-adaptive/adaptive"><strong>python-adaptive/adaptive</strong></a> <code>★ 1.2k</code><br><sub>Parallel active learning of mathematical functions.</sub></li>
-<li><a href="https://github.com/pipefunc/pipefunc"><strong>pipefunc/pipefunc</strong></a> <code>★ 481</code><br><sub>Lightweight pure-Python DAG pipelines for scientific &amp; HPC workflows.</sub></li>
+<li><a href="https://github.com/pipefunc/pipefunc"><strong>pipefunc/pipefunc</strong></a> <code>★ 482</code><br><sub>Lightweight pure-Python DAG pipelines for scientific &amp; HPC workflows.</sub></li>
 <li><a href="https://github.com/conda-incubator/unidep"><strong>conda-incubator/unidep</strong></a> <code>★ 243</code><br><sub>Unified pip + conda dependency management in one command.</sub></li>
 <li><a href="https://github.com/basnijholt/adaptive-scheduler"><strong>adaptive-scheduler</strong></a> <code>★ 32</code><br><sub>Massively parallel execution (&gt;10k-100k cores) on HPC clusters.</sub></li>
 </ul>
@@ -106,7 +106,7 @@ I started out doing a [PhD in computational quantum mechanics](https://github.co
 <li><a href="https://github.com/basnijholt/compose-farm"><strong>compose-farm</strong></a> <code>★ 318</code><br><sub>Multi-host Docker Compose over SSH. No agents, no Kubernetes.</sub></li>
 <li><a href="https://github.com/basnijholt/tuitorial"><strong>tuitorial</strong></a> <code>★ 529</code><br><sub>Interactive terminal code tutorials &amp; presentations.</sub></li>
 <li><a href="https://github.com/basnijholt/rsync-time-machine.py"><strong>rsync-time-machine.py</strong></a> <code>★ 410</code><br><sub>Minimalist Time Machine-style backups with rsync.</sub></li>
-<li><a href="https://github.com/basnijholt/dotbins"><strong>dotbins</strong></a> <code>★ 272</code><br><sub>Version-controlled CLI binaries across OSes &amp; architectures.</sub></li>
+<li><a href="https://github.com/basnijholt/dotbins"><strong>dotbins</strong></a> <code>★ 273</code><br><sub>Version-controlled CLI binaries across OSes &amp; architectures.</sub></li>
 <li><a href="https://github.com/basnijholt/dotfiles"><strong>dotfiles</strong></a> <code>★ 166</code><br><sub>NixOS, nix-darwin, and zsh powering &gt;15 machines.</sub></li>
 <li><a href="https://github.com/basnijholt/markdown-code-runner"><strong>markdown-code-runner</strong></a> <code>★ 137</code><br><sub>Execute code blocks in-place to keep Markdown in sync.</sub></li>
 </ul>
@@ -137,4 +137,4 @@ I started out doing a [PhD in computational quantum mechanics](https://github.co
 
 ---
 
-<sub>Last updated 2026-11-26 · Generated automatically by <a href="./update-readme.ipynb">update-readme.ipynb</a> via <a href=".github/workflows/run-notebook.yml">GitHub Actions</a>.</sub>
+<sub>Last updated 2026-11-27 · Generated automatically by <a href="./update-readme.ipynb">update-readme.ipynb</a> via <a href=".github/workflows/run-notebook.yml">GitHub Actions</a>.</sub>
